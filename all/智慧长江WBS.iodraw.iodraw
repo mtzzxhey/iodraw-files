@@ -7,9 +7,9 @@
         <mxCell id="slu8rnA3cvg0XhG48zag-1" value="经济智慧长江物流应用开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="30" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="slu8rnA3cvg0XhG48zag-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="slu8rnA3cvg0XhG48zag-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="slu8rnA3cvg0XhG48zag-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="170" as="sourcePoint" />
+            <mxPoint x="400" y="140" as="sourcePoint" />
             <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
