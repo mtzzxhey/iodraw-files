@@ -73,7 +73,7 @@
             <mxPoint x="770" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="slu8rnA3cvg0XhG48zag-26" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;3.0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;系统设计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="slu8rnA3cvg0XhG48zag-26" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;7.0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;试运行与维护&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="720" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
