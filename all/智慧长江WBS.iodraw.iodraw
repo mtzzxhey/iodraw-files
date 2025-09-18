@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="slu8rnA3cvg0XhG48zag-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="slu8rnA3cvg0XhG48zag-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="slu8rnA3cvg0XhG48zag-1" value="经济智慧长江物流应用开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="150" height="40" as="geometry" />
+          <mxGeometry x="325" y="30" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
