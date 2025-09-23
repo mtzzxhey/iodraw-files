@@ -42,6 +42,9 @@
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-81" value="[是]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="508" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oFmXJzkcv99Ja_6rTEHk-82" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="578" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
