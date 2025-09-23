@@ -29,11 +29,19 @@
             <mxPoint x="375" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oFmXJzkcv99Ja_6rTEHk-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oFmXJzkcv99Ja_6rTEHk-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-78" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="485" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-83" value="项目经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="485" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oFmXJzkcv99Ja_6rTEHk-100" value="[是]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="478" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
