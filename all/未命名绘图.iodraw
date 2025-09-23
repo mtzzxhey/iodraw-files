@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-67" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-68" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="oFmXJzkcv99Ja_6rTEHk-67" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oFmXJzkcv99Ja_6rTEHk-72" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
