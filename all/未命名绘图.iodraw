@@ -29,33 +29,11 @@
             <mxPoint x="375" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFmXJzkcv99Ja_6rTEHk-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-78" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="485" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-81" value="[是]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="540" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-82" value="[否]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="543" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-83" value="项目经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="485" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFmXJzkcv99Ja_6rTEHk-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-84" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="595" width="30" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFmXJzkcv99Ja_6rTEHk-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.954;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oFmXJzkcv99Ja_6rTEHk-78" target="oFmXJzkcv99Ja_6rTEHk-81">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
