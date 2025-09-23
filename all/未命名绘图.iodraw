@@ -18,6 +18,9 @@
         <mxCell id="oFmXJzkcv99Ja_6rTEHk-74" value="填写工时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oFmXJzkcv99Ja_6rTEHk-76" value="检查是否为项目工时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
