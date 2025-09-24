@@ -326,67 +326,67 @@
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-102">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65.30125" y="313.80451612903227" as="targetPoint" />
+            <mxPoint x="65.30125" y="343.80451612903227" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="18.6575" y="322.77225806451617" />
-              <mxPoint x="66.23412499999999" y="322.77225806451617" />
+              <mxPoint x="18.6575" y="352.77225806451617" />
+              <mxPoint x="66.23412499999999" y="352.77225806451617" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-102">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65.30125" y="367.61096774193555" as="targetPoint" />
+            <mxPoint x="65.30125" y="397.61096774193555" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="18.6575" y="367.61096774193555" />
+              <mxPoint x="18.6575" y="397.61096774193555" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-102" value="4.2&lt;div&gt;数据资源建设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry y="259.99806451612903" width="74.63" height="35.87096774193549" as="geometry" />
+          <mxGeometry y="289.99806451612903" width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-103" value="4.2.1&lt;div&gt;全球航运AIS数据购置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry x="65.30125" y="304.8367741935484" width="83.95875" height="44.83870967741935" as="geometry" />
+          <mxGeometry x="65.30125" y="334.8367741935484" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-104" value="&lt;div style=&quot;&quot;&gt;4.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;数据治理开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry x="65.30125" y="358.6432258064516" width="83.95875" height="44.83870967741935" as="geometry" />
+          <mxGeometry x="65.30125" y="388.6432258064516" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65.30124999999998" y="463.8064516129032" as="targetPoint" />
+            <mxPoint x="65.30124999999998" y="493.8064516129032" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="18.657500000000027" y="472.7741935483871" />
-              <mxPoint x="66.23412499999995" y="472.7741935483871" />
+              <mxPoint x="18.657500000000027" y="502.7741935483871" />
+              <mxPoint x="66.23412499999995" y="502.7741935483871" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65.30124999999998" y="517.6129032258065" as="targetPoint" />
+            <mxPoint x="65.30124999999998" y="547.6129032258065" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="18.657500000000027" y="517.6129032258065" />
+              <mxPoint x="18.657500000000027" y="547.6129032258065" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65.30124999999998" y="589.3548387096774" as="targetPoint" />
+            <mxPoint x="65.30124999999998" y="619.3548387096774" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="18.657500000000027" y="580.3870967741935" />
-              <mxPoint x="65.30124999999998" y="580.3870967741935" />
+              <mxPoint x="18.657500000000027" y="610.3870967741935" />
+              <mxPoint x="65.30124999999998" y="610.3870967741935" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-180" value="4.3&lt;div&gt;标准规范编制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry y="410" width="74.63" height="35.87096774193549" as="geometry" />
+          <mxGeometry y="440" width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-181" value="&lt;div style=&quot;&quot;&gt;4.3.1&lt;/div&gt;&lt;div style=&quot;&quot;&gt;业务类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry x="65.30124999999998" y="454.8387096774194" width="83.95875" height="44.83870967741935" as="geometry" />
+          <mxGeometry x="65.30124999999998" y="484.8387096774194" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-182" value="&lt;div style=&quot;&quot;&gt;4.3.2数据类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry x="65.30124999999998" y="508.64516129032256" width="83.95875" height="44.83870967741935" as="geometry" />
+          <mxGeometry x="65.30124999999998" y="538.6451612903226" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-183" value="&lt;div style=&quot;&quot;&gt;4.3.3&lt;/div&gt;&lt;div style=&quot;&quot;&gt;技术类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
-          <mxGeometry x="65.30124999999998" y="562.4516129032259" width="83.95875" height="44.83870967741935" as="geometry" />
+          <mxGeometry x="65.30124999999998" y="592.4516129032259" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-111" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="780" y="190" width="149.26" height="556" as="geometry" />
@@ -702,6 +702,18 @@
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-170" value="&lt;div style=&quot;&quot;&gt;1.3.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;报告审核与甲方签字确认&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-151">
           <mxGeometry x="65.30125" y="511.16129032258067" width="83.95875" height="44.83870967741935" as="geometry" />
+        </mxCell>
+        <mxCell id="l7M_lERkOmpkX8OeelD_-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645.30125" y="307.61290322580646" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598.6575" y="307.61290322580646" />
+            </Array>
+            <mxPoint x="599" y="236" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7M_lERkOmpkX8OeelD_-185" value="&lt;div style=&quot;&quot;&gt;4.1.2船舶在线排队应用开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645.30125" y="298.64516129032256" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
