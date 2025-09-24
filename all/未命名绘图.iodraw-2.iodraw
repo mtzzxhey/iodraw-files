@@ -690,26 +690,26 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-215" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="64.08352373698908" height="38.39371082545415" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-216" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-216" value="1.0&lt;div&gt;需求分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-225" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-226" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-227" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="490" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-228" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="650" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-229" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="850" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-230" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="1030" y="270" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
