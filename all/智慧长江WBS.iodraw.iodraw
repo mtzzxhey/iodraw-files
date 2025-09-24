@@ -4,6 +4,471 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-37" value="经济·智慧长江物流应用开发服务项目WBS" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="491" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-38" value="1.0 需求分析阶段（合同要求：签约后15日内提交《系统设计及功能确认报告》）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="653" y="712" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-39" value="1.1 业务需求调研" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="748" y="896" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-40" value="1.1.1 核心系统业务流程调研（含三峡过闸调度、船舶排队、智能导航等5大系统）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="495" y="940" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-41" value="1.1.2 对接系统需求调研（重庆国际贸易“单一窗口”、三峡局北斗系统/现有系统、渝快办）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="721" y="1013" width="213" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-42" value="1.1.3 用户需求调研（政府用户、船公司、货主、码头等角色操作需求）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="877" y="787" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-43" value="1.2 技术需求分析" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="359" y="812" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-44" value="1.2.1 信创需求确认（国产OS/数据库/中间件适配要求）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="899" width="207" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-45" value="1.2.2 接口技术需求（数据交换格式、实时通讯要求）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="533" y="822" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-46" value="1.2.3 性能需求明确（船舶数据承载量、计划编制误差等指标）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="43" y="815" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-47" value="1.3 需求文档输出" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452" y="767" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-48" value="1.3.1 编制《系统设计及功能确认报告》" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="149" y="729" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-49" value="1.3.2 报告审核与甲方签字确认" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="685" width="196" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-50" value="2.0 开发环境部署阶段（支撑后续编码与测试）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="623" y="459" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-51" value="2.1 硬件部署" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="442" y="397" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-52" value="2.1.1 应用服务器部署（2台，满足1路8核+32GB内存+1TB硬盘）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="351" width="214" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-53" value="2.1.2 数据库服务器部署（1台，满足1路8核+32GB内存+2TB硬盘）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="251" width="214" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-54" value="2.2 软件部署" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="573" y="382" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-55" value="2.2.1 国产软件安装（银河麒麟V10 OS、达梦DM8数据库、东方通TongWeb中间件）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="221" width="214" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-56" value="2.2.2 软件配置（数据库集群、读写分离、中间件兼容性配置）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="717" y="338" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-57" value="2.3 环境测试" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352" y="476" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-58" value="2.3.1 信创兼容性测试（硬件+软件适配验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="136" y="549" width="205" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-59" value="2.3.2 基础接口连通性测试（与三峡局/渝快办初步对接验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="449" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-60" value="3.0 系统设计阶段（为编码提供依据）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1208" y="773" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-61" value="3.1 总体架构设计" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1514" y="878" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-62" value="3.1.1 三层架构设计（用户层：PC端/移动端/大屏；应用层：5大核心系统；数据层：数据仓/业务库）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1771" y="888" width="215" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-63" value="3.1.2 安全架构设计（权限管理、数据加密、漏洞防护）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="767" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-64" value="3.2 核心子系统设计" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1223" y="955" width="159" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-65" value="3.2.1 三峡枢纽多模过闸调度系统设计（两坝匹配模型、检修/异常水文计划模型）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="1055" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-66" value="3.2.2 船舶在线排队应用设计（排队校验/改签补位模型、小程序/PC端界面）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="948" y="952" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-67" value="3.2.3 其余3大系统设计（智能导航、大宗散货服务、全程跟踪系统模块划分）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="854" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-68" value="3.3 数据与接口设计" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1333" y="906" width="159" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-69" value="3.3.1 数据设计（AIS数据模型、数据仓分层设计、业务规则库）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="947" width="219" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-70" value="3.3.2 接口设计（三峡局过闸数据接口、单一窗口航运数据接口、北斗终端对接接口）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="1009" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-71" value="4.0 编码实现阶段（核心开发任务）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="970" y="339" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-72" value="4.1 核心子系统开发" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="288" width="159" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-73" value="4.1.1 三峡枢纽多模过闸调度系统开发（调度规则体系、滚动计划编制功能）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="383" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-74" value="4.1.2 船舶在线排队应用开发（排队模型、小程序、PC端/三峡局内网端功能）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1477" y="119" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-75" value="4.1.3 长江物流智能导航应用开发（电子航道图、水文气象管理、导航服务功能）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="941" y="238" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-76" value="4.1.4 大宗散货水运物流服务系统开发（船舶运力/装卸管理、码头调度/结算功能）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="198" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-77" value="4.1.5 智慧长江物流全程跟踪应用开发（PC端/移动端可视跟踪、船货关联功能）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1422" y="305" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-78" value="4.2 数据资源建设" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="201" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-79" value="4.2.1 全球航运AIS数据购置（船舶信息、定位数据等）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="99" width="218" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-80" value="4.2.2 数据治理开发（数据仓治理、三级治理中心接口、渝快办接口开发）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="20" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-81" value="4.3 标准规范编制" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="221" width="143" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-82" value="4.3.1 业务类规范（共舱配载规范、船舶过闸排队规范、三船诚信规范）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="709" y="44" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-83" value="4.3.2 数据类规范（主数据规范、数据交换规范、物流环境资源编码规范）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="482" y="114" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-84" value="4.3.3 技术类规范（数据采集/传输规范、数据质量管理规范）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="934" y="123" width="212" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-85" value="5.0 系统测试阶段（保障系统达标）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="686" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-86" value="5.1 基础测试" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1138" y="727" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-87" value="5.1.1 单元测试（各模块功能正确性验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="618" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-88" value="5.1.2 集成测试（系统间数据流转、接口调用验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="885" y="686" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-89" value="5.2 专项测试" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1659" y="723" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-90" value="5.2.1 第三方功能测评（按合同要求验证5大系统功能达标）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1881" y="726" width="213" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-91" value="5.2.2 第三方性能测评（船舶数据承载、计划编制效率验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="804" width="213" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-92" value="5.2.3 第三方安全测评（渗透测试、漏洞扫描、数据安全验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="622" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-93" value="5.3 初验准备" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="670" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-94" value="5.3.1 编制《系统测试方案》《测试报告》" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="556" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-95" value="5.3.2 整理测试数据与问题整改记录" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="579" width="213" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-96" value="6.0 用户验收阶段（按合同流程推进）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="743" y="544" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-97" value="6.1 初验环节" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="975" y="526" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-98" value="6.1.1 提交初验申请与验收资料（测试报告、功能文档）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="492" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-99" value="6.1.2 组织甲方开展初验（现场测试、需求符合性核查）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="934" y="428" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-100" value="6.1.3 初验问题整改与复验" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="826" y="631" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-101" value="6.2 终验环节" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="596" y="545" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-102" value="6.2.1 试运行90天后提交终验申请（试运行报告、整改记录）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="585" y="622" width="213" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-103" value="6.2.2 组织甲方开展终验（功能/性能/运维能力验证）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="594" width="204" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-104" value="6.2.3 签署《终验报告》" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="527" width="190" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-105" value="7.0 试运行与维护阶段（保障系统稳定运行）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="475" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-106" value="7.1 试运行管理" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1646" y="372" width="127" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-107" value="7.1.1 试运行部署（终验版本上线，覆盖4000+船舶数据、300+企业备案）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1651" y="221" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-108" value="7.1.2 试运行问题处理（24小时内响应，故障修复）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1882" y="305" width="213" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-109" value="7.2 质保期服务" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="550" width="128" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-110" value="7.2.1 软件升级（免费提供版本更新、功能优化）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2031" y="573" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-111" value="7.2.2 技术支持（电话咨询、现场故障处理）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2017" y="412" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-112" value="7.3 用户培训" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="500" width="111" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-113" value="7.3.1 分系统培训（三峡过闸调度系统60人次，其余系统240人次）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1786" y="391" width="213" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-114" value="7.3.2 培训资料编制（操作手册、维护手册）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1903" y="488" width="212" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-115" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-116" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-117" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-118" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-119" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-120" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-121" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-37" target="E3XPNWaoSY0khUcj4KH1-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-122" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-38" target="E3XPNWaoSY0khUcj4KH1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-123" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-38" target="E3XPNWaoSY0khUcj4KH1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-124" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-38" target="E3XPNWaoSY0khUcj4KH1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-125" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-39" target="E3XPNWaoSY0khUcj4KH1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-126" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-39" target="E3XPNWaoSY0khUcj4KH1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-127" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-39" target="E3XPNWaoSY0khUcj4KH1-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-128" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-43" target="E3XPNWaoSY0khUcj4KH1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-129" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-43" target="E3XPNWaoSY0khUcj4KH1-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-130" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-43" target="E3XPNWaoSY0khUcj4KH1-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-131" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-47" target="E3XPNWaoSY0khUcj4KH1-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-132" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-47" target="E3XPNWaoSY0khUcj4KH1-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-133" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-50" target="E3XPNWaoSY0khUcj4KH1-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-134" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-50" target="E3XPNWaoSY0khUcj4KH1-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-135" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-50" target="E3XPNWaoSY0khUcj4KH1-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-136" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-51" target="E3XPNWaoSY0khUcj4KH1-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-137" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-51" target="E3XPNWaoSY0khUcj4KH1-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-138" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-54" target="E3XPNWaoSY0khUcj4KH1-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-139" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-54" target="E3XPNWaoSY0khUcj4KH1-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-140" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-57" target="E3XPNWaoSY0khUcj4KH1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-141" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-57" target="E3XPNWaoSY0khUcj4KH1-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-142" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-60" target="E3XPNWaoSY0khUcj4KH1-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-143" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-60" target="E3XPNWaoSY0khUcj4KH1-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-144" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-60" target="E3XPNWaoSY0khUcj4KH1-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-145" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-61" target="E3XPNWaoSY0khUcj4KH1-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-146" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-61" target="E3XPNWaoSY0khUcj4KH1-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-147" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-64" target="E3XPNWaoSY0khUcj4KH1-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-148" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-64" target="E3XPNWaoSY0khUcj4KH1-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-149" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-64" target="E3XPNWaoSY0khUcj4KH1-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-150" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-68" target="E3XPNWaoSY0khUcj4KH1-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-151" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-68" target="E3XPNWaoSY0khUcj4KH1-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-152" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-71" target="E3XPNWaoSY0khUcj4KH1-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-153" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-71" target="E3XPNWaoSY0khUcj4KH1-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-154" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-71" target="E3XPNWaoSY0khUcj4KH1-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-155" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-72" target="E3XPNWaoSY0khUcj4KH1-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-156" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-72" target="E3XPNWaoSY0khUcj4KH1-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-157" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-72" target="E3XPNWaoSY0khUcj4KH1-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-158" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-72" target="E3XPNWaoSY0khUcj4KH1-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-159" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-72" target="E3XPNWaoSY0khUcj4KH1-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-160" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-78" target="E3XPNWaoSY0khUcj4KH1-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-161" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-78" target="E3XPNWaoSY0khUcj4KH1-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-162" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-81" target="E3XPNWaoSY0khUcj4KH1-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-163" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-81" target="E3XPNWaoSY0khUcj4KH1-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-164" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-81" target="E3XPNWaoSY0khUcj4KH1-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-165" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-85" target="E3XPNWaoSY0khUcj4KH1-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-166" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-85" target="E3XPNWaoSY0khUcj4KH1-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-167" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-85" target="E3XPNWaoSY0khUcj4KH1-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-168" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-86" target="E3XPNWaoSY0khUcj4KH1-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-169" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-86" target="E3XPNWaoSY0khUcj4KH1-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-170" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-89" target="E3XPNWaoSY0khUcj4KH1-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-171" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-89" target="E3XPNWaoSY0khUcj4KH1-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-172" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-89" target="E3XPNWaoSY0khUcj4KH1-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-173" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-93" target="E3XPNWaoSY0khUcj4KH1-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-174" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-93" target="E3XPNWaoSY0khUcj4KH1-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-175" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-96" target="E3XPNWaoSY0khUcj4KH1-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-176" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-96" target="E3XPNWaoSY0khUcj4KH1-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-177" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-97" target="E3XPNWaoSY0khUcj4KH1-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-178" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-97" target="E3XPNWaoSY0khUcj4KH1-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-179" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-97" target="E3XPNWaoSY0khUcj4KH1-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-180" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-101" target="E3XPNWaoSY0khUcj4KH1-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-181" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-101" target="E3XPNWaoSY0khUcj4KH1-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-182" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-101" target="E3XPNWaoSY0khUcj4KH1-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-183" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-105" target="E3XPNWaoSY0khUcj4KH1-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-184" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-105" target="E3XPNWaoSY0khUcj4KH1-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-185" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-105" target="E3XPNWaoSY0khUcj4KH1-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-186" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-106" target="E3XPNWaoSY0khUcj4KH1-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-187" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-106" target="E3XPNWaoSY0khUcj4KH1-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-188" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-109" target="E3XPNWaoSY0khUcj4KH1-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-189" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-109" target="E3XPNWaoSY0khUcj4KH1-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-190" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-112" target="E3XPNWaoSY0khUcj4KH1-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XPNWaoSY0khUcj4KH1-191" style="endArrow=none;rounded=0;" edge="1" parent="1" source="E3XPNWaoSY0khUcj4KH1-112" target="E3XPNWaoSY0khUcj4KH1-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
