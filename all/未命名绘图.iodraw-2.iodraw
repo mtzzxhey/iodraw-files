@@ -702,8 +702,14 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-225" value="2.0&lt;div&gt;开发环境部署&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="l7M_lERkOmpkX8OeelD_-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l7M_lERkOmpkX8OeelD_-226" target="l7M_lERkOmpkX8OeelD_-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-226" value="3.0&lt;div&gt;系统设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l7M_lERkOmpkX8OeelD_-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l7M_lERkOmpkX8OeelD_-227" target="l7M_lERkOmpkX8OeelD_-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-227" value="4.0&lt;div&gt;编码实现&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="80" height="50" as="geometry" />
