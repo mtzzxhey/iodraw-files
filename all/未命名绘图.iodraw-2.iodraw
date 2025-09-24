@@ -472,7 +472,7 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-123" value="5.2.1&lt;div&gt;第三方功能测评&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
           <mxGeometry x="65.30125" y="251.0967741935484" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-124" value="&lt;div style=&quot;&quot;&gt;1.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;接口技术需求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-124" value="&lt;div style=&quot;&quot;&gt;5.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;第三方性能测评&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
           <mxGeometry x="65.30125" y="304.9032258064516" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-125" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.3.1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;性能需求明确&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
