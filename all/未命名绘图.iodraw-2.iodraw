@@ -693,10 +693,10 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-216" value="1.0&lt;div&gt;需求分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-225" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-225" value="2.0&lt;div&gt;开发环境部署&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-226" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-226" value="3.0&lt;div&gt;系统设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-227" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
