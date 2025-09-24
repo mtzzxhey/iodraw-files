@@ -248,10 +248,10 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-82" value="3.2&lt;div&gt;核心子系统设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
           <mxGeometry y="206.25806451612902" width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-83" value="3.2.1&lt;div&gt;三峡枢纽多模过闸调度系统设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-83" value="3.2.1&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;三峡枢纽多模过闸调度系统设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
           <mxGeometry x="65.30125" y="251.0967741935484" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-84" value="&lt;div style=&quot;&quot;&gt;3.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;船舶在线排队应用设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-84" value="&lt;div style=&quot;&quot;&gt;3.2.2&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;船舶在线排队应用设计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
           <mxGeometry x="65.30125" y="304.9032258064516" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-85" value="3.2.3&lt;div&gt;其余3大系统设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-71">
