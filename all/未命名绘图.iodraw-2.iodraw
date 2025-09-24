@@ -6,14 +6,14 @@
         <mxCell id="1" parent="0" />
         <mxCell id="l7M_lERkOmpkX8OeelD_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="l7M_lERkOmpkX8OeelD_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="350" as="targetPoint" />
+            <mxPoint x="310" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-1" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-4" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="310" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
