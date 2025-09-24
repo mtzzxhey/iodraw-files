@@ -372,6 +372,11 @@
             <mxPoint x="15.994576962544329" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hU7G60j8NV2o8ntuDAJr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-31.86256589459856" y="19.206896551724185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-95" value="4.1&lt;div&gt;核心子系统开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
           <mxGeometry width="64.08352373698908" height="38.39371082545416" as="geometry" />
         </mxCell>
@@ -775,7 +780,7 @@
         </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="l7M_lERkOmpkX8OeelD_-227">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="300" as="targetPoint" />
+            <mxPoint x="470" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-227" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;编码实现&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
