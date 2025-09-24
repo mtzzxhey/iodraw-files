@@ -216,6 +216,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hU7G60j8NV2o8ntuDAJr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-71" source="l7M_lERkOmpkX8OeelD_-75" target="l7M_lERkOmpkX8OeelD_-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-75" value="3.1&lt;div&gt;总体架构设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-71" vertex="1">
           <mxGeometry width="64.08352373698908" height="38.39371082545415" as="geometry" />
         </mxCell>
