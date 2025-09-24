@@ -501,7 +501,7 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-129" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;5.3.1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;编制《系统测试方案》&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
           <mxGeometry x="65.30125" y="457.35483870967744" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-130" value="&lt;div style=&quot;&quot;&gt;5.3.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;整理测试数据与问题整改记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-130" value="&lt;div style=&quot;&quot;&gt;5.3.2&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;整理测试数据与问题整改记录&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-111">
           <mxGeometry x="65.30125" y="511.16129032258067" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-131" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -533,7 +533,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-135" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-131">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-135" value="6.1&lt;div&gt;初验环节&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-131">
           <mxGeometry width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-136" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1.1&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;核心系统业务流程调研&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-131">
