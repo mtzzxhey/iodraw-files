@@ -6,10 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="l7M_lERkOmpkX8OeelD_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="l7M_lERkOmpkX8OeelD_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="320" as="targetPoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="330" />
-              <mxPoint x="161" y="330" />
+              <mxPoint x="120" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -17,7 +16,7 @@
           <mxGeometry x="100" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1.1&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;核心系统业务流程调研&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
