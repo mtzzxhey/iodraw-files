@@ -312,6 +312,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l7M_lERkOmpkX8OeelD_-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="19" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-95" value="4.1&lt;div&gt;核心子系统开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-91">
           <mxGeometry width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
