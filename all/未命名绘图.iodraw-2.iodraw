@@ -731,6 +731,12 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-239" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;经济智慧长江物流应用开发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="130" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hU7G60j8NV2o8ntuDAJr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14" y="612.3333333333334" as="targetPoint" />
+            <mxPoint x="35" y="612.1968554127271" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
