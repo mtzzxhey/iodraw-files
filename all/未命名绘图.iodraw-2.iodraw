@@ -109,10 +109,10 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-25" value="1.3&lt;div&gt;需求文档输出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-26" value="1.3.1&lt;div&gt;编制《系统设计及功能确认报告》&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-26" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1.3.1&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;编制《系统设计及功能确认报告》&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="310" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-27" value="&lt;div style=&quot;&quot;&gt;1.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;接口技术需求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l7M_lERkOmpkX8OeelD_-27" value="&lt;div style=&quot;&quot;&gt;1.3.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;报告审核与甲方签字确认&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.3.1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;性能需求明确&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
