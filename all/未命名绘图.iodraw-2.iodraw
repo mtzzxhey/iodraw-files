@@ -691,7 +691,7 @@
           <mxGeometry x="10" y="380" width="64.08352373698908" height="38.39371082545415" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-216" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="64.08352373698908" height="38.39371082545415" as="geometry" />
+          <mxGeometry x="30" y="280" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-217" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="64.08352373698908" height="38.39371082545415" as="geometry" />
@@ -709,7 +709,7 @@
           <mxGeometry x="850" y="280" width="64.08352373698908" height="38.39371082545415" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-222" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="280" width="64.08352373698908" height="38.39371082545415" as="geometry" />
+          <mxGeometry x="1030" y="280" width="64.08352373698908" height="38.39371082545415" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
