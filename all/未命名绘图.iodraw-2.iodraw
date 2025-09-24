@@ -5,109 +5,109 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="l7M_lERkOmpkX8OeelD_-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="94" width="170" height="606" as="geometry" />
+          <mxGeometry x="105.37" y="220" width="149.26" height="556" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="58.645161290322584" as="targetPoint" />
+            <mxPoint x="65.30125" y="53.806451612903224" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="68.41935483870968" />
-              <mxPoint x="75.4375" y="68.41935483870968" />
+              <mxPoint x="18.6575" y="62.7741935483871" />
+              <mxPoint x="66.23412499999999" y="62.7741935483871" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="117.29032258064517" as="targetPoint" />
+            <mxPoint x="65.30125" y="107.61290322580645" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="117.29032258064517" />
+              <mxPoint x="18.6575" y="107.61290322580645" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="195.48387096774192" as="targetPoint" />
+            <mxPoint x="65.30125" y="179.3548387096774" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="185.70967741935485" />
-              <mxPoint x="74.375" y="185.70967741935485" />
+              <mxPoint x="18.6575" y="170.38709677419357" />
+              <mxPoint x="65.30125" y="170.38709677419357" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-1" value="1.1&lt;div&gt;业务需求调研&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry width="85" height="39.096774193548384" as="geometry" />
+          <mxGeometry width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1.1&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;核心系统业务流程调研&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="48.87096774193548" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="44.83870967741935" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1.2&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;对接业务需求调研&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="107.51612903225806" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="98.64516129032259" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1.3&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;用户需求调研调研&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="166.16129032258064" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="152.4516129032258" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="283.4516129032258" as="targetPoint" />
+            <mxPoint x="65.30125" y="260.06451612903226" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="293.2258064516129" />
-              <mxPoint x="75.4375" y="293.2258064516129" />
+              <mxPoint x="18.6575" y="269.03225806451616" />
+              <mxPoint x="66.23412499999999" y="269.03225806451616" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="342.0967741935484" as="targetPoint" />
+            <mxPoint x="65.30125" y="313.87096774193554" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="342.0967741935484" />
+              <mxPoint x="18.6575" y="313.87096774193554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="420.2903225806452" as="targetPoint" />
+            <mxPoint x="65.30125" y="385.61290322580646" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="410.51612903225805" />
-              <mxPoint x="74.375" y="410.51612903225805" />
+              <mxPoint x="18.6575" y="376.64516129032256" />
+              <mxPoint x="65.30125" y="376.64516129032256" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-18" value="1.2&lt;div&gt;技术需求分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry y="224.80645161290323" width="85" height="39.096774193548384" as="geometry" />
+          <mxGeometry y="206.25806451612902" width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.2.1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;信创需求确认&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="273.6774193548387" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="251.0967741935484" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-20" value="&lt;div style=&quot;&quot;&gt;1.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;接口技术需求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="332.3225806451613" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="304.9032258064516" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.3.1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;性能需求明确&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="390.96774193548384" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="358.7096774193548" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="508.258064516129" as="targetPoint" />
+            <mxPoint x="65.30125" y="466.3225806451613" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="518.0322580645161" />
-              <mxPoint x="75.4375" y="518.0322580645161" />
+              <mxPoint x="18.6575" y="475.2903225806451" />
+              <mxPoint x="66.23412499999999" y="475.2903225806451" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="l7M_lERkOmpkX8OeelD_-30" source="l7M_lERkOmpkX8OeelD_-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74.375" y="566.9032258064516" as="targetPoint" />
+            <mxPoint x="65.30125" y="520.1290322580645" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="21.25" y="566.9032258064516" />
+              <mxPoint x="18.6575" y="520.1290322580645" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-25" value="1.3&lt;div&gt;需求文档输出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry y="449.61290322580646" width="85" height="39.096774193548384" as="geometry" />
+          <mxGeometry y="412.51612903225805" width="74.63" height="35.87096774193549" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-26" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1.3.1&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;编制《系统设计及功能确认报告》&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="498.48387096774195" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="457.35483870967744" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-27" value="&lt;div style=&quot;&quot;&gt;1.3.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;报告审核与甲方签字确认&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l7M_lERkOmpkX8OeelD_-30">
-          <mxGeometry x="74.375" y="557.1290322580645" width="95.625" height="48.87096774193548" as="geometry" />
+          <mxGeometry x="65.30125" y="511.16129032258067" width="83.95875" height="44.83870967741935" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
