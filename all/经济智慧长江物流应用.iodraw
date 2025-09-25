@@ -355,11 +355,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-95" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="57.133083269865324" y="313.9967321789013" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-31.86256589459856" y="19.206896551724185" as="targetPoint" />
@@ -451,9 +446,6 @@
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-183" value="&lt;div style=&quot;&quot;&gt;4.3.3&lt;/div&gt;&lt;div style=&quot;&quot;&gt;技术类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
           <mxGeometry x="56.07308326986545" y="679.1177095506213" width="72.09396420411272" height="47.99213853181768" as="geometry" />
-        </mxCell>
-        <mxCell id="l7M_lERkOmpkX8OeelD_-187" value="&lt;div style=&quot;&quot;&gt;4.1.4大宗散货水运物流服务系统开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986545" y="224.7706629129926" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-111" value="" style="group" parent="l7M_lERkOmpkX8OeelD_-189" vertex="1" connectable="0">
           <mxGeometry x="664.1860281050729" width="128.16704747397816" height="595.1025177945393" as="geometry" />
