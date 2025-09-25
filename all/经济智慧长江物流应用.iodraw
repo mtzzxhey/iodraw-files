@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="RPJbDQl11uZ1eQL2LAWQ">
-    <mxGraphModel dx="850" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,78 +366,78 @@
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56.07308326986546" y="411.9836927653245" as="targetPoint" />
+            <mxPoint x="56.07308326986546" y="309.9836927653245" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="16.02088093424727" y="421.58212047168803" />
-              <mxPoint x="56.87412731657781" y="421.58212047168803" />
+              <mxPoint x="16.02088093424727" y="319.58212047168803" />
+              <mxPoint x="56.87412731657781" y="319.58212047168803" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56.07308326986546" y="469.5742590035058" as="targetPoint" />
+            <mxPoint x="56.07308326986546" y="367.5742590035058" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="16.02088093424727" y="469.5742590035058" />
+              <mxPoint x="16.02088093424727" y="367.5742590035058" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-31.86256589459856" y="373.56818181818176" as="targetPoint" />
+            <mxPoint x="-31.86256589459856" y="271.56818181818176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-102" value="4.2&lt;div&gt;数据资源建设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry y="354.3931265271432" width="64.08352373698908" height="38.39371082545416" as="geometry" />
+          <mxGeometry y="252.39312652714318" width="64.08352373698908" height="38.39371082545416" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-103" value="4.2.1&lt;div&gt;全球航运AIS数据购置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986546" y="402.385265058961" width="72.09396420411272" height="47.99213853181768" as="geometry" />
+          <mxGeometry x="56.07308326986546" y="300.385265058961" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-104" value="&lt;div style=&quot;&quot;&gt;4.2.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;数据治理开发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986546" y="459.9758312971422" width="72.09396420411272" height="47.99213853181768" as="geometry" />
+          <mxGeometry x="56.07308326986546" y="357.9758312971422" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56.07308326986545" y="572.5350047806223" as="targetPoint" />
+            <mxPoint x="56.07308326986545" y="470.53500478062233" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="16.020880934247298" y="582.133432486986" />
-              <mxPoint x="56.87412731657778" y="582.133432486986" />
+              <mxPoint x="16.020880934247298" y="480.13343248698595" />
+              <mxPoint x="56.87412731657778" y="480.13343248698595" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56.07308326986545" y="630.1255710188036" as="targetPoint" />
+            <mxPoint x="56.07308326986545" y="528.1255710188036" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="16.020880934247298" y="630.1255710188036" />
+              <mxPoint x="16.020880934247298" y="528.1255710188036" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" source="l7M_lERkOmpkX8OeelD_-180" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56.07308326986545" y="706.9129926697121" as="targetPoint" />
+            <mxPoint x="56.07308326986545" y="604.9129926697121" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="16.020880934247298" y="697.3145649633484" />
-              <mxPoint x="56.07308326986545" y="697.3145649633484" />
+              <mxPoint x="16.020880934247298" y="595.3145649633484" />
+              <mxPoint x="56.07308326986545" y="595.3145649633484" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-31.86256589459856" y="538.1363636363635" as="targetPoint" />
-            <mxPoint y="538.1412939551683" as="sourcePoint" />
+            <mxPoint x="-31.86256589459856" y="436.1363636363635" as="targetPoint" />
+            <mxPoint y="436.1412939551683" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-180" value="4.3&lt;div&gt;标准规范编制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry y="514.9444385424412" width="64.08352373698908" height="38.39371082545416" as="geometry" />
+          <mxGeometry y="412.94443854244116" width="64.08352373698908" height="38.39371082545416" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-181" value="&lt;div style=&quot;&quot;&gt;4.3.1&lt;/div&gt;&lt;div style=&quot;&quot;&gt;业务类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986545" y="562.9365770742588" width="72.09396420411272" height="47.99213853181768" as="geometry" />
+          <mxGeometry x="56.07308326986545" y="460.9365770742588" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-182" value="&lt;div style=&quot;&quot;&gt;4.3.2数据类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986545" y="620.5271433124401" width="72.09396420411272" height="47.99213853181768" as="geometry" />
+          <mxGeometry x="56.07308326986545" y="518.5271433124401" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-183" value="&lt;div style=&quot;&quot;&gt;4.3.3&lt;/div&gt;&lt;div style=&quot;&quot;&gt;技术类规范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
-          <mxGeometry x="56.07308326986545" y="678.1177095506213" width="72.09396420411272" height="47.99213853181768" as="geometry" />
+          <mxGeometry x="56.07308326986545" y="576.1177095506213" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-111" value="" style="group" parent="l7M_lERkOmpkX8OeelD_-189" vertex="1" connectable="0">
           <mxGeometry x="664.1860281050729" width="128.16704747397816" height="595.1025177945393" as="geometry" />
