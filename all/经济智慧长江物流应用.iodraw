@@ -423,8 +423,8 @@
         </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="l7M_lERkOmpkX8OeelD_-91" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-31.86256589459856" y="436.1363636363635" as="targetPoint" />
-            <mxPoint y="436.1412939551683" as="sourcePoint" />
+            <mxPoint x="-31.86256589459856" y="435.1363636363635" as="targetPoint" />
+            <mxPoint y="435.1412939551683" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-180" value="4.3&lt;div&gt;标准规范编制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-91" vertex="1">
@@ -817,7 +817,7 @@
         </mxCell>
         <mxCell id="hU7G60j8NV2o8ntuDAJr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="l7M_lERkOmpkX8OeelD_-227" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="820" as="targetPoint" />
+            <mxPoint x="470" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-227" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;编码实现&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
