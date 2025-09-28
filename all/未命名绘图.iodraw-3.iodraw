@@ -37,7 +37,7 @@
         <mxCell id="53YSwLDJ8YmC97hFoSCy-59" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry x="74.99999999999955" y="190" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="53YSwLDJ8YmC97hFoSCy-60" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="53YSwLDJ8YmC97hFoSCy-59" parent="53YSwLDJ8YmC97hFoSCy-43">
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-60" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="53YSwLDJ8YmC97hFoSCy-59" parent="53YSwLDJ8YmC97hFoSCy-43" target="53YSwLDJ8YmC97hFoSCy-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174.99999999999955" y="270" as="targetPoint" />
           </mxGeometry>
