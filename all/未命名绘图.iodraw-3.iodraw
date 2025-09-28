@@ -64,7 +64,7 @@
             <mxPoint x="319.99999999999955" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53YSwLDJ8YmC97hFoSCy-108" value="支付超时/失败" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="53YSwLDJ8YmC97hFoSCy-43">
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-108" value="支付超时/失败" style="edgeStyle=elbowEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;elbow=vertical;" edge="1" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="85.99999999999955" y="400" as="targetPoint" />
             <mxPoint x="85.99999999999955" y="340" as="sourcePoint" />
