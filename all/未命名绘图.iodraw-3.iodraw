@@ -21,9 +21,12 @@
         <mxCell id="53YSwLDJ8YmC97hFoSCy-53" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry x="19.999999999999545" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="53YSwLDJ8YmC97hFoSCy-54" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;strokeColor=#ff0000;rounded=0;shape=flexArrow;" edge="1" source="53YSwLDJ8YmC97hFoSCy-53" parent="53YSwLDJ8YmC97hFoSCy-43">
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-54" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;strokeColor=#ff0000;rounded=0;" edge="1" source="53YSwLDJ8YmC97hFoSCy-53" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79.99999999999955" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-44" value="系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-42">
