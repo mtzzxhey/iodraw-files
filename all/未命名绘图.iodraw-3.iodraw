@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="53YSwLDJ8YmC97hFoSCy-42" value="客户下单" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320.00000000000045" y="240" width="550" height="480" as="geometry" />
+          <mxGeometry x="180.00000000000045" y="240" width="550" height="480" as="geometry" />
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-43" value="客户" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-42">
           <mxGeometry y="20" width="310" height="460" as="geometry" />
@@ -39,6 +39,14 @@
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-45" value="供货商" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-42">
           <mxGeometry x="430" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-59" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-60" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="53YSwLDJ8YmC97hFoSCy-59" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
