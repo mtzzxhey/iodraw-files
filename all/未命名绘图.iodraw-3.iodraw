@@ -26,7 +26,7 @@
             <mxPoint x="59.999999999999545" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53YSwLDJ8YmC97hFoSCy-57" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-43">
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-57" value="选择支付方式" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry x="19.999999999999545" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-58" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" source="53YSwLDJ8YmC97hFoSCy-57" parent="53YSwLDJ8YmC97hFoSCy-43">
