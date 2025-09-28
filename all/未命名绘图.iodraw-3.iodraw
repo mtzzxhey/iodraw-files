@@ -67,6 +67,11 @@
         <mxCell id="53YSwLDJ8YmC97hFoSCy-108" value="支付超时/失败" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="53YSwLDJ8YmC97hFoSCy-106" parent="53YSwLDJ8YmC97hFoSCy-43">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="85.99999999999955" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="370" />
+              <mxPoint x="87" y="370" />
+              <mxPoint x="87" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-44" value="系统" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-42">
