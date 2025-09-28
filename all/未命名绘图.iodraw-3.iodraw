@@ -73,13 +73,9 @@
         <mxCell id="53YSwLDJ8YmC97hFoSCy-44" value="系统" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-42">
           <mxGeometry x="250" y="20" width="120" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="53YSwLDJ8YmC97hFoSCy-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="53YSwLDJ8YmC97hFoSCy-44" source="53YSwLDJ8YmC97hFoSCy-64">
+        <mxCell id="53YSwLDJ8YmC97hFoSCy-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="53YSwLDJ8YmC97hFoSCy-44" source="53YSwLDJ8YmC97hFoSCy-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59.999999999999545" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="41" y="268" />
-              <mxPoint x="60" y="268" />
-            </Array>
+            <mxPoint x="69.99999999999955" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="53YSwLDJ8YmC97hFoSCy-64" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;生成送货清单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;labelBackgroundColor=none;" vertex="1" parent="53YSwLDJ8YmC97hFoSCy-44">
