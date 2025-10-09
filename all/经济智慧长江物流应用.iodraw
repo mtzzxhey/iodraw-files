@@ -1036,6 +1036,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KvELyaDApknHAeilKHXd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="8TEcICKp5-u65DADkAzC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvELyaDApknHAeilKHXd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8TEcICKp5-u65DADkAzC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8TEcICKp5-u65DADkAzC-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境测试&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330.0028571428571" y="671.8546153846154" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
