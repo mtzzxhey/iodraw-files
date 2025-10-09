@@ -888,7 +888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lB8nhPSvA8xFK7M15OBW" name="第 2 页">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1136,20 +1136,11 @@
         <mxCell id="AJ9kiz8psCzAeNSB7i8S-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;安全架构设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="629.9985714285715" y="810.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
-        <mxCell id="TwI1w8IN2b3wMJN5Tawr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iPmLdmCd11LMu1iQK8Uw-2" target="7m6bg8onbSh0xcqRxmAi-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iPmLdmCd11LMu1iQK8Uw-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;三峡枢纽多模过闸调度系统设计&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="709.9985714285715" y="633.1515384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
-        <mxCell id="TwI1w8IN2b3wMJN5Tawr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Wl_jtIU-4M3xuzs7XyR3-1" target="7m6bg8onbSh0xcqRxmAi-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Wl_jtIU-4M3xuzs7XyR3-1" value="船舶在线排队应用设计" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="791.5385714285715" y="633.1515384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
-        </mxCell>
-        <mxCell id="TwI1w8IN2b3wMJN5Tawr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Wl_jtIU-4M3xuzs7XyR3-3" target="7m6bg8onbSh0xcqRxmAi-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wl_jtIU-4M3xuzs7XyR3-3" value="长江物流智能导航应用设计" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="869.9985714285715" y="633.1515384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
