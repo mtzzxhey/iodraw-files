@@ -1068,8 +1068,15 @@
         <mxCell id="06uk9_9D8SKJQEJuiQMN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="06uk9_9D8SKJQEJuiQMN-1" target="06uk9_9D8SKJQEJuiQMN-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bamj6bJP-YIgL5z1_YLw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="06uk9_9D8SKJQEJuiQMN-1" target="ate6Cr-jBOnMxyQzIxpW-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bamj6bJP-YIgL5z1_YLw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.5373314337519" y="983.5390584718991" as="sourcePoint" />
+            <mxPoint x="590.7673314337519" y="738.5390584718994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="201" y="1022" />
+              <mxPoint x="591" y="1022" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="06uk9_9D8SKJQEJuiQMN-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;需求与环境准备完成&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="169.76857142857142" y="920.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
