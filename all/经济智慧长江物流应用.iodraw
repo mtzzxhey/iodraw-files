@@ -1094,7 +1094,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ate6Cr-jBOnMxyQzIxpW-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;总体架构设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="578.4585714285715" y="850.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="559.9985714285715" y="675.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="yHaEZ6e05ofEojsncDr--3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="ate6Cr-jBOnMxyQzIxpW-2" target="yHaEZ6e05ofEojsncDr--1">
           <mxGeometry relative="1" as="geometry" />
@@ -1118,10 +1118,10 @@
           <mxGeometry x="789.9985714285715" y="810.7715384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="AJ9kiz8psCzAeNSB7i8S-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;三层架构设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="499.9985714285715" y="760.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="489.9985714285715" y="585.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="AJ9kiz8psCzAeNSB7i8S-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;安全架构设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="639.9985714285715" y="760.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="629.9985714285715" y="585.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="iPmLdmCd11LMu1iQK8Uw-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;三峡枢纽多模过闸调度系统设计&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="709.9985714285715" y="709.2315384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
