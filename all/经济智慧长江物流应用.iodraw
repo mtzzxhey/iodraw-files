@@ -888,7 +888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lB8nhPSvA8xFK7M15OBW" name="第 2 页">
-    <mxGraphModel dx="2019" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="850" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,13 +911,13 @@
           <mxGeometry x="88.4628571428571" y="315.38461538461536" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="ZCAaVN5VJ-tD_8pX0UIp-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;对接业务需求调研&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="31.538571428571405" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="88.4585714285714" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="ZCAaVN5VJ-tD_8pX0UIp-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;核心业务流程调研&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50.00000000000001" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="9.999999999999993" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="HmaD51YdUDISy5HKjBGa-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;用户需求调研&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="111.5385714285714" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="169.9985714285714" y="438.4615384615384" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
