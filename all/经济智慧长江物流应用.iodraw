@@ -1251,6 +1251,9 @@
         <mxCell id="EE2PhA44X1fMi2yRI5-w-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="EE2PhA44X1fMi2yRI5-w-14" target="EE2PhA44X1fMi2yRI5-w-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EE2PhA44X1fMi2yRI5-w-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="EE2PhA44X1fMi2yRI5-w-14" target="EE2PhA44X1fMi2yRI5-w-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EE2PhA44X1fMi2yRI5-w-14" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;集成测试&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1369.9985714285715" y="120.00153846153853" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
