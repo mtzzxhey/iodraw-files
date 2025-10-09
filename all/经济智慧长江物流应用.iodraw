@@ -1154,8 +1154,14 @@
         <mxCell id="Wl_jtIU-4M3xuzs7XyR3-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;长江物流智能导航应用设计&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="869.9985714285715" y="648.4615384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
+        <mxCell id="UV9jUMT2n0zAJOJlaYcE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yHaEZ6e05ofEojsncDr--1" target="UV9jUMT2n0zAJOJlaYcE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yHaEZ6e05ofEojsncDr--1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="931.5385714285715" y="774.6915384615386" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+        </mxCell>
+        <mxCell id="UV9jUMT2n0zAJOJlaYcE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yHaEZ6e05ofEojsncDr--4" target="UV9jUMT2n0zAJOJlaYcE-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yHaEZ6e05ofEojsncDr--4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;接口设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1081.5385714285715" y="774.6915384615386" width="61.537520010360815" height="61.537520010360815" as="geometry" />
@@ -1176,7 +1182,7 @@
           <mxGeometry x="791.5385714285715" y="540.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
         <mxCell id="UV9jUMT2n0zAJOJlaYcE-11" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据设计&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="931.5385714285715" y="660.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+          <mxGeometry x="1009.9985714285715" y="660.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
