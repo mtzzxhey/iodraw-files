@@ -1260,6 +1260,15 @@
         <mxCell id="EE2PhA44X1fMi2yRI5-w-22" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;集成测试&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1169.9985714285715" y="230.00153846153853" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
+        <mxCell id="EE2PhA44X1fMi2yRI5-w-23" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;集成测试&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1289.9985714285715" y="230.00153846153853" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+        </mxCell>
+        <mxCell id="EE2PhA44X1fMi2yRI5-w-24" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;集成测试&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1429.9985714285715" y="230.00153846153853" width="61.537520010360815" height="61.537520010360815" as="geometry" />
+        </mxCell>
+        <mxCell id="EE2PhA44X1fMi2yRI5-w-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EE2PhA44X1fMi2yRI5-w-23" target="EE2PhA44X1fMi2yRI5-w-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
