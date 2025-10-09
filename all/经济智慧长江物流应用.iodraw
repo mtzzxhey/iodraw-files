@@ -323,7 +323,7 @@
         <mxCell id="l7M_lERkOmpkX8OeelD_-90" value="&lt;div style=&quot;&quot;&gt;3.3.2&lt;/div&gt;&lt;div style=&quot;&quot;&gt;接口设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-71" vertex="1">
           <mxGeometry x="56.07308326986546" y="547.1103792627216" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
-        <mxCell id="iShfaF3u33xuEZgW9Y1G-27" value="&lt;div style=&quot;&quot;&gt;3.2.3&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;长江物流智能导航应用&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-71" vertex="1">
+        <mxCell id="iShfaF3u33xuEZgW9Y1G-27" value="&lt;div style=&quot;&quot;&gt;3.2.3&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;长江物流智能导航应用设计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="l7M_lERkOmpkX8OeelD_-71" vertex="1">
           <mxGeometry x="56.073083269865435" y="339.9965420163602" width="72.09396420411272" height="47.99213853181768" as="geometry" />
         </mxCell>
         <mxCell id="l7M_lERkOmpkX8OeelD_-91" value="" style="group" parent="l7M_lERkOmpkX8OeelD_-189" vertex="1" connectable="0">
@@ -1123,7 +1123,7 @@
         <mxCell id="Wl_jtIU-4M3xuzs7XyR3-1" value="船舶在线排队应用设计" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="809.9985714285715" y="720.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
-        <mxCell id="Wl_jtIU-4M3xuzs7XyR3-3" value="长江物流智能导航应用" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Wl_jtIU-4M3xuzs7XyR3-3" value="长江物流智能导航应用设计" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="889.9985714285715" y="720.0015384615385" width="61.537520010360815" height="61.537520010360815" as="geometry" />
         </mxCell>
       </root>
