@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-36" value="提示支付失败" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
-          <mxGeometry x="79.99999999999955" y="345" width="80" height="35" as="geometry" />
+          <mxGeometry x="79.99999999999955" y="372.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-38" target="6puVp2WN4Z2TtyO9XT2r-41" edge="1">
           <mxGeometry relative="1" as="geometry">
