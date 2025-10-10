@@ -140,7 +140,7 @@
             <mxPoint x="279.99999999999955" y="409.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-37" value="[支付失败]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-35" vertex="1" connectable="0">
+        <mxCell id="6puVp2WN4Z2TtyO9XT2r-37" value="[否]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-35" vertex="1" connectable="0">
           <mxGeometry x="-0.443" relative="1" as="geometry">
             <mxPoint x="-13" y="-10" as="offset" />
           </mxGeometry>
