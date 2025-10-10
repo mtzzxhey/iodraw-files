@@ -65,7 +65,7 @@
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-14" value="系统提示无余票" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
           <mxGeometry x="43.999999999999545" y="225" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AfT7AXOKCV5KgoghzpI2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-24" target="6puVp2WN4Z2TtyO9XT2r-41">
+        <mxCell id="AfT7AXOKCV5KgoghzpI2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-24" target="6puVp2WN4Z2TtyO9XT2r-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-24" value="提示信用不足" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
