@@ -92,11 +92,11 @@
           <mxGeometry x="169.99999999999955" y="265" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-22" target="6puVp2WN4Z2TtyO9XT2r-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-26" value="[不满足]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-25" vertex="1" connectable="0">
-          <mxGeometry x="-0.4223" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="385" />
+              <mxPoint x="205" y="385" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-28" value="生成订票记录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
@@ -171,7 +171,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AfT7AXOKCV5KgoghzpI2-2" value="[否]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="431.0833333333335" y="332.5952380952384" as="geometry" />
+          <mxGeometry x="431.0833333333335" y="332.5952380952384" as="geometry">
+            <mxPoint x="64" y="143" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
