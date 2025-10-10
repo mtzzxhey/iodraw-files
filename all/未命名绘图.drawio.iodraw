@@ -106,17 +106,8 @@
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-36" value="提示支付失败" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
           <mxGeometry x="79.99999999999955" y="372.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-38" target="6puVp2WN4Z2TtyO9XT2r-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AfT7AXOKCV5KgoghzpI2-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="6puVp2WN4Z2TtyO9XT2r-45">
-          <mxGeometry x="0.4728" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="AfT7AXOKCV5KgoghzpI2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-38" target="6puVp2WN4Z2TtyO9XT2r-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-38" value="修改机票状态" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-3" vertex="1">
           <mxGeometry x="19.999999999999545" y="425" width="80" height="40" as="geometry" />
