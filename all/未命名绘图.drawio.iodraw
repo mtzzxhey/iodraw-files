@@ -83,7 +83,7 @@
             <mxPoint x="129.99999999999955" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-30" value="[满足]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-29" vertex="1" connectable="0">
+        <mxCell id="6puVp2WN4Z2TtyO9XT2r-30" value="[是]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-29" vertex="1" connectable="0">
           <mxGeometry x="-0.1723" relative="1" as="geometry">
             <mxPoint x="-3" y="-9" as="offset" />
           </mxGeometry>
@@ -169,6 +169,9 @@
           <mxGeometry x="-0.1985" relative="1" as="geometry">
             <mxPoint x="-12" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AfT7AXOKCV5KgoghzpI2-2" value="[否]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="431.0833333333335" y="332.5952380952384" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
