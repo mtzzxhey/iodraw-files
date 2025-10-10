@@ -49,7 +49,7 @@
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-3" source="6puVp2WN4Z2TtyO9XT2r-12" target="6puVp2WN4Z2TtyO9XT2r-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-16" value="[无余票]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-15" vertex="1" connectable="0">
+        <mxCell id="6puVp2WN4Z2TtyO9XT2r-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-15" vertex="1" connectable="0">
           <mxGeometry x="-0.6574" y="3" relative="1" as="geometry">
             <mxPoint x="18" y="-4" as="offset" />
           </mxGeometry>
@@ -130,9 +130,9 @@
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-1" source="6puVp2WN4Z2TtyO9XT2r-12" target="6puVp2WN4Z2TtyO9XT2r-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6puVp2WN4Z2TtyO9XT2r-21" value="[有余票]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-20" vertex="1" connectable="0">
+        <mxCell id="6puVp2WN4Z2TtyO9XT2r-21" value="[是]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" parent="6puVp2WN4Z2TtyO9XT2r-20" vertex="1" connectable="0">
           <mxGeometry x="0.0217" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-20" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6puVp2WN4Z2TtyO9XT2r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="6puVp2WN4Z2TtyO9XT2r-1" source="6puVp2WN4Z2TtyO9XT2r-19" target="6puVp2WN4Z2TtyO9XT2r-22" edge="1">
