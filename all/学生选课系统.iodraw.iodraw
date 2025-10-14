@@ -28,7 +28,7 @@
         <mxCell id="ELlqMVfpzbBUrH7VHonm-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="ELlqMVfpzbBUrH7VHonm-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="ELlqMVfpzbBUrH7VHonm-17">
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="ELlqMVfpzbBUrH7VHonm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-9" value="教务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
