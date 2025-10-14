@@ -13,7 +13,7 @@
         <mxCell id="ELlqMVfpzbBUrH7VHonm-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="ELlqMVfpzbBUrH7VHonm-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="ELlqMVfpzbBUrH7VHonm-38">
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="ELlqMVfpzbBUrH7VHonm-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="ELlqMVfpzbBUrH7VHonm-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="ELlqMVfpzbBUrH7VHonm-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9">
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="270" as="targetPoint" />
           </mxGeometry>
