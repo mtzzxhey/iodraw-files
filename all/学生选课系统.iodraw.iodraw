@@ -11,7 +11,10 @@
           <mxGeometry x="45" y="170" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-9" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="370" width="40" height="80" as="geometry" />
+          <mxGeometry x="45" y="380" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
