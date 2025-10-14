@@ -67,7 +67,7 @@
           <mxGeometry x="222" y="318" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-44" value="教务管理习题" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="32" y="83" width="760" height="650" as="geometry" />
+          <mxGeometry x="30" y="90" width="762" height="643" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
