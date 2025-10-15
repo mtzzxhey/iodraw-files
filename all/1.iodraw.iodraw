@@ -158,6 +158,9 @@
         <mxCell id="BggLSVgPluFdPHQqQ-HB-38" value="交易申请单" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="560" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BggLSVgPluFdPHQqQ-HB-41" value="填写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
