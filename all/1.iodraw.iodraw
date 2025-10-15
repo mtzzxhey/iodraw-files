@@ -158,13 +158,13 @@
         <mxCell id="BggLSVgPluFdPHQqQ-HB-37" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="498" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BggLSVgPluFdPHQqQ-HB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BggLSVgPluFdPHQqQ-HB-38" target="BggLSVgPluFdPHQqQ-HB-41">
+        <mxCell id="BggLSVgPluFdPHQqQ-HB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="BggLSVgPluFdPHQqQ-HB-38" target="BggLSVgPluFdPHQqQ-HB-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BggLSVgPluFdPHQqQ-HB-38" value="交易申请单" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="560" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BggLSVgPluFdPHQqQ-HB-41" value="填写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BggLSVgPluFdPHQqQ-HB-41" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="545" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
