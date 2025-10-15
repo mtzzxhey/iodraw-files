@@ -74,8 +74,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BggLSVgPluFdPHQqQ-HB-1" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="110" height="50" as="geometry" />
+        <mxCell id="BggLSVgPluFdPHQqQ-HB-1" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
