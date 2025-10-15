@@ -90,7 +90,7 @@
           <mxGeometry x="40" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BggLSVgPluFdPHQqQ-HB-6" value="交易申请单" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="110" height="50" as="geometry" />
+          <mxGeometry x="490" y="320" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
