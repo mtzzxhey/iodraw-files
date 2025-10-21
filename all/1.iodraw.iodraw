@@ -40,6 +40,9 @@
         <mxCell id="370jH3q59c_W8441mhMc-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-2" target="370jH3q59c_W8441mhMc-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="370jH3q59c_W8441mhMc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-2" target="ELlqMVfpzbBUrH7VHonm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-2" value="会员&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-127" y="527" width="60" height="120" as="geometry" />
         </mxCell>
@@ -53,7 +56,7 @@
           <mxGeometry x="873" y="572" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-8" value="查询航班" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="257" width="130" height="65" as="geometry" />
+          <mxGeometry x="228" y="250" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-9" value="注册会员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="97" width="110" height="55" as="geometry" />
@@ -113,9 +116,6 @@
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-35" value="设置航班安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="517" width="110" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="370jH3q59c_W8441mhMc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-2" target="ELlqMVfpzbBUrH7VHonm-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
