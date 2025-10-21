@@ -83,6 +83,14 @@
         <mxCell id="370jH3q59c_W8441mhMc-21" value="退订机票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="490" width="110" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="370jH3q59c_W8441mhMc-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-23" target="370jH3q59c_W8441mhMc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="370jH3q59c_W8441mhMc-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="370jH3q59c_W8441mhMc-42">
+          <mxGeometry x="0.3444" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-23" value="改签" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="370" width="110" height="55" as="geometry" />
         </mxCell>
