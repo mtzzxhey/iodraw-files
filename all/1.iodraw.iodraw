@@ -19,6 +19,9 @@
         <mxCell id="370jH3q59c_W8441mhMc-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="370jH3q59c_W8441mhMc-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="370jH3q59c_W8441mhMc-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="370jH3q59c_W8441mhMc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-9" value="信用评价系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="295" width="60" height="120" as="geometry" />
         </mxCell>
@@ -53,7 +56,7 @@
           <mxGeometry x="195" y="35" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-17" value="购买机票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="110" height="55" as="geometry" />
+          <mxGeometry x="330" y="415" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-19" value="查看行程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="342.5" width="110" height="55" as="geometry" />
