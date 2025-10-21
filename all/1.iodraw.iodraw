@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ELlqMVfpzbBUrH7VHonm-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-20" width="780" height="780" as="geometry" />
+          <mxGeometry x="10" y="-12" width="780" height="780" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="370jH3q59c_W8441mhMc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-2" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="140" width="60" height="120" as="geometry" />
+          <mxGeometry x="-140" y="148" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="370jH3q59c_W8441mhMc-28">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-9" value="信用评价系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="90" width="60" height="120" as="geometry" />
+          <mxGeometry x="860" y="98" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-2" target="370jH3q59c_W8441mhMc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-2" value="会员&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="465" width="60" height="120" as="geometry" />
+          <mxGeometry x="-140" y="473" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-3" target="370jH3q59c_W8441mhMc-35">
           <mxGeometry relative="1" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-3" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="510" width="60" height="120" as="geometry" />
+          <mxGeometry x="860" y="518" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-8" value="查询航班" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="195" width="130" height="65" as="geometry" />
+          <mxGeometry x="215" y="203" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-9" value="注册会员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="35" width="110" height="55" as="geometry" />
+          <mxGeometry x="195" y="43" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-17" target="370jH3q59c_W8441mhMc-28">
           <mxGeometry relative="1" as="geometry" />
@@ -78,13 +78,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-17" value="购买机票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="110" height="55" as="geometry" />
+          <mxGeometry x="380" y="398" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-19" value="查看行程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="557" width="110" height="55" as="geometry" />
+          <mxGeometry x="330" y="565" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-21" value="退订机票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="480" width="110" height="55" as="geometry" />
+          <mxGeometry x="380" y="488" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-23" target="370jH3q59c_W8441mhMc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -95,13 +95,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-23" value="改签" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="355" width="110" height="55" as="geometry" />
+          <mxGeometry x="190" y="363" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-26" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="630" width="106.67" height="70" as="geometry" />
+          <mxGeometry x="215" y="638" width="106.67" height="70" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-28" value="检查信用等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="110" height="55" as="geometry" />
+          <mxGeometry x="530" y="178" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-30" target="370jH3q59c_W8441mhMc-21">
           <mxGeometry relative="1" as="geometry" />
@@ -112,10 +112,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-30" value="修改信用等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="110" height="55" as="geometry" />
+          <mxGeometry x="550" y="308" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-35" value="设置航班安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="455" width="110" height="55" as="geometry" />
+          <mxGeometry x="610" y="463" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
