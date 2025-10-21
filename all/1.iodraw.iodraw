@@ -7,8 +7,10 @@
         <mxCell id="ELlqMVfpzbBUrH7VHonm-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="148" width="520" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="ELlqMVfpzbBUrH7VHonm-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272" y="183" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;" parent="1" source="ELlqMVfpzbBUrH7VHonm-2" target="ELlqMVfpzbBUrH7VHonm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,9 +44,6 @@
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-17" value="删除课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="603" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-26" value="查询航班" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272" y="158" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-27" value="选课" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352" y="238" width="100" height="50" as="geometry" />
