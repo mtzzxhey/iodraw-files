@@ -43,7 +43,7 @@
         <mxCell id="ELlqMVfpzbBUrH7VHonm-17" value="删除课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="603" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ELlqMVfpzbBUrH7VHonm-26" value="查询已选课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ELlqMVfpzbBUrH7VHonm-26" value="查询航班" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="272" y="158" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-27" value="选课" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
