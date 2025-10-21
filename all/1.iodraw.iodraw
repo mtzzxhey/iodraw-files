@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-2" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="140" width="60" height="120" as="geometry" />
+          <mxGeometry x="-140" y="140" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELlqMVfpzbBUrH7VHonm-9" target="370jH3q59c_W8441mhMc-28">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELlqMVfpzbBUrH7VHonm-9" value="信用评价系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="295" width="60" height="120" as="geometry" />
+          <mxGeometry x="860" y="90" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="370jH3q59c_W8441mhMc-2" target="370jH3q59c_W8441mhMc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="330" y="270" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-28" value="检查信用等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="270" width="110" height="55" as="geometry" />
+          <mxGeometry x="530" y="170" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="370jH3q59c_W8441mhMc-30" value="修改信用等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="380" width="110" height="55" as="geometry" />
+          <mxGeometry x="550" y="300" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
