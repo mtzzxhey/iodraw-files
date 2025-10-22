@@ -272,10 +272,12 @@
         <mxCell id="scptTheqc3cEM6wdnFAm-6" value="审核通过" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="380" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="scptTheqc3cEM6wdnFAm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="scptTheqc3cEM6wdnFAm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="scptTheqc3cEM6wdnFAm-7" target="scptTheqc3cEM6wdnFAm-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="99.95" as="sourcePoint" />
-            <mxPoint x="385" y="103.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="50" />
+              <mxPoint x="395" y="50" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="scptTheqc3cEM6wdnFAm-7" value="审核不通过" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
