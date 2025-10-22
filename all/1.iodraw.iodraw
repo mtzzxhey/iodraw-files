@@ -302,6 +302,9 @@
         <mxCell id="scptTheqc3cEM6wdnFAm-21" value="待审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="218" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="scptTheqc3cEM6wdnFAm-25" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="48" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
