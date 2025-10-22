@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KuKKlBeoer_H-K5Q1RKp" name="第 3 页">
-    <mxGraphModel dx="977" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,11 +296,6 @@
         <mxCell id="scptTheqc3cEM6wdnFAm-9" value="提交交易申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="218" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="scptTheqc3cEM6wdnFAm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="scptTheqc3cEM6wdnFAm-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="764.1429290771484" y="782.0000534057617" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="scptTheqc3cEM6wdnFAm-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="752" y="745" width="30" height="30" as="geometry" />
         </mxCell>
@@ -314,7 +309,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scptTheqc3cEM6wdnFAm-27" value="结束" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702" y="600" width="130" height="80" as="geometry" />
+          <mxGeometry x="775" y="595" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
