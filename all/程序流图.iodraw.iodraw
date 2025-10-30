@@ -172,7 +172,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-29" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;enum&amp;gt;&amp;gt;&lt;/span&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;ServiceMethod&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="140" height="118" as="geometry" />
+          <mxGeometry x="175" y="550" width="140" height="118" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-30" value="+ Eatln:Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-29">
           <mxGeometry y="40" width="140" height="26" as="geometry" />
