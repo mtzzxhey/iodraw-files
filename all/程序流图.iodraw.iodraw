@@ -148,7 +148,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-21" value="&lt;div&gt;Drink&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="454" width="160" height="86" as="geometry" />
+          <mxGeometry x="750" y="460" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-22" value="- totalPrice:double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-21">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -190,9 +190,6 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;targetPerimeterSpacing=0;endSize=17;" edge="1" parent="1" source="werqN9M1J1HeeYlE1o0l-17" target="werqN9M1J1HeeYlE1o0l-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="werqN9M1J1HeeYlE1o0l-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="werqN9M1J1HeeYlE1o0l-21" target="werqN9M1J1HeeYlE1o0l-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
