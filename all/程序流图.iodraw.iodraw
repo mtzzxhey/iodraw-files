@@ -159,7 +159,7 @@
         <mxCell id="werqN9M1J1HeeYlE1o0l-30" value="+ Eatln:Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-29">
           <mxGeometry y="40" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="werqN9M1J1HeeYlE1o0l-31" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-29">
+        <mxCell id="werqN9M1J1HeeYlE1o0l-31" value="+ PickUp:Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-29">
           <mxGeometry y="66" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="werqN9M1J1HeeYlE1o0l-32" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="werqN9M1J1HeeYlE1o0l-29">
