@@ -41,7 +41,7 @@
           <mxGeometry y="270" width="440" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-11" value="Ticket" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="120" width="230" height="270" as="geometry" />
+          <mxGeometry x="740" y="160" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-12" value="- id: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-11">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry y="240" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-30" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="680" width="310" height="270" as="geometry" />
+          <mxGeometry x="180" y="660" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-31" value="- id: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-30">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry y="230" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-41" value="Flight" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="515" width="440" height="600" as="geometry" />
+          <mxGeometry x="660" y="530" width="440" height="620" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-42" value="- id: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
           <mxGeometry y="26" width="440" height="26" as="geometry" />
@@ -149,13 +149,13 @@
           <mxGeometry y="398" width="440" height="92" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-47" value="+ queryFlight(flightId: String, departure: String, destination: String, departTime: LocalDateTime): List&amp;lt;Flight&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
-          <mxGeometry y="490" width="440" height="40" as="geometry" />
+          <mxGeometry y="490" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-48" value="+ modifyFlight(flightId: String, updatedProps: Object[]): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
-          <mxGeometry y="530" width="440" height="30" as="geometry" />
+          <mxGeometry y="550" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SndIHXoDGk0PrPqTqWuq-49" value="+ deleteFlight(flightId: String): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
-          <mxGeometry y="560" width="440" height="40" as="geometry" />
+          <mxGeometry y="580" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
