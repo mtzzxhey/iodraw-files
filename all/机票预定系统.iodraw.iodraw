@@ -64,7 +64,7 @@
         <mxCell id="SndIHXoDGk0PrPqTqWuq-21" value="+ queryTicketInfo(ticketId: String): Ticket" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-11">
           <mxGeometry y="164" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SndIHXoDGk0PrPqTqWuq-28" value="+ queryTicketInfo(ticketId: String): Ticket" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-11">
+        <mxCell id="SndIHXoDGk0PrPqTqWuq-28" value="+ Book(userId: String, flightedId: ): Ticket" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-11">
           <mxGeometry y="190" width="230" height="26" as="geometry" />
         </mxCell>
       </root>
