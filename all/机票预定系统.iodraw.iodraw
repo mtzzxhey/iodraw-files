@@ -151,10 +151,10 @@
         <mxCell id="SndIHXoDGk0PrPqTqWuq-47" value="+ queryFlight(flightId: String, departure: String, destination: String, departTime: LocalDateTime): List&amp;lt;Flight&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
           <mxGeometry y="490" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SndIHXoDGk0PrPqTqWuq-48" value="+ manageFlights(operationType: String, flight: Flight): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
+        <mxCell id="SndIHXoDGk0PrPqTqWuq-48" value="+ modifyFlight(flightId: String, updatedProps: Object[]): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
           <mxGeometry y="530" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SndIHXoDGk0PrPqTqWuq-49" value="+ viewStats(): Stats" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
+        <mxCell id="SndIHXoDGk0PrPqTqWuq-49" value="+ deleteFlight(flightId: String): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SndIHXoDGk0PrPqTqWuq-41">
           <mxGeometry y="570" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
