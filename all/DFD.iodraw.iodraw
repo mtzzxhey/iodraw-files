@@ -242,10 +242,10 @@
           <mxGeometry x="1168" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-314" value="查询/筛选/分页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="913" y="225" width="173" height="48" as="geometry" />
+          <mxGeometry x="900" y="217" width="150" height="73" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-315" value="更正信息（限权）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1136" y="225" width="188" height="48" as="geometry" />
+          <mxGeometry x="1110" y="226" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-316" value="删除误录（高权限、留审计）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1374" y="217" width="252" height="66" as="geometry" />
