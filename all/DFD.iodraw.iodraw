@@ -434,12 +434,8 @@
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-13" value="失败或取消：保持未缴状态，可重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1969" y="217" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="134" y="93" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-2" target="tERHo2H3_VJ3zXLoaIEU-3">
           <mxGeometry relative="1" as="geometry">
