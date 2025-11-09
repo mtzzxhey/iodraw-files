@@ -16,16 +16,16 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-56" value="车辆违章管理系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="216" width="151" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-57" value="违章查询请求/罚款缴纳/申诉申请" style="startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.32;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-53" target="CL0yH4n-tVNIa7Lqh6ev-56">
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-57" value="" style="startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.32;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-53" target="CL0yH4n-tVNIa7Lqh6ev-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-58" value="违章详情/违章通知/缴款确认" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.9;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-53">
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-58" value="违章详情/违章通知/缴款确认" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.9;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="353" y="141" />
-              <mxPoint x="350" y="141" />
-              <mxPoint x="350" y="66" />
+              <mxPoint x="362" y="66" />
             </Array>
+            <mxPoint x="361.88000000000005" y="216" as="sourcePoint" />
+            <mxPoint x="381.99999999999994" y="66.00000000000011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-59" value="违章录入/类型维护/申诉处理" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.37;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-54" target="CL0yH4n-tVNIa7Lqh6ev-56">
