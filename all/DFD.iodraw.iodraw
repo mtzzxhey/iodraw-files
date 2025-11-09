@@ -340,13 +340,13 @@
           <mxGeometry x="906.25" y="341" width="133.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-8" value="停用/删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="118" width="133" height="48" as="geometry" />
+          <mxGeometry x="1265" y="210" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-9" value="引用检查：被引用则标记失效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="217" width="252" height="66" as="geometry" />
+          <mxGeometry x="1110" y="323" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-10" value="未引用可物理删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1451" y="225" width="189" height="48" as="geometry" />
+          <mxGeometry x="1372" y="317" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-11" value="查询与导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1710" y="118" width="140" height="48" as="geometry" />
