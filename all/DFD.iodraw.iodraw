@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-66" value="车主" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407" y="190" width="92" height="46" as="geometry" />
+          <mxGeometry x="160" y="180" width="92" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-67" value="交警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="683" y="190" width="92" height="46" as="geometry" />
@@ -45,13 +45,8 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-76" value="违章类型库" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="816" y="412" width="111" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-77" value="违章录入/类型维护" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-67" target="CL0yH4n-tVNIa7Lqh6ev-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="272" />
-              <mxPoint x="416" y="468" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-77" value="违章录入/类型维护" style="startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0;entryY=0.08;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-67" target="CL0yH4n-tVNIa7Lqh6ev-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-78" value="新增/修改违章类型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-67" target="CL0yH4n-tVNIa7Lqh6ev-70">
           <mxGeometry relative="1" as="geometry">
