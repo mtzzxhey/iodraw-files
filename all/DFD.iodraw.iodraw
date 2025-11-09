@@ -30,12 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-59" value="违章录入/类型维护/申诉处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.37;entryY=1;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-54" target="CL0yH4n-tVNIa7Lqh6ev-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="249" y="292" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-59" value="违章录入/类型维护/申诉处理" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.37;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-54" target="CL0yH4n-tVNIa7Lqh6ev-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-60" value="违章数据/处理结果" style="startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.15;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-54">
           <mxGeometry relative="1" as="geometry">
@@ -44,12 +40,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-61" value="支付请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="402" y="292" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-61" value="支付请求" style="startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.36;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-62" value="支付结果回调" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.81;entryY=1;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-55" target="CL0yH4n-tVNIa7Lqh6ev-56">
           <mxGeometry relative="1" as="geometry">
