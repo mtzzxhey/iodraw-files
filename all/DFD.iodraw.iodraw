@@ -391,12 +391,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dADf_9EiEHSv_AOIuOc3" name="第 4 页">
-    <mxGraphModel dx="1396" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xswt5sg5ciSkgzy2Nh8D-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="140" width="980" height="400" as="geometry" />
+          <mxGeometry x="100" y="140" width="980" height="400" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-1" value="违章罚款缴纳（车主）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
           <mxGeometry x="293.7048192771084" width="162.34939759036143" height="73.00380228136882" as="geometry" />
