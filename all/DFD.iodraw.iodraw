@@ -319,40 +319,40 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pknvddOVUsV2tEJMfhFk-1" value="违章类型管理（管理员）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="663" y="180" width="236" height="48" as="geometry" />
+          <mxGeometry x="543" y="180" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-2" value="新增类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="277" y="370" width="124" height="48" as="geometry" />
+          <mxGeometry x="157" y="370" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-3" value="录入：名称/代码/默认罚款/扣分/描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="517" width="123" height="66" as="geometry" />
+          <mxGeometry x="30" y="517" width="123" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-4" value="校验：代码唯一、数值范围" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="278.88" y="518.5" width="120.25" height="65" as="geometry" />
+          <mxGeometry x="158.88" y="518.5" width="120.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-5" value="入库：设为有效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="517" width="110" height="69" as="geometry" />
+          <mxGeometry x="290" y="517" width="110" height="69" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-6" value="修改类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="561" y="370" width="124" height="48" as="geometry" />
+          <mxGeometry x="441" y="370" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-7" value="编辑属性（保留审计轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="556.25" y="513" width="133.5" height="70" as="geometry" />
+          <mxGeometry x="436.25" y="513" width="133.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-8" value="停用/删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="786" y="370" width="133" height="48" as="geometry" />
+          <mxGeometry x="666" y="370" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-9" value="引用检查：被引用则标记失效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="711" y="490.5" width="120" height="91" as="geometry" />
+          <mxGeometry x="591" y="490.5" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-10" value="未引用可物理删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="861" y="493" width="118" height="93" as="geometry" />
+          <mxGeometry x="741" y="493" width="118" height="93" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-11" value="查询与导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="370" width="140" height="48" as="geometry" />
+          <mxGeometry x="901" y="370" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-12" value="按名称/代码检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="524" width="110" height="62" as="geometry" />
+          <mxGeometry x="916" y="524" width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-13" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-2">
           <mxGeometry relative="1" as="geometry" />
