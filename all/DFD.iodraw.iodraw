@@ -510,7 +510,7 @@
           <mxGeometry x="191" y="560" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-252" value="用户名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="590" width="63" height="63" as="geometry" />
+          <mxGeometry x="20" y="590" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-253" value="车牌号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="493" width="70" height="70" as="geometry" />
@@ -550,7 +550,7 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-262" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.5;rounded=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-263" value="" style="startArrow=none;endArrow=none;exitX=0.7;exitY=1.01;entryX=0.261;entryY=0.05;rounded=0;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-252">
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-263" value="" style="startArrow=none;endArrow=none;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-252">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-264" value="" style="startArrow=none;endArrow=none;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-253">
