@@ -504,6 +504,109 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-244" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="472" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-245" value="车辆" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="358" y="352" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-246" value="违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="697" y="291" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-247" value="违章类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1067" y="226" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-248" value="拥有" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="191" y="336" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-249" value="记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="529" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-250" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="907" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-251" value="用户ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="201" y="466" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-252" value="用户名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="577" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-253" value="车牌号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="538" y="405" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-254" value="违章时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="908" y="340" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="211" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="376" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=-0.01;entryX=0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-259" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-249" target="eLAGq5Bhw-gHkJ52d9XA-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-260" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-246" target="eLAGq5Bhw-gHkJ52d9XA-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-261" value="|1|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-250" target="eLAGq5Bhw-gHkJ52d9XA-247">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-251">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-263" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-264" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-265" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-246" target="eLAGq5Bhw-gHkJ52d9XA-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-266" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-247" target="eLAGq5Bhw-gHkJ52d9XA-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
