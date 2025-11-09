@@ -10,7 +10,7 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-130" value="数据持久层（数据库/缓存）" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-160">
           <mxGeometry y="966.88" width="1150" height="153.12" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-131" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;业务逻辑层（后端 · Spring Boot&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-160">
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-131" value="）" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-160">
           <mxGeometry x="5.035856573705179" y="503.58422939068106" width="1258.9641434262949" height="380.7096774193549" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-132" value="表示层（前端 · B/S）" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-160">
@@ -101,6 +101,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-161" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
