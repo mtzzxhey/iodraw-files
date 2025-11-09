@@ -257,10 +257,10 @@
           <mxGeometry x="1574" y="225" width="150" height="63.25" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-319" value="审核：撤销 或 维持处罚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1954" y="225" width="230" height="48" as="geometry" />
+          <mxGeometry x="1755.5" y="236.75" width="121" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-320" value="结果通知车主（站内/短信）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2234" y="217" width="244" height="66" as="geometry" />
+          <mxGeometry x="1910" y="225" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-321" value="通知触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2560" y="118" width="124" height="48" as="geometry" />
