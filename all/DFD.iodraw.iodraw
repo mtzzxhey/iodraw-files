@@ -399,19 +399,19 @@
           <mxGeometry x="718" y="20" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-2" value="选择违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="173" y="121" width="114" height="42" as="geometry" />
+          <mxGeometry x="270" y="124" width="114" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-3" value="获取应缴金额/记录编号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="228" width="120" height="45" as="geometry" />
+          <mxGeometry x="170" y="231" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-4" value="创建支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="474" y="118" width="156" height="48" as="geometry" />
+          <mxGeometry x="474" y="121" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-5" value="对接第三方支付（预下单）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="225" width="111" height="55" as="geometry" />
+          <mxGeometry x="380" y="228" width="111" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-6" value="跳转支付页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="225" width="99" height="55" as="geometry" />
+          <mxGeometry x="601" y="228" width="99" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-7" value="异步回调处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1154" y="118" width="156" height="48" as="geometry" />
@@ -434,14 +434,18 @@
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-13" value="失败或取消：保持未缴状态，可重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1969" y="217" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="tERHo2H3_VJ3zXLoaIEU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718" y="55.15999999999997" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-2" target="tERHo2H3_VJ3zXLoaIEU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tERHo2H3_VJ3zXLoaIEU-16" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-16" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="tERHo2H3_VJ3zXLoaIEU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718" y="66.68000000000006" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-17" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-4" target="tERHo2H3_VJ3zXLoaIEU-5">
           <mxGeometry relative="1" as="geometry" />
