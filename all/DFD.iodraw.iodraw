@@ -492,7 +492,7 @@
           <mxGeometry x="399" y="355" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-246" value="违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="697" y="291" width="124" height="48" as="geometry" />
+          <mxGeometry x="710" y="352" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-247" value="违章类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1067" y="226" width="124" height="48" as="geometry" />
@@ -501,7 +501,7 @@
           <mxGeometry x="191" y="336" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-249" value="记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="529" y="275" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="334" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-250" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="170" width="80" height="80" as="geometry" />
@@ -516,7 +516,7 @@
           <mxGeometry x="399" y="493" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-254" value="违章时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="414" width="79" height="79" as="geometry" />
+          <mxGeometry x="940" y="414" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1241" y="211" width="79" height="79" as="geometry" />
@@ -527,7 +527,7 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="startArrow=none;endArrow=none;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="startArrow=none;endArrow=block;exitX=0.87;exitY=-0.01;entryX=0.01;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.01;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-259" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-249" target="eLAGq5Bhw-gHkJ52d9XA-246">
