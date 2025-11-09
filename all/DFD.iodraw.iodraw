@@ -399,7 +399,7 @@
           <mxGeometry x="718" y="20" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-2" value="选择违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56" y="118" width="156" height="48" as="geometry" />
+          <mxGeometry x="56" y="118" width="114" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-3" value="获取应缴金额/记录编号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="225" width="229" height="48" as="geometry" />
@@ -471,12 +471,8 @@
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-24" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tERHo2H3_VJ3zXLoaIEU-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2095" y="192" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-25" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
