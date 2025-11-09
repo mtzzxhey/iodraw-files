@@ -346,7 +346,7 @@
           <mxGeometry x="1110" y="323" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-10" value="未引用可物理删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1372" y="317" width="189" height="48" as="geometry" />
+          <mxGeometry x="1340" y="333" width="118" height="93" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-11" value="查询与导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1710" y="118" width="140" height="48" as="geometry" />
