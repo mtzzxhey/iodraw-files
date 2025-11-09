@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q-Gczdu4uOPQ_hIUz0s3">
-    <mxGraphModel dx="391" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-67" value="交警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="683" y="190" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-68" target="CL0yH4n-tVNIa7Lqh6ev-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-94" value="支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CL0yH4n-tVNIa7Lqh6ev-93">
+          <mxGeometry x="-0.1868" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-68" value="支付平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="715" width="124" height="46" as="geometry" />
@@ -69,16 +77,6 @@
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-81" value="支付请求" style="startArrow=none;endArrow=block;exitX=0.48;exitY=0.99;entryX=0.25;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-68">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-82" value="支付结果" style="startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-68" target="CL0yH4n-tVNIa7Lqh6ev-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="986" y="560" />
-              <mxPoint x="930" y="560" />
-              <mxPoint x="930" y="559" />
-              <mxPoint x="927" y="559" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-83" value="" style="startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.39;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-69" target="CL0yH4n-tVNIa7Lqh6ev-75">
           <mxGeometry relative="1" as="geometry">
