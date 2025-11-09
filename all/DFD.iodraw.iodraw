@@ -266,7 +266,7 @@
           <mxGeometry x="2100" y="140" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-322" value="新增违章自动通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2528" y="225" width="188" height="48" as="geometry" />
+          <mxGeometry x="2096" y="241.75" width="132" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YGXUu0h-zGR46V8vHDM4-323" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YGXUu0h-zGR46V8vHDM4-308" target="YGXUu0h-zGR46V8vHDM4-309">
           <mxGeometry relative="1" as="geometry" />
@@ -311,10 +311,8 @@
         <mxCell id="YGXUu0h-zGR46V8vHDM4-335" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YGXUu0h-zGR46V8vHDM4-308" target="YGXUu0h-zGR46V8vHDM4-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YGXUu0h-zGR46V8vHDM4-336" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YGXUu0h-zGR46V8vHDM4-321" target="YGXUu0h-zGR46V8vHDM4-322">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="YGXUu0h-zGR46V8vHDM4-336" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YGXUu0h-zGR46V8vHDM4-321" target="YGXUu0h-zGR46V8vHDM4-322">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
