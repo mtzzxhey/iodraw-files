@@ -128,6 +128,14 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-92" value="缴款结果更新" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.61;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.403;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-67" target="CL0yH4n-tVNIa7Lqh6ev-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-97" value="违章查询/缴费/申诉" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CL0yH4n-tVNIa7Lqh6ev-95">
+          <mxGeometry x="0.3949" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
