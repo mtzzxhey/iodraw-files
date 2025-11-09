@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q-Gczdu4uOPQ_hIUz0s3">
-    <mxGraphModel dx="1628" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,8 +102,119 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-161" value="业务逻辑层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="640" width="130" height="40" as="geometry" />
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-161" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;业务逻辑层&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-160">
+          <mxGeometry x="970" y="600.27" width="120" height="29.73" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-162" value="%%{init: {&#39;flowchart&#39;: {&#39;defaultRenderer&#39;: &#39;elk&#39;}}}%%" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="450" width="320" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-163" value="flowchart TB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-162">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-164" value="subgraph Client[表示层（前端 · B/S）]" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-165" value="  direction TB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-166" value="  U[普通用户/车主&lt;br/&gt;Web 浏览器]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-167" value="  A[管理员/交警&lt;br/&gt;Web 浏览器]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-168" value="  N[Nginx&lt;br/&gt;静态资源/反向代理]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="104" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-169" value="  SPA[Vue 单页应用&lt;br/&gt;Axios / Element-UI / Router]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="130" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-170" value="  U --&gt;|HTTPS| N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="156" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-171" value="  A --&gt;|HTTPS| N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="182" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-172" value="  N --&gt; SPA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="208" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-173" value="end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-164">
+          <mxGeometry y="234" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-174" value="subgraph Backend[业务逻辑层（后端 · Spring Boot）]" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="340" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-175" value="  direction TB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="26" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-176" value="  C[Controller&lt;br/&gt;REST API 接口]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="52" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-177" value="  S[Service&lt;br/&gt;业务逻辑/事务处理]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="78" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-178" value="  SEC[Security&lt;br/&gt;Spring Security + JWT]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="104" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-179" value="  DAO[DAO/Repository&lt;br/&gt;MyBatis-Plus]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="130" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-180" value="  FILE[文件存储&lt;br/&gt;证据照片/缴费凭证]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="156" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-181" value="  PAY[第三方支付接口]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="182" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-182" value="  SMS[短信网关/消息通知]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="208" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-183" value="  C --&gt; S" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="234" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-184" value="  S --&gt; SEC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="260" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-185" value="  S --&gt; DAO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="286" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-186" value="  S --&gt; FILE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="312" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-187" value="  S --&gt; PAY" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="338" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-188" value="  S --&gt; SMS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="364" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-189" value="end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-174">
+          <mxGeometry y="390" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-190" value="subgraph Data[数据持久层（数据库/缓存）]" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="450" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-191" value="  direction TB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-190">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-192" value="  DB[(MySQL&lt;br/&gt;用户/车辆/违章/类型等)]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-190">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-193" value="  R[(Redis&lt;br/&gt;缓存/会话/热点查询)]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-190">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-194" value="end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-190">
+          <mxGeometry y="104" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-195" value="SPA --&gt;|/api · JSON| C" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="450" width="170" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-196" value="N --&gt;|/api 反向代理| C" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-195">
+          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-197" value="DAO --&gt; DB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-195">
+          <mxGeometry y="52" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-198" value="SEC -. 校验令牌 .-&gt; R" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-195">
+          <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
