@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q-Gczdu4uOPQ_hIUz0s3">
-    <mxGraphModel dx="558" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="75" dy="52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="260" y="574" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-72" value="罚款缴纳模块" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="808" y="543" width="119" height="31" as="geometry" />
+          <mxGeometry x="808" y="580" width="119" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-73" value="用户信息管理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="631" y="308" width="119" height="31" as="geometry" />
@@ -76,6 +76,7 @@
               <mxPoint x="986" y="560" />
               <mxPoint x="930" y="560" />
               <mxPoint x="930" y="559" />
+              <mxPoint x="927" y="559" />
             </Array>
           </mxGeometry>
         </mxCell>
