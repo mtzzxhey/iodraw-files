@@ -521,12 +521,8 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1241" y="211" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="152" y="376" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="startArrow=none;endArrow=block;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
           <mxGeometry relative="1" as="geometry">
@@ -557,17 +553,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-251">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-262" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-251">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-263" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-252">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="152" y="609" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-263" value="" style="startArrow=none;endArrow=block;exitX=0.7;exitY=1.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-252">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-264" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-253">
           <mxGeometry relative="1" as="geometry">
