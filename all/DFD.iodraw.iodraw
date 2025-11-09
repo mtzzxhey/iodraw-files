@@ -117,6 +117,7 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-69" target="CL0yH4n-tVNIa7Lqh6ev-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="420" y="516" />
               <mxPoint x="303" y="549" />
             </Array>
           </mxGeometry>
@@ -127,7 +128,8 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-90" value="" style="startArrow=none;endArrow=block;exitX=0.04;exitY=0.99;entryX=0.44;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="553" y="574" />
+              <mxPoint x="560" y="574" />
+              <mxPoint x="560" y="761" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,12 +140,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-92" value="缴款结果更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.61;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="595" y="641" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-92" value="缴款结果更新" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.61;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
