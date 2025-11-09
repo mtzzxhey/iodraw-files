@@ -52,12 +52,8 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-145" value="Redis&#xa;缓存/会话/热点查询" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="319" y="1011" width="160" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-146" value="HTTPS" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-133" target="CL0yH4n-tVNIa7Lqh6ev-135">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="553" y="157" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-146" value="HTTPS" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.26;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-133" target="CL0yH4n-tVNIa7Lqh6ev-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-147" value="HTTPS" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-134" target="CL0yH4n-tVNIa7Lqh6ev-135">
           <mxGeometry relative="1" as="geometry">
