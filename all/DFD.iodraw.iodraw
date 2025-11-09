@@ -4,8 +4,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-22" value="graph LR&#xa;    %% 外部实体&#xa;    A[车主]:::entity&#xa;    B[交警]:::entity&#xa;    C[支付平台]:::entity&#xa;&#xa;&#xa;    %% 系统整体&#xa;    S([车辆违章管理系统]):::process&#xa;&#xa;&#xa;    %% 数据流（直线/折线）&#xa;    A --&gt;|&quot;违章查询请求/缴费/申诉&quot;| S&#xa;    S --&gt;|&quot;违章详情/通知/缴款确认&quot;| A&#xa;&#xa;&#xa;    B --&gt;|&quot;违章录入/类型维护/申诉处理&quot;| S&#xa;    S --&gt;|&quot;违章数据/处理结果&quot;| B&#xa;&#xa;&#xa;    S --&gt;|&quot;支付请求&quot;| C&#xa;    C --&gt;|&quot;支付结果回调&quot;| S&#xa;&#xa;&#xa;    %% 样式&#xa;    classDef entity fill:#fff,stroke:#333,stroke-width:1px,font-family:&#39;SimSun&#39;;&#xa;    classDef process fill:#d0e3ff,stroke:#0066cc,stroke-width:1.5px,font-family:&#39;SimSun&#39;,font-weight:bold;&#xa;    linkStyle default stroke:#000,stroke-width:1.2px,fill:none;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="560" height="440" as="geometry" />
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-23" value="车主" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="75" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-24" value="交警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="757" y="23" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-25" value="支付平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="741" y="122" width="124" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-26" value="车辆违章管理系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="343" y="83" width="151" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-27" value="违章查询请求/缴费/申诉" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-23" target="CL0yH4n-tVNIa7Lqh6ev-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-28" value="违章详情/通知/缴款确认" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-26" target="CL0yH4n-tVNIa7Lqh6ev-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-29" value="违章录入/类型维护/申诉处理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-24" target="CL0yH4n-tVNIa7Lqh6ev-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-30" value="违章数据/处理结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-26" target="CL0yH4n-tVNIa7Lqh6ev-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-31" value="支付请求" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-26" target="CL0yH4n-tVNIa7Lqh6ev-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-32" value="支付结果回调" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.8;entryY=0.99;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-25" target="CL0yH4n-tVNIa7Lqh6ev-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="166" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
