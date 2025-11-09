@@ -349,10 +349,10 @@
           <mxGeometry x="1340" y="333" width="118" height="93" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-11" value="查询与导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="118" width="140" height="48" as="geometry" />
+          <mxGeometry x="1500" y="271" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-12" value="按名称/代码检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="225" width="180" height="48" as="geometry" />
+          <mxGeometry x="1480" y="378" width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-13" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-2">
           <mxGeometry relative="1" as="geometry" />
