@@ -337,7 +337,7 @@
           <mxGeometry x="911" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-7" value="编辑属性（保留审计轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="847" y="225" width="233" height="135" as="geometry" />
+          <mxGeometry x="906.25" y="341" width="133.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-8" value="停用/删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1344" y="118" width="133" height="48" as="geometry" />
@@ -369,10 +369,8 @@
         <mxCell id="pknvddOVUsV2tEJMfhFk-17" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pknvddOVUsV2tEJMfhFk-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-6" target="pknvddOVUsV2tEJMfhFk-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pknvddOVUsV2tEJMfhFk-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-6" target="pknvddOVUsV2tEJMfhFk-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-19" value="" style="startArrow=none;endArrow=block;exitX=0.81;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-8">
           <mxGeometry relative="1" as="geometry" />
