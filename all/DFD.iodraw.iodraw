@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-346" value="申诉处理对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="118" width="568" height="214" as="geometry" />
-        </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-347" value="通知车主" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1190" y="118" width="553" height="214" as="geometry" />
         </mxCell>
@@ -27,9 +24,6 @@
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-353" value="通知车主" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1422" y="143" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-354" value="申诉处理对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="143" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-356" value="表单校验（必填/格式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2618" y="250" width="228" height="48" as="geometry" />
@@ -64,12 +58,6 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-366" value="发送短信/站内信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1528" y="250" width="180" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-367" value="接收申诉：状态=申诉中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="636" y="250" width="228" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-368" value="审核结论：撤销或维持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="915" y="250" width="220" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-371" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-350" target="CL0yH4n-tVNIa7Lqh6ev-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -99,6 +87,7 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-375" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-350" target="CL0yH4n-tVNIa7Lqh6ev-355">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="660" y="10" />
               <mxPoint x="313" y="93" />
             </Array>
           </mxGeometry>
@@ -178,20 +167,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-354" target="CL0yH4n-tVNIa7Lqh6ev-367">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="751" y="217" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-354" target="CL0yH4n-tVNIa7Lqh6ev-368">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1025" y="217" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-391" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="118" width="561" height="214" as="geometry" />
         </mxCell>
@@ -218,6 +193,35 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="428" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-392" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="601" y="118" width="568" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-346" value="申诉处理对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-392">
+          <mxGeometry width="568" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-354" value="申诉处理对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-392">
+          <mxGeometry x="209" y="25" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-367" value="接收申诉：状态=申诉中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-392">
+          <mxGeometry x="35" y="132" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-368" value="审核结论：撤销或维持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-392">
+          <mxGeometry x="314" y="132" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-392" source="CL0yH4n-tVNIa7Lqh6ev-354" target="CL0yH4n-tVNIa7Lqh6ev-367">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-392" source="CL0yH4n-tVNIa7Lqh6ev-354" target="CL0yH4n-tVNIa7Lqh6ev-368">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="424" y="99" />
             </Array>
           </mxGeometry>
         </mxCell>
