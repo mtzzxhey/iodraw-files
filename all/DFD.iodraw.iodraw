@@ -513,7 +513,7 @@
           <mxGeometry x="200" y="577" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-253" value="车牌号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="538" y="405" width="63" height="63" as="geometry" />
+          <mxGeometry x="440" y="466" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-254" value="违章时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="908" y="340" width="79" height="79" as="geometry" />
@@ -524,17 +524,11 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="startArrow=none;endArrow=block;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=-0.01;entryX=0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="315" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="startArrow=none;endArrow=block;exitX=0.87;exitY=-0.01;entryX=0.01;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-259" value="|多|" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-249" target="eLAGq5Bhw-gHkJ52d9XA-246">
           <mxGeometry relative="1" as="geometry">
