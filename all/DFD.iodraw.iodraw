@@ -343,7 +343,7 @@
           <mxGeometry x="1265" y="210" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-9" value="引用检查：被引用则标记失效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="323" width="120" height="91" as="geometry" />
+          <mxGeometry x="1190" y="330.5" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-10" value="未引用可物理删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1340" y="333" width="118" height="93" as="geometry" />
@@ -375,10 +375,10 @@
         <mxCell id="pknvddOVUsV2tEJMfhFk-19" value="" style="startArrow=none;endArrow=block;exitX=0.81;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pknvddOVUsV2tEJMfhFk-20" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-8" target="pknvddOVUsV2tEJMfhFk-9">
+        <mxCell id="pknvddOVUsV2tEJMfhFk-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-8" target="pknvddOVUsV2tEJMfhFk-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pknvddOVUsV2tEJMfhFk-21" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-8" target="pknvddOVUsV2tEJMfhFk-10">
+        <mxCell id="pknvddOVUsV2tEJMfhFk-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-8" target="pknvddOVUsV2tEJMfhFk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-22" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-11">
