@@ -8,10 +8,10 @@
           <mxGeometry x="290" y="20" width="92" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-54" value="交警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="480" width="92" height="46" as="geometry" />
+          <mxGeometry x="158" y="480" width="92" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-55" value="支付平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="480" width="124" height="46" as="geometry" />
+          <mxGeometry x="370" y="490" width="124" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-56" value="车辆违章管理系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="216" width="151" height="31" as="geometry" />
