@@ -52,11 +52,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-79" value="违章查询/缴费/申诉" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.41;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-66" target="CL0yH4n-tVNIa7Lqh6ev-69">
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-79" value="违章查询/缴费/申诉" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.41;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-66" target="CL0yH4n-tVNIa7Lqh6ev-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="272" />
-              <mxPoint x="580" y="468" />
+              <mxPoint x="252" y="290" />
+              <mxPoint x="430" y="290" />
+              <mxPoint x="430" y="493" />
             </Array>
           </mxGeometry>
         </mxCell>
