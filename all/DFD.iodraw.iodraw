@@ -414,13 +414,13 @@
           <mxGeometry x="680" y="225" width="99" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-7" value="异步回调处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1154" y="118" width="156" height="48" as="geometry" />
+          <mxGeometry x="960" y="100" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-8" value="验签与幂等（防重复入账）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="807" y="225" width="253" height="48" as="geometry" />
+          <mxGeometry x="807" y="225" width="103" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-9" value="更新记录：状态=已缴款；记流水/时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="217" width="244" height="66" as="geometry" />
+          <mxGeometry x="916" y="217" width="114" height="63" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-10" value="如需扣分：同步驾驶证积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1404" y="225" width="253" height="48" as="geometry" />
