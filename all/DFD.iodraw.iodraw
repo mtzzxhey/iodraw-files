@@ -515,8 +515,8 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-253" value="车牌号" style="ellipse;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="470" width="101" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-254" value="违章时间" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="511" width="79" height="79" as="geometry" />
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-254" value="违章时间" style="ellipse;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="376.5" y="180" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1125" y="200" width="79" height="79" as="geometry" />
@@ -552,8 +552,10 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-264" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-253">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-265" value="" style="startArrow=none;endArrow=none;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-246" target="eLAGq5Bhw-gHkJ52d9XA-254">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-265" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.5;rounded=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-266" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-247" target="eLAGq5Bhw-gHkJ52d9XA-255">
           <mxGeometry relative="1" as="geometry">
