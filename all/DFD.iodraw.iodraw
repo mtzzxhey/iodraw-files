@@ -4,67 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-53" value="车主" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="92" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-54" value="交警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="158" y="480" width="92" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-55" value="支付平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="490" width="124" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-56" value="车辆违章管理系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="216" width="151" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-57" value="" style="startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.32;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-53" target="CL0yH4n-tVNIa7Lqh6ev-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="298" y="66" />
-              <mxPoint x="298" y="141" />
-              <mxPoint x="298" y="141" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-58" value="" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="362" y="66" />
-            </Array>
-            <mxPoint x="361.88000000000005" y="216" as="sourcePoint" />
-            <mxPoint x="362" y="66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-59" value="违章录入/类型维护/申诉处理" style="startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0.37;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-54" target="CL0yH4n-tVNIa7Lqh6ev-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-60" value="违章数据/处理结果" style="startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="247" />
-              <mxPoint x="144" y="503" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-61" value="支付请求" style="startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.36;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-56" target="CL0yH4n-tVNIa7Lqh6ev-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-62" value="支付结果回调" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.81;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-55" target="CL0yH4n-tVNIa7Lqh6ev-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="494" y="490" />
-              <mxPoint x="500" y="490" />
-              <mxPoint x="500" y="320" />
-              <mxPoint x="499" y="320" />
-              <mxPoint x="499" y="247" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;违章查询请求/罚款缴纳/申诉申请&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-64" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;违章详情/违章通知/缴款确认&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="170" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
