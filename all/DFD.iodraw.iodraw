@@ -322,7 +322,7 @@
           <mxGeometry x="1142" y="20" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-2" value="新增类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="756" y="154" width="124" height="48" as="geometry" />
+          <mxGeometry x="756" y="210" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-3" value="录入：名称/代码/默认罚款/扣分/描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="357" width="123" height="66" as="geometry" />
@@ -334,7 +334,7 @@
           <mxGeometry x="889" y="357" width="110" height="69" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-6" value="修改类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="130" width="124" height="48" as="geometry" />
+          <mxGeometry x="1040" y="210" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-7" value="编辑属性（保留审计轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1035.25" y="353" width="133.5" height="70" as="geometry" />
@@ -349,10 +349,10 @@
           <mxGeometry x="1340" y="333" width="118" height="93" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-11" value="查询与导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="271" width="140" height="48" as="geometry" />
+          <mxGeometry x="1500" y="210" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-12" value="按名称/代码检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="378" width="110" height="62" as="geometry" />
+          <mxGeometry x="1515" y="364" width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-13" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pknvddOVUsV2tEJMfhFk-1" target="pknvddOVUsV2tEJMfhFk-2">
           <mxGeometry relative="1" as="geometry" />
