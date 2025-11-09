@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q-Gczdu4uOPQ_hIUz0s3">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-91" value="" style="startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-69" target="CL0yH4n-tVNIa7Lqh6ev-72">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="534" />
+              <mxPoint x="867" y="534" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-92" value="缴款结果更新" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.61;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
           <mxGeometry relative="1" as="geometry" />
