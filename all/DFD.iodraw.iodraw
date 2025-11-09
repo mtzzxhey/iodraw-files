@@ -129,27 +129,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-394" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1763" y="118" width="800" height="214" as="geometry" />
+          <mxGeometry x="1320" y="200" width="570" height="480" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-348" value="审核/维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry width="800" height="214" as="geometry" />
+          <mxGeometry width="570" height="480" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-352" value="审核/维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry x="318" y="25" width="132" height="48" as="geometry" />
+          <mxGeometry x="226.57500000000002" y="56.074766355140184" width="94.05" height="107.66355140186914" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-362" value="查询/分页/筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry x="35" y="132" width="173" height="48" as="geometry" />
+          <mxGeometry x="24.9375" y="296.0747663551402" width="123.2625" height="107.66355140186914" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-363" value="更正信息（时间/地点/证据）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry x="258" y="124" width="253" height="66" as="geometry" />
+          <mxGeometry x="185.51000000000002" y="288.96999999999997" width="176.18" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-364" value="误录删除（高权限）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry x="561" y="132" width="204" height="48" as="geometry" />
+          <mxGeometry x="399.71250000000003" y="296.0747663551402" width="145.35" height="107.66355140186914" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-394" source="CL0yH4n-tVNIa7Lqh6ev-352" target="CL0yH4n-tVNIa7Lqh6ev-362">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="121" y="99" />
+              <mxPoint x="86.2125" y="222.05607476635512" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,7 +161,7 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-384" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-394" source="CL0yH4n-tVNIa7Lqh6ev-352" target="CL0yH4n-tVNIa7Lqh6ev-364">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="663" y="99" />
+              <mxPoint x="472.3875" y="222.05607476635512" />
             </Array>
           </mxGeometry>
         </mxCell>
