@@ -495,7 +495,7 @@
           <mxGeometry x="518" y="430" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-247" value="违章类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="170" width="124" height="48" as="geometry" />
+          <mxGeometry x="540" y="152" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-248" value="拥有" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="181" y="583" width="80" height="80" as="geometry" />
@@ -540,7 +540,7 @@
             <mxPoint x="585" y="426" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-261" value="|1|" style="curved=1;startArrow=none;endArrow=none;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-250" target="eLAGq5Bhw-gHkJ52d9XA-247">
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-261" value="|1|" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0.421;entryY=0.992;rounded=0;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-250" target="eLAGq5Bhw-gHkJ52d9XA-247">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
