@@ -328,7 +328,7 @@
           <mxGeometry x="260" y="321" width="123" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-4" value="校验：代码唯一、数值范围" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="391.5" y="330" width="118.5" height="60" as="geometry" />
+          <mxGeometry x="387" y="321" width="120.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-5" value="入库：设为有效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="110" height="50" as="geometry" />
