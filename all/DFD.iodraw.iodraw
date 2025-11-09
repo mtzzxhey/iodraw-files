@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="q-Gczdu4uOPQ_hIUz0s3">
     <mxGraphModel dx="1628" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -147,74 +147,82 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-395" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1900" y="210" width="1010" height="410" as="geometry" />
+          <mxGeometry x="1900" y="210" width="640" height="460" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-349" value="录入违章" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry width="1010" height="410" as="geometry" />
+          <mxGeometry width="640" height="460.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-351" value="录入违章" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="497.6187576126675" y="47.89719626168225" width="76.27283800243605" height="91.96261682242991" as="geometry" />
+          <mxGeometry x="315.3227771010962" y="53.738317757009355" width="48.331303288672345" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-356" value="表单校验（必填/格式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="21.528623629719853" y="252.89719626168227" width="140.2436053593179" height="91.96261682242991" as="geometry" />
+          <mxGeometry x="13.64190012180268" y="283.7383177570094" width="88.86723507917175" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-357" value="业务校验：车牌存在性/类型有效性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="192.52740560292327" y="237.57009345794393" width="150.08526187576126" height="126.44859813084113" as="geometry" />
+          <mxGeometry x="121.99756394640683" y="266.5420560747664" width="95.1035322777101" height="141.8691588785047" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-358" value="计算默认罚款/扣分（按违章类型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="373.36784409257" y="237.57009345794393" width="150.08526187576126" height="126.44859813084113" as="geometry" />
+          <mxGeometry x="236.5895249695493" y="266.5420560747664" width="95.1035322777101" height="141.8691588785047" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-359" value="生成违章记录并持久化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="554.8233861144945" y="252.89719626168227" width="135.32277710109622" height="91.96261682242991" as="geometry" />
+          <mxGeometry x="351.5712545676005" y="283.7383177570094" width="85.74908647990256" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-360" value="设置状态=待处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="720.9013398294762" y="252.89719626168227" width="110.71863580998782" height="91.96261682242991" as="geometry" />
+          <mxGeometry x="456.80876979293544" y="283.7383177570094" width="70.15834348355664" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-361" value="异常处理与事务回滚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-395">
-          <mxGeometry x="862.3751522533495" y="252.89719626168227" width="125.48112058465286" height="91.96261682242991" as="geometry" />
+          <mxGeometry x="546.4555420219244" y="283.7383177570094" width="79.51278928136419" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-376" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-356">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="91.6504263093788" y="189.6728971962617" />
+              <mxPoint x="58.075517661388545" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-377" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-357">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="267.57003654080387" y="189.6728971962617" />
+              <mxPoint x="169.54933008526186" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-378" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-358">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="448.41047503045064" y="189.6728971962617" />
+              <mxPoint x="284.14129110840435" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-379" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-359">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="622.4847746650426" y="189.6728971962617" />
+              <mxPoint x="394.44579780755174" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-380" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-360">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="776.2606577344701" y="189.6728971962617" />
+              <mxPoint x="491.8879415347137" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-395" source="CL0yH4n-tVNIa7Lqh6ev-351" target="CL0yH4n-tVNIa7Lqh6ev-361">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="925.1157125456759" y="189.6728971962617" />
+              <mxPoint x="586.2119366626065" y="212.80373831775702" />
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Og1g3W8oQrIYoIPOVUXn" name="第 2 页">
+    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
