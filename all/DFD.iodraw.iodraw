@@ -501,7 +501,7 @@
           <mxGeometry x="191" y="336" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-249" value="记录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="334" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-250" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="170" width="80" height="80" as="geometry" />
@@ -521,10 +521,10 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1241" y="211" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="startArrow=none;endArrow=none;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="startArrow=none;endArrow=none;exitX=0.69;exitY=0.01;entryX=0;entryY=0.5;rounded=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="startArrow=none;endArrow=none;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-257" value="|多|" style="startArrow=none;endArrow=none;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-248" target="eLAGq5Bhw-gHkJ52d9XA-245">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-258" value="|1|" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0.01;entryY=0.5;rounded=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-245" target="eLAGq5Bhw-gHkJ52d9XA-249">
