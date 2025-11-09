@@ -391,10 +391,129 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dADf_9EiEHSv_AOIuOc3" name="第 4 页">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-1" value="违章罚款缴纳（车主）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="718" y="20" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-2" value="选择违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="118" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-3" value="获取应缴金额/记录编号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="225" width="229" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-4" value="创建支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="474" y="118" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-5" value="对接第三方支付（预下单）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="225" width="252" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-6" value="跳转支付页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="225" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-7" value="异步回调处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="118" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-8" value="验签与幂等（防重复入账）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="807" y="225" width="253" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-9" value="更新记录：状态=已缴款；记流水/时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="217" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-10" value="如需扣分：同步驾驶证积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1404" y="225" width="253" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-11" value="结果反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1892" y="118" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-12" value="成功页/下载缴费凭证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1707" y="225" width="213" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-13" value="失败或取消：保持未缴状态，可重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1969" y="217" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-2" target="tERHo2H3_VJ3zXLoaIEU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-4" target="tERHo2H3_VJ3zXLoaIEU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-4" target="tERHo2H3_VJ3zXLoaIEU-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1232" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-7" target="tERHo2H3_VJ3zXLoaIEU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="933" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-7" target="tERHo2H3_VJ3zXLoaIEU-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-7" target="tERHo2H3_VJ3zXLoaIEU-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1954" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1813" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2095" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
