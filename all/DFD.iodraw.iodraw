@@ -429,10 +429,10 @@
           <mxGeometry x="1475" y="130" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-12" value="成功页/下载缴费凭证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="237" width="120" height="63" as="geometry" />
+          <mxGeometry x="1300" y="224" width="120" height="63" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-13" value="失败或取消：保持未缴状态，可重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1552" y="229" width="252" height="66" as="geometry" />
+          <mxGeometry x="1552" y="229" width="158" height="61" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="tERHo2H3_VJ3zXLoaIEU-2">
           <mxGeometry relative="1" as="geometry">
@@ -468,7 +468,7 @@
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-23" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-1" target="tERHo2H3_VJ3zXLoaIEU-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tERHo2H3_VJ3zXLoaIEU-24" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-12">
+        <mxCell id="tERHo2H3_VJ3zXLoaIEU-24" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-25" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tERHo2H3_VJ3zXLoaIEU-11" target="tERHo2H3_VJ3zXLoaIEU-13">
