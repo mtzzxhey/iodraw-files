@@ -408,7 +408,7 @@
           <mxGeometry x="550" y="100" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-5" value="对接第三方支付（预下单）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="225" width="111" height="55" as="geometry" />
+          <mxGeometry x="490" y="223" width="111" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-6" value="跳转支付页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="225" width="99" height="55" as="geometry" />
