@@ -396,50 +396,50 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xswt5sg5ciSkgzy2Nh8D-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="20" width="1328" height="263" as="geometry" />
+          <mxGeometry x="140" y="140" width="980" height="400" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-1" value="违章罚款缴纳（车主）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="398" width="220" height="48" as="geometry" />
+          <mxGeometry x="293.7048192771084" width="162.34939759036143" height="73.00380228136882" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-2" value="选择违章记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="3" y="101" width="114" height="42" as="geometry" />
+          <mxGeometry x="2.213855421686747" y="153.6121673003802" width="84.12650602409637" height="63.878326996197714" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-3" value="获取应缴金额/记录编号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry y="215" width="120" height="45" as="geometry" />
+          <mxGeometry y="326.99619771863115" width="88.55421686746988" height="68.44106463878326" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-4" value="创建支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="230" y="80" width="156" height="48" as="geometry" />
+          <mxGeometry x="169.7289156626506" y="121.67300380228136" width="115.12048192771084" height="73.00380228136882" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-5" value="对接第三方支付（预下单）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="170" y="203" width="111" height="55" as="geometry" />
+          <mxGeometry x="125.45180722891565" y="308.74524714828897" width="81.91265060240963" height="83.65019011406844" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-6" value="跳转支付页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="360" y="205" width="99" height="55" as="geometry" />
+          <mxGeometry x="265.6626506024096" y="311.78707224334596" width="73.05722891566265" height="83.65019011406844" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-7" value="异步回调处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="640" y="80" width="156" height="48" as="geometry" />
+          <mxGeometry x="472.289156626506" y="121.67300380228136" width="115.12048192771084" height="73.00380228136882" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-8" value="验签与幂等（防重复入账）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="510" y="208" width="103" height="55" as="geometry" />
+          <mxGeometry x="376.355421686747" y="316.34980988593156" width="76.0090361445783" height="83.65019011406844" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-9" value="更新记录：状态=已缴款；记流水/时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="661" y="197" width="114" height="63" as="geometry" />
+          <mxGeometry x="487.7861445783132" y="299.6197718631179" width="84.12650602409637" height="95.81749049429658" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-10" value="如需扣分：同步驾驶证积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="810" y="201" width="120" height="59" as="geometry" />
+          <mxGeometry x="597.7409638554216" y="305.7034220532319" width="88.55421686746988" height="89.73384030418251" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-11" value="结果反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="1075" y="106" width="124" height="48" as="geometry" />
+          <mxGeometry x="793.2981927710842" y="161.2167300380228" width="91.50602409638554" height="73.00380228136882" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-12" value="成功页/下载缴费凭证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="950" y="200" width="120" height="63" as="geometry" />
+          <mxGeometry x="701.0542168674698" y="304.1825095057034" width="88.55421686746988" height="95.81749049429658" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-13" value="失败或取消：保持未缴状态，可重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xswt5sg5ciSkgzy2Nh8D-1">
-          <mxGeometry x="1170" y="201" width="158" height="61" as="geometry" />
+          <mxGeometry x="863.4036144578312" y="305.7034220532319" width="116.59638554216868" height="92.77566539923954" as="geometry" />
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="xswt5sg5ciSkgzy2Nh8D-1" target="tERHo2H3_VJ3zXLoaIEU-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="398" y="35.15999999999997" as="sourcePoint" />
+            <mxPoint x="293.7048192771084" y="53.47528517110261" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="xswt5sg5ciSkgzy2Nh8D-1" source="tERHo2H3_VJ3zXLoaIEU-2" target="tERHo2H3_VJ3zXLoaIEU-3">
@@ -447,7 +447,7 @@
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-16" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="xswt5sg5ciSkgzy2Nh8D-1" target="tERHo2H3_VJ3zXLoaIEU-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="398" y="46.680000000000064" as="sourcePoint" />
+            <mxPoint x="293.7048192771084" y="70.99619771863127" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tERHo2H3_VJ3zXLoaIEU-17" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="xswt5sg5ciSkgzy2Nh8D-1" source="tERHo2H3_VJ3zXLoaIEU-4" target="tERHo2H3_VJ3zXLoaIEU-5">
