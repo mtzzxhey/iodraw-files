@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JKcGgItdfSCJ82gKP14d" name="第 5 页">
-    <mxGraphModel dx="1628" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,7 +519,7 @@
           <mxGeometry x="342" y="420" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-255" value="类型名称" style="ellipse;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="564" y="30" width="86" height="60" as="geometry" />
+          <mxGeometry x="600" y="50" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-256" value="|1|" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLAGq5Bhw-gHkJ52d9XA-244" target="eLAGq5Bhw-gHkJ52d9XA-248">
           <mxGeometry relative="1" as="geometry" />
