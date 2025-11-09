@@ -325,7 +325,7 @@
           <mxGeometry x="387" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-3" value="录入：名称/代码/默认罚款/扣分/描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="253" height="66" as="geometry" />
+          <mxGeometry x="150" y="217" width="123" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pknvddOVUsV2tEJMfhFk-4" value="校验：代码唯一、数值范围" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="225" width="252" height="48" as="geometry" />
