@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-350" value="违章记录处理（管理员）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="20" width="236" height="48" as="geometry" />
+          <mxGeometry x="1010" y="30" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-371" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-350" target="CL0yH4n-tVNIa7Lqh6ev-351">
           <mxGeometry relative="1" as="geometry">
@@ -42,31 +42,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-391" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="200" width="380" height="490" as="geometry" />
+          <mxGeometry x="150" y="230" width="380" height="460" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-345" value="权限与审计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-391">
-          <mxGeometry width="380.0000000000001" height="490" as="geometry" />
+          <mxGeometry width="380.0000000000001" height="460" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-355" value="权限与审计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-391">
-          <mxGeometry x="151.05169340463462" y="57.242990654205606" width="94.8306595365419" height="109.90654205607478" as="geometry" />
+          <mxGeometry x="151.05169340463462" y="53.73831775700935" width="94.8306595365419" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-369" value="角色校验：管理员/执法人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-391">
-          <mxGeometry x="23.707664884135475" y="283.92523364485976" width="165.27629233511593" height="151.1214953271028" as="geometry" />
+          <mxGeometry x="23.707664884135475" y="266.5420560747663" width="165.27629233511593" height="141.86915887850466" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-370" value="操作日志/审计追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-391">
-          <mxGeometry x="222.85204991087352" y="302.2429906542056" width="133.4402852049911" height="109.90654205607478" as="geometry" />
+          <mxGeometry x="222.85204991087352" y="283.7383177570093" width="133.4402852049911" height="103.17757009345796" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-389" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-391" source="CL0yH4n-tVNIa7Lqh6ev-355" target="CL0yH4n-tVNIa7Lqh6ev-369">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="106.34581105169343" y="226.68224299065423" />
+              <mxPoint x="106.34581105169343" y="212.80373831775705" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-390" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="CL0yH4n-tVNIa7Lqh6ev-391" source="CL0yH4n-tVNIa7Lqh6ev-355" target="CL0yH4n-tVNIa7Lqh6ev-370">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="289.9108734402853" y="226.68224299065423" />
+              <mxPoint x="289.9108734402853" y="212.80373831775705" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,7 +141,7 @@
           <mxGeometry x="24.9375" y="296.0747663551402" width="123.2625" height="107.66355140186914" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-363" value="更正信息（时间/地点/证据）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
-          <mxGeometry x="185.51000000000002" y="288.96999999999997" width="176.18" height="121.87" as="geometry" />
+          <mxGeometry x="185.51" y="300" width="144.49" height="110.84" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-364" value="误录删除（高权限）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CL0yH4n-tVNIa7Lqh6ev-394">
           <mxGeometry x="399.71250000000003" y="296.0747663551402" width="145.35" height="107.66355140186914" as="geometry" />
