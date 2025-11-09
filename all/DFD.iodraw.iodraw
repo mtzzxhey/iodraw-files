@@ -11,7 +11,7 @@
           <mxGeometry x="683" y="190" width="92" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-68" value="支付平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="717" y="677" width="124" height="46" as="geometry" />
+          <mxGeometry x="920" y="715" width="124" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-69" value="违章记录管理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="549" y="493" width="119" height="31" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="260" y="574" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-72" value="罚款缴纳模块" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="647" y="574" width="119" height="31" as="geometry" />
+          <mxGeometry x="808" y="543" width="119" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-73" value="用户信息管理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="631" y="308" width="119" height="31" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="615" y="412" width="151" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-75" value="违章记录库" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="494" y="684" width="111" height="31" as="geometry" />
+          <mxGeometry x="504" y="761" width="111" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-76" value="违章类型库" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="816" y="412" width="111" height="31" as="geometry" />
@@ -118,12 +118,8 @@
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-89" value="" style="startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.96;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-71" target="CL0yH4n-tVNIa7Lqh6ev-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=0.99;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="525" y="641" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CL0yH4n-tVNIa7Lqh6ev-90" value="" style="startArrow=none;endArrow=block;exitX=0.04;exitY=0.99;entryX=0.44;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-72" target="CL0yH4n-tVNIa7Lqh6ev-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CL0yH4n-tVNIa7Lqh6ev-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CL0yH4n-tVNIa7Lqh6ev-69" target="CL0yH4n-tVNIa7Lqh6ev-72">
           <mxGeometry relative="1" as="geometry">
