@@ -509,8 +509,8 @@
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-251" value="用户ID" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="592" width="61" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-252" value="用户名" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="63" height="63" as="geometry" />
+        <mxCell id="eLAGq5Bhw-gHkJ52d9XA-252" value="用户名" style="ellipse;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="90" height="63" as="geometry" />
         </mxCell>
         <mxCell id="eLAGq5Bhw-gHkJ52d9XA-253" value="车牌号" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="399" y="493" width="70" height="70" as="geometry" />
