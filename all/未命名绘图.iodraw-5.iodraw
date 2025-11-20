@@ -246,7 +246,10 @@
           <mxGeometry x="155" y="93" width="565.71" height="480" as="geometry" />
         </mxCell>
         <mxCell id="-Tl0TYnv2YQCAay1OH7f-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="273" width="30" height="60" as="geometry" />
+          <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tl0TYnv2YQCAay1OH7f-5" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="257" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
