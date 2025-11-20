@@ -156,12 +156,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-3" target="jNr3qlGCvcZ0BihlYfYQ-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="359" y="275" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-13" value="" style="startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-3" target="jNr3qlGCvcZ0BihlYfYQ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-14" value="否" style="startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.68;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-4" target="jNr3qlGCvcZ0BihlYfYQ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -169,12 +165,8 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-15" value="" style="startArrow=none;endArrow=block;exitX=0.48;exitY=0;entryX=0.18;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-5" target="jNr3qlGCvcZ0BihlYfYQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-4" target="jNr3qlGCvcZ0BihlYfYQ-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="379" y="497" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-16" value="是" style="startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-4" target="jNr3qlGCvcZ0BihlYfYQ-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-17" value="普通用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-7">
           <mxGeometry relative="1" as="geometry">
@@ -188,12 +180,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-19" value="系统管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="123" y="713" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-19" value="系统管理员" style="startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-7" target="jNr3qlGCvcZ0BihlYfYQ-10">
           <mxGeometry relative="1" as="geometry">
