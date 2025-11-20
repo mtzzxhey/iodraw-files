@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpJ5Ag6zkSB2OLEfkQay" name="第 2 页">
-    <mxGraphModel dx="326" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,9 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-7" value="浏览图书信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="532" y="750" width="157" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-8" target="jNr3qlGCvcZ0BihlYfYQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-8" value="用户管理 / 图书管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="750" width="206" height="48" as="geometry" />
         </mxCell>
@@ -144,7 +147,7 @@
           <mxGeometry x="20" y="750" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-10" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="349" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-1" target="jNr3qlGCvcZ0BihlYfYQ-2">
           <mxGeometry relative="1" as="geometry">
