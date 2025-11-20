@@ -112,21 +112,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpJ5Ag6zkSB2OLEfkQay" name="第 2 页">
-    <mxGraphModel dx="1396" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="243" y="20" width="55" height="33" as="geometry" />
+          <mxGeometry x="292" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-2" value="用户访问登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="177" y="103" width="188" height="48" as="geometry" />
+          <mxGeometry x="226" y="83" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-3" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="177" y="202" width="188" height="48" as="geometry" />
+          <mxGeometry x="226" y="182" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-4" value="登录是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="278" y="300" width="161" height="161" as="geometry" />
+          <mxGeometry x="400" y="300" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-5" value="提示登录失败信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="68" y="581" width="189" height="48" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="20" y="750" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-10" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="848" width="55" height="33" as="geometry" />
+          <mxGeometry x="350" y="980" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-1" target="jNr3qlGCvcZ0BihlYfYQ-2">
           <mxGeometry relative="1" as="geometry">
