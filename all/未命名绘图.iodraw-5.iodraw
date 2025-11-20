@@ -249,13 +249,13 @@
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
         </mxCell>
         <mxCell id="-Tl0TYnv2YQCAay1OH7f-5" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="257" width="140" height="70" as="geometry" />
+          <mxGeometry x="263" y="145" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Tl0TYnv2YQCAay1OH7f-6" value="浏览图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="388" width="140" height="70" as="geometry" />
+          <mxGeometry x="338" y="305" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-Tl0TYnv2YQCAay1OH7f-7" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498" y="388" width="140" height="70" as="geometry" />
+        <mxCell id="-Tl0TYnv2YQCAay1OH7f-7" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="450" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
