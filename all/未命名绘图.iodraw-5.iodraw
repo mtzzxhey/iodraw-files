@@ -125,8 +125,8 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-3" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="226" y="182" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-4" value="登录是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="161" height="161" as="geometry" />
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-4" value="登录是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431" y="331" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-5" value="提示登录失败信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="68" y="581" width="189" height="48" as="geometry" />
