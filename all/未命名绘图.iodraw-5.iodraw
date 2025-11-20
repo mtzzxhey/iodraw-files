@@ -352,13 +352,13 @@
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-11" value="为角色分配权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521" y="361" width="112" height="56" as="geometry" />
+          <mxGeometry x="404" y="230" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-16" value="校验访问权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="489" width="112" height="56" as="geometry" />
+          <mxGeometry x="328" y="448" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-18" value="调整角色权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411" y="433" width="112" height="56" as="geometry" />
+          <mxGeometry x="373" y="356" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
