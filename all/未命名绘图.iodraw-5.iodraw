@@ -292,23 +292,26 @@
         <mxCell id="wlguVomQwTA7ImMP4Htu-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wlguVomQwTA7ImMP4Htu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-7" value="新增图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="376" width="112" height="56" as="geometry" />
+          <mxGeometry x="323" y="334" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-9" value="新增用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="100" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-10" value="修改用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="146" width="116" height="58" as="geometry" />
+          <mxGeometry x="443" y="124" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-11" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="220" width="116" height="58" as="geometry" />
+          <mxGeometry x="474" y="206" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-12" value="查询用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="288" width="116" height="58" as="geometry" />
+          <mxGeometry x="407" y="279" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-22" value="新增图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="465" width="112" height="56" as="geometry" />
@@ -317,7 +320,7 @@
           <mxGeometry x="470" y="465" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-24" value="修改图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="384" width="112" height="56" as="geometry" />
+          <mxGeometry x="239" y="387" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
