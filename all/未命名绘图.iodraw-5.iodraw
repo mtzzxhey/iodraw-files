@@ -174,10 +174,11 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-18" value="管理员" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-19" value="系统管理员" style="startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-9">
+        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-19" value="系统管理员" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-6" target="jNr3qlGCvcZ0BihlYfYQ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328" y="680" />
+              <mxPoint x="300" y="605" />
+              <mxPoint x="300" y="680" />
               <mxPoint x="123" y="680" />
             </Array>
           </mxGeometry>
