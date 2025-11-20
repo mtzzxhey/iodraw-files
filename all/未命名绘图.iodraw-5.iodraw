@@ -292,7 +292,7 @@
         <mxCell id="wlguVomQwTA7ImMP4Htu-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wlguVomQwTA7ImMP4Htu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-24">
+        <mxCell id="wlguVomQwTA7ImMP4Htu-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -313,14 +313,14 @@
         <mxCell id="wlguVomQwTA7ImMP4Htu-12" value="查询用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="279" width="116" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="wlguVomQwTA7ImMP4Htu-22" value="新增图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="465" width="112" height="56" as="geometry" />
+        <mxCell id="wlguVomQwTA7ImMP4Htu-22" value="删除图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="465" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-23" value="新增图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="465" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-24" value="修改图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="387" width="112" height="56" as="geometry" />
+          <mxGeometry x="421" y="395" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
