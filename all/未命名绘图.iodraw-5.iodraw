@@ -342,25 +342,11 @@
         <mxCell id="1ieD5P6QIprmG9e_0oV9-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="517" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1ieD5P6QIprmG9e_0oV9-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-10" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
@@ -368,17 +354,8 @@
         <mxCell id="1ieD5P6QIprmG9e_0oV9-11" value="为角色分配权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="361" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-12" value="新增角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="100" width="116" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-13" value="修改角色信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="124" width="116" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-14" value="删除角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="206" width="116" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="1ieD5P6QIprmG9e_0oV9-15" value="查询角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="288" width="116" height="58" as="geometry" />
+        <mxCell id="1ieD5P6QIprmG9e_0oV9-16" value="校验访问权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="489" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-18" value="调整角色权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411" y="433" width="112" height="56" as="geometry" />
