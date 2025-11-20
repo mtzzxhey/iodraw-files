@@ -360,11 +360,14 @@
         <mxCell id="1ieD5P6QIprmG9e_0oV9-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1ieD5P6QIprmG9e_0oV9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ieD5P6QIprmG9e_0oV9-10" target="1ieD5P6QIprmG9e_0oV9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-10" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-11" value="为角色分配权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="337" width="112" height="56" as="geometry" />
+          <mxGeometry x="511" y="327" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-12" value="新增角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="100" width="116" height="58" as="geometry" />
@@ -376,16 +379,16 @@
           <mxGeometry x="473" y="185" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-15" value="查询角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="261" width="116" height="58" as="geometry" />
+          <mxGeometry x="409" y="255" width="116" height="58" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-16" value="校验访问权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="447" width="112" height="56" as="geometry" />
+          <mxGeometry x="414" y="464" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-18" value="调整角色权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="407" width="112" height="56" as="geometry" />
+          <mxGeometry x="418" y="394" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1ieD5P6QIprmG9e_0oV9-19" value="校验访问权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="489" width="112" height="56" as="geometry" />
+          <mxGeometry x="241" y="488" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
