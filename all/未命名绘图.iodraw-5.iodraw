@@ -283,20 +283,14 @@
         <mxCell id="wlguVomQwTA7ImMP4Htu-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wlguVomQwTA7ImMP4Htu-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wlguVomQwTA7ImMP4Htu-5" target="wlguVomQwTA7ImMP4Htu-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="267" width="47" height="94" as="geometry" />
         </mxCell>
         <mxCell id="wlguVomQwTA7ImMP4Htu-6" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="145" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wlguVomQwTA7ImMP4Htu-7" value="浏览图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="305" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wlguVomQwTA7ImMP4Htu-8" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="450" width="140" height="70" as="geometry" />
+        <mxCell id="wlguVomQwTA7ImMP4Htu-7" value="图书馆管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="446" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
