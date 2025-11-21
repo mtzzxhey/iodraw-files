@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpJ5Ag6zkSB2OLEfkQay" name="第 2 页">
-    <mxGraphModel dx="814" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="1032" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-4" value="   登录是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;align=center;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="382" y="387" width="99" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="Sfn5cFXxB9dQzZRlUkAL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-5" target="jNr3qlGCvcZ0BihlYfYQ-3">
+        <mxCell id="Sfn5cFXxB9dQzZRlUkAL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-5" target="jNr3qlGCvcZ0BihlYfYQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-5" value="提示登录失败信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
