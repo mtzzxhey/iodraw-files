@@ -135,7 +135,7 @@
           <mxGeometry x="56" y="376" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-6" value="判断用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="372" y="563" width="144" height="144" as="geometry" />
+          <mxGeometry x="359.5" y="563" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-7" value="浏览图书信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="597" y="780" width="157" height="48" as="geometry" />
@@ -162,7 +162,8 @@
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-14" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;exitDx=0;exitDy=0;" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="245" y="437" />
+              <mxPoint x="326" y="437" />
+              <mxPoint x="326" y="410" />
             </Array>
             <mxPoint x="245" y="410" as="targetPoint" />
           </mxGeometry>
