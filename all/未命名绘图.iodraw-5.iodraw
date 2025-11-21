@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpJ5Ag6zkSB2OLEfkQay" name="第 2 页">
-    <mxGraphModel dx="1149" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
           <mxGeometry x="382" y="387" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-5" value="提示登录失败信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="56" y="376" width="189" height="48" as="geometry" />
+          <mxGeometry x="-103" y="472" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-6" value="判断用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="563" width="144" height="144" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry x="328.5" y="785" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-10" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="1010" width="60" height="30" as="geometry" />
+          <mxGeometry x="401.5" y="1012" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-1" target="jNr3qlGCvcZ0BihlYfYQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -167,9 +167,6 @@
             </Array>
             <mxPoint x="245" y="410" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jNr3qlGCvcZ0BihlYfYQ-15" value="" style="startArrow=none;endArrow=block;exitX=0.48;exitY=0;entryX=0.18;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-5" target="jNr3qlGCvcZ0BihlYfYQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-16" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;exitDx=0;exitDy=0;" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-4" target="jNr3qlGCvcZ0BihlYfYQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
