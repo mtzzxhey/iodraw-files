@@ -117,16 +117,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="357" y="30" width="55" height="33" as="geometry" />
+          <mxGeometry x="403.5" y="36" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-2" value="用户访问登录界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="291" y="113" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfn5cFXxB9dQzZRlUkAL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-3" target="jNr3qlGCvcZ0BihlYfYQ-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="337.5" y="119" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-3" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="291" y="212" width="188" height="48" as="geometry" />
+          <mxGeometry x="337.5" y="218" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-4" value="   登录是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;align=center;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="382" y="387" width="99" height="99" as="geometry" />
