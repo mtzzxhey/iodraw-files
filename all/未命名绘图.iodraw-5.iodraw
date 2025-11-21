@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpJ5Ag6zkSB2OLEfkQay" name="第 2 页">
-    <mxGraphModel dx="315" dy="216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2443" dy="1678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-2" value="用户访问登录界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="291" y="113" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfn5cFXxB9dQzZRlUkAL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-3" target="jNr3qlGCvcZ0BihlYfYQ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-3" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="291" y="212" width="188" height="48" as="geometry" />
