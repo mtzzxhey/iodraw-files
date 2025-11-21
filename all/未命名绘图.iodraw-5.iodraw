@@ -143,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-5" value="提示登录失败信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="647" y="412.5" width="189" height="48" as="geometry" />
+          <mxGeometry x="581" y="412.5" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-6" value="判断用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="563" width="144" height="144" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="328.5" y="785" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-10" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="389" y="911" width="89.5" height="45" as="geometry" />
+          <mxGeometry x="386.25" y="911" width="89.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="jNr3qlGCvcZ0BihlYfYQ-11" value="" style="startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;" parent="1" source="jNr3qlGCvcZ0BihlYfYQ-1" target="jNr3qlGCvcZ0BihlYfYQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
