@@ -409,7 +409,7 @@
           <mxGeometry x="282" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="290" width="100" height="50" as="geometry" />
+          <mxGeometry x="596" y="304" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-4" target="k0V-pdjP5p4r8LEtDBkJ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -421,19 +421,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-5" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217" y="205" width="88" height="50" as="geometry" />
+          <mxGeometry x="206" y="207" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-6" target="k0V-pdjP5p4r8LEtDBkJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-6" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="201" width="88" height="50" as="geometry" />
+          <mxGeometry x="307" y="193" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-7" target="k0V-pdjP5p4r8LEtDBkJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-7" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="251" width="88" height="50" as="geometry" />
+          <mxGeometry x="414" y="214" width="88" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
