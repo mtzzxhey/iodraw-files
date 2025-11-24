@@ -438,6 +438,15 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-14" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="193" width="88" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-15" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="308" width="88" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-16" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="308" width="88" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-17" value="图书ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="193" width="88" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
