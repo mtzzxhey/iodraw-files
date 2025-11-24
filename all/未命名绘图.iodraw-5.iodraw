@@ -405,8 +405,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="316" width="120" height="60" as="geometry" />
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="285" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
