@@ -411,8 +411,8 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="290" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="306" width="120" height="80" as="geometry" />
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="193" width="93" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
