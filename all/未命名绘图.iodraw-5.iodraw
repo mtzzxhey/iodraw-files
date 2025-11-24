@@ -414,7 +414,7 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="153" y="185" width="88" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-5" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-5" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="185" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-6" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
