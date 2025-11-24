@@ -401,7 +401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wHJ4bcNbKJCpgyXw_L4h" name="第 8 页">
-    <mxGraphModel dx="391" dy="268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,7 +451,7 @@
           <mxGeometry x="696" y="225" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-15" value="图书类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="744" y="297" width="88" height="50" as="geometry" />
+          <mxGeometry x="743" y="318" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-17" value="图书ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="191" width="88" height="50" as="geometry" />
@@ -465,7 +465,7 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-25" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="293" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-26" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-26" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="512" y="293" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
