@@ -405,7 +405,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-1" target="k0V-pdjP5p4r8LEtDBkJ-21">
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-1" target="k0V-pdjP5p4r8LEtDBkJ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -456,7 +456,7 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-17" value="图书ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="191" width="88" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-21" target="k0V-pdjP5p4r8LEtDBkJ-3">
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="k0V-pdjP5p4r8LEtDBkJ-21" target="k0V-pdjP5p4r8LEtDBkJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-21" value="操作权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
