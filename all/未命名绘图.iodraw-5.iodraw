@@ -368,10 +368,10 @@
           <mxGeometry x="281" y="511" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Mba-K5wW9UXk5LPDMzs1-62" value="管控 tbl_user + tbl_book（增删改查）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="154" width="219" height="66" as="geometry" />
+          <mxGeometry x="624" y="154" width="195" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Mba-K5wW9UXk5LPDMzs1-63" value="仅查 tbl_book + 改本人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="270" width="259" height="48" as="geometry" />
+          <mxGeometry x="604" y="270" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Mba-K5wW9UXk5LPDMzs1-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-54" target="Mba-K5wW9UXk5LPDMzs1-55">
           <mxGeometry relative="1" as="geometry">
