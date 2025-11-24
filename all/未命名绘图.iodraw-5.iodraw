@@ -339,10 +339,92 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fpB6E1DJgMMtJJ7Q776f" name="第 7 页">
-    <mxGraphModel dx="977" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-54" value="用户表 tbl_user" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="118" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-55" value="id（主键）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="306" y="20" width="137" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-56" value="username（登录账号）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262" y="118" width="225" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-57" value="role（角色：ADMIN/USER）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="246" y="217" width="258" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-58" value="图书表 tbl_book" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="413" width="176" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-59" value="id（主键）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="306" y="315" width="137" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-60" value="name（图书名称）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="277" y="413" width="195" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-61" value="type（图书类型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="511" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-62" value="管控 tbl_user + tbl_book（增删改查）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624" y="154" width="219" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-63" value="仅查 tbl_book + 改本人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="604" y="270" width="259" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-54" target="Mba-K5wW9UXk5LPDMzs1-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="44" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-54" target="Mba-K5wW9UXk5LPDMzs1-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-54" target="Mba-K5wW9UXk5LPDMzs1-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-58" target="Mba-K5wW9UXk5LPDMzs1-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-58" target="Mba-K5wW9UXk5LPDMzs1-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-58" target="Mba-K5wW9UXk5LPDMzs1-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-70" value="ADMIN" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-57" target="Mba-K5wW9UXk5LPDMzs1-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mba-K5wW9UXk5LPDMzs1-71" value="USER" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Mba-K5wW9UXk5LPDMzs1-57" target="Mba-K5wW9UXk5LPDMzs1-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
