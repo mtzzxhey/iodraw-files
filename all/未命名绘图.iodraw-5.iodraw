@@ -453,6 +453,9 @@
         <mxCell id="k0V-pdjP5p4r8LEtDBkJ-17" value="图书ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582" y="188" width="88" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="k0V-pdjP5p4r8LEtDBkJ-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="280" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
