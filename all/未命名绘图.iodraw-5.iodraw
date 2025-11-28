@@ -482,6 +482,9 @@
         <mxCell id="PMr96AwtLqcxsCDnUsO0-2" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="-347" width="107" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-3" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="-347" width="107" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
