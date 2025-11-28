@@ -479,6 +479,12 @@
         <mxCell id="PMr96AwtLqcxsCDnUsO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-1" target="PMr96AwtLqcxsCDnUsO0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-1" target="PMr96AwtLqcxsCDnUsO0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-1" target="PMr96AwtLqcxsCDnUsO0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-1" value="图书管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="-490" width="107" height="45" as="geometry" />
         </mxCell>
@@ -486,7 +492,7 @@
           <mxGeometry x="278" y="-347" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-3" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="-347" width="107" height="45" as="geometry" />
+          <mxGeometry x="422" y="-347" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-4" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="-347" width="107" height="45" as="geometry" />
