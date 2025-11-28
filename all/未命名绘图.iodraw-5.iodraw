@@ -547,17 +547,32 @@
         <mxCell id="-NrrumXrRn1ObXtb50W4-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="209" width="62" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="-NrrumXrRn1ObXtb50W4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NrrumXrRn1ObXtb50W4-2" target="-NrrumXrRn1ObXtb50W4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-2" value="html页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="209" width="266" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="-NrrumXrRn1ObXtb50W4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NrrumXrRn1ObXtb50W4-3" target="-NrrumXrRn1ObXtb50W4-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-3" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="333" width="62" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="-NrrumXrRn1ObXtb50W4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NrrumXrRn1ObXtb50W4-4" target="-NrrumXrRn1ObXtb50W4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-4" value="Http接入，POST请求，GET请求，PUT请求，DELETE请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="333" width="266" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="-NrrumXrRn1ObXtb50W4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NrrumXrRn1ObXtb50W4-5" target="-NrrumXrRn1ObXtb50W4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-5" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="438" width="62" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="-NrrumXrRn1ObXtb50W4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NrrumXrRn1ObXtb50W4-6" target="-NrrumXrRn1ObXtb50W4-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-6" value="用户管理，图书管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="438" width="266" height="56" as="geometry" />
