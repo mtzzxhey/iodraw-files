@@ -488,6 +488,12 @@
         <mxCell id="PMr96AwtLqcxsCDnUsO0-1" value="图书管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="-490" width="107" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-2" target="PMr96AwtLqcxsCDnUsO0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-2" target="PMr96AwtLqcxsCDnUsO0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-2" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="-347" width="107" height="45" as="geometry" />
         </mxCell>
@@ -501,7 +507,7 @@
           <mxGeometry x="223" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-10" value="密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="-258" width="69" height="56" as="geometry" />
+          <mxGeometry x="327" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-11" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="-258" width="69" height="56" as="geometry" />
