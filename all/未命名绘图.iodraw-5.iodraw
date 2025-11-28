@@ -500,8 +500,14 @@
         <mxCell id="PMr96AwtLqcxsCDnUsO0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-3" target="PMr96AwtLqcxsCDnUsO0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-3" target="PMr96AwtLqcxsCDnUsO0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-3" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="-347" width="107" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMr96AwtLqcxsCDnUsO0-4" target="PMr96AwtLqcxsCDnUsO0-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-4" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581" y="-347" width="107" height="45" as="geometry" />
@@ -516,10 +522,10 @@
           <mxGeometry x="415" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="-258" width="69" height="56" as="geometry" />
+          <mxGeometry x="493" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-13" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="-258" width="69" height="56" as="geometry" />
+          <mxGeometry x="572" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-14" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="688" y="-258" width="69" height="56" as="geometry" />
