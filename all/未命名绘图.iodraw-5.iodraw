@@ -498,16 +498,19 @@
           <mxGeometry x="581" y="-347" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-9" value="账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-258" width="69" height="56" as="geometry" />
+          <mxGeometry x="223" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-10" value="密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-11" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-258" width="69" height="56" as="geometry" />
+          <mxGeometry x="409" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PMr96AwtLqcxsCDnUsO0-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="502" y="-258" width="69" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="PMr96AwtLqcxsCDnUsO0-13" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="-258" width="69" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
