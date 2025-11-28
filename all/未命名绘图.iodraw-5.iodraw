@@ -550,7 +550,7 @@
         <mxCell id="-NrrumXrRn1ObXtb50W4-3" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="333" width="62" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-NrrumXrRn1ObXtb50W4-4" value="html页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-NrrumXrRn1ObXtb50W4-4" value="Http接入，POST请求，GET请求，PUT请求，DELETE请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="333" width="266" height="56" as="geometry" />
         </mxCell>
         <mxCell id="-NrrumXrRn1ObXtb50W4-5" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
