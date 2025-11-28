@@ -544,7 +544,7 @@
         <mxCell id="-NrrumXrRn1ObXtb50W4-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="209" width="62" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-NrrumXrRn1ObXtb50W4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-NrrumXrRn1ObXtb50W4-2" value="html页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="209" width="266" height="56" as="geometry" />
         </mxCell>
       </root>
