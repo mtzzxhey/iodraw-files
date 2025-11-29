@@ -764,9 +764,13 @@
         <mxCell id="gt9p0pL4hTKihHvGmeQD-47" value="系统校验应用信息与安装包" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-24">
           <mxGeometry x="27.36" y="87" width="92.64" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="gt9p0pL4hTKihHvGmeQD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-24" source="gt9p0pL4hTKihHvGmeQD-55">
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-24" source="gt9p0pL4hTKihHvGmeQD-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="229.00005340576172" as="targetPoint" />
+            <mxPoint x="-63.57142639160156" y="373.00011444091797" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="324" />
+              <mxPoint x="-64" y="324" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-55" value="信息完整且符合格式？" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-24">
