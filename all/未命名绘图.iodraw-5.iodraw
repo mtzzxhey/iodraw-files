@@ -609,6 +609,9 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-2" target="hoOIW7V2EJB1eFpvZgdA-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-2" target="hoOIW7V2EJB1eFpvZgdA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-2" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="183" width="45" height="90" as="geometry" />
         </mxCell>
@@ -622,13 +625,13 @@
           <mxGeometry x="903" y="309" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-7" value="浏览/查询应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="133" width="100" height="50" as="geometry" />
+          <mxGeometry x="247" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-16" value="下载免费应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="169" width="100" height="50" as="geometry" />
+          <mxGeometry x="450" y="137" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-17" value="支付应用费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="229" width="100" height="50" as="geometry" />
+          <mxGeometry x="344" y="187" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-18" value="下载应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="289" width="100" height="50" as="geometry" />
