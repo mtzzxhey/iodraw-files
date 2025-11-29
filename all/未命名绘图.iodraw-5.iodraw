@@ -634,19 +634,19 @@
           <mxGeometry x="344" y="187" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-18" value="下载应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="289" width="100" height="50" as="geometry" />
+          <mxGeometry x="465" y="223" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-19" value="评价应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="307" width="100" height="50" as="geometry" />
+          <mxGeometry x="297" y="259" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-20" value="申请下架应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="325" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-21" value="更新应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="379" width="100" height="50" as="geometry" />
+          <mxGeometry x="334" y="410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-22" value="发布应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="333" width="100" height="50" as="geometry" />
+          <mxGeometry x="207" y="389" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-23" value="申请成为开发者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="445" width="100" height="50" as="geometry" />
@@ -667,7 +667,7 @@
           <mxGeometry x="726" y="485" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-34" value="查看应用评价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="389" width="100" height="50" as="geometry" />
+          <mxGeometry x="297" y="325" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
