@@ -627,6 +627,9 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-3" target="hoOIW7V2EJB1eFpvZgdA-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-3" target="hoOIW7V2EJB1eFpvZgdA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-3" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="405" width="45" height="90" as="geometry" />
         </mxCell>
@@ -658,7 +661,7 @@
           <mxGeometry x="450" y="339" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-23" value="申请成为开发者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="445" width="100" height="50" as="geometry" />
+          <mxGeometry x="166" y="345" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-24" value="设置应用收费方式及价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="527" width="100" height="50" as="geometry" />
