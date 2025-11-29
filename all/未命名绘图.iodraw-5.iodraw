@@ -728,7 +728,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gt9p0pL4hTKihHvGmeQD-22" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-22" value="应用商店系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="45" width="360" height="599" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-23" value="开发者" style="swimlane;startSize=20;html=1;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-22">
