@@ -637,7 +637,7 @@
           <mxGeometry x="278" y="307" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-20" value="申请下架应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711" y="233" width="100" height="50" as="geometry" />
+          <mxGeometry x="760" y="309" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-21" value="更新应用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="671" y="373" width="100" height="50" as="geometry" />
@@ -652,7 +652,7 @@
           <mxGeometry x="311" y="495" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-25" value="审核开发者申请&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="389" width="100" height="50" as="geometry" />
+          <mxGeometry x="771" y="389" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-26" value="审核应用发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="492" width="100" height="50" as="geometry" />
