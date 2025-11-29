@@ -587,12 +587,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Bvp4S1xlIvexJ2UuWlc" name="第 11 页">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="300" height="200" as="geometry" />
+          <mxGeometry x="155" y="120" width="690" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
