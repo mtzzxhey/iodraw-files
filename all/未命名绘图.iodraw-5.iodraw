@@ -633,8 +633,17 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-23" value="申请成为开发者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="233" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hoOIW7V2EJB1eFpvZgdA-24" value="查看应用评价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-24" value="设置应用收费方式及价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="329" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-25" value="审核开发者申请&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="329" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-26" value="设置应用收费方式及价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="329" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-27" value="设置应用收费方式及价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="749" y="329" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
