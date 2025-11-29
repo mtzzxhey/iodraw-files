@@ -639,6 +639,12 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-4" target="hoOIW7V2EJB1eFpvZgdA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-4" target="hoOIW7V2EJB1eFpvZgdA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-4" target="hoOIW7V2EJB1eFpvZgdA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-4" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="903" y="309" width="45" height="90" as="geometry" />
         </mxCell>
