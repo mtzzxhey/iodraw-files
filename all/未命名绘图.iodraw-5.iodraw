@@ -724,12 +724,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZBHPgS-WqpA55hkXEuwK" name="第 12 页">
-    <mxGraphModel dx="977" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gt9p0pL4hTKihHvGmeQD-22" value="应用商店系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="45" width="372" height="599" as="geometry" />
+          <mxGeometry x="232" y="35" width="372" height="599" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-23" value="开发者" style="swimlane;startSize=20;html=1;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-22">
           <mxGeometry y="20" width="122" height="579" as="geometry" />
