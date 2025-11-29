@@ -820,10 +820,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gt9p0pL4hTKihHvGmeQD-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-25" source="gt9p0pL4hTKihHvGmeQD-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260.0001678466797" y="264.71434783935547" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-25" source="gt9p0pL4hTKihHvGmeQD-87" target="gt9p0pL4hTKihHvGmeQD-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-87" value="审核是否通过？" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
           <mxGeometry x="70" y="167" width="96" height="66" as="geometry" />
@@ -842,6 +840,9 @@
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-94" value="" style="ellipse;html=1;shape=endState;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
           <mxGeometry x="103" y="431" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-103" value="将应用上架到应用商店" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
+          <mxGeometry x="195" y="265" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-22" source="gt9p0pL4hTKihHvGmeQD-55" target="gt9p0pL4hTKihHvGmeQD-66">
           <mxGeometry relative="1" as="geometry">
