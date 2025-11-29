@@ -597,6 +597,9 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-2" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="204" width="45" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hoOIW7V2EJB1eFpvZgdA-3" target="hoOIW7V2EJB1eFpvZgdA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-3" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="405" width="45" height="90" as="geometry" />
         </mxCell>
