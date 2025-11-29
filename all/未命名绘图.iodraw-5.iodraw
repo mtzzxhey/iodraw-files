@@ -591,7 +591,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hoOIW7V2EJB1eFpvZgdA-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-1" value="应用商店系统" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="124" width="690" height="460" as="geometry" />
         </mxCell>
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-2" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
