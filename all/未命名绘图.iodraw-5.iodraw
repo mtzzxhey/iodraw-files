@@ -843,6 +843,9 @@
         <mxCell id="gt9p0pL4hTKihHvGmeQD-90" value="将应用上架到应用商店" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
           <mxGeometry x="15.94" y="308" width="88.12" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-94" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
+          <mxGeometry x="45" y="474" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
