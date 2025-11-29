@@ -600,6 +600,9 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-3" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="405" width="45" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-4" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903" y="309" width="45" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
