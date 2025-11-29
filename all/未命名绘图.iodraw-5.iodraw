@@ -813,7 +813,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-85" value="查看应用信息与相关材料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
-          <mxGeometry x="104.94" y="45" width="88.12" height="39" as="geometry" />
+          <mxGeometry x="87.94" y="43" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-25" source="gt9p0pL4hTKihHvGmeQD-87" target="gt9p0pL4hTKihHvGmeQD-90">
           <mxGeometry relative="1" as="geometry" />
@@ -824,25 +824,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-87" value="审核是否通过？" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
-          <mxGeometry x="101" y="170" width="96" height="66" as="geometry" />
+          <mxGeometry x="84" y="168" width="96" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-25" source="gt9p0pL4hTKihHvGmeQD-89" target="gt9p0pL4hTKihHvGmeQD-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-89" value="通知开发者审核通过" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
-          <mxGeometry x="104.94" y="346" width="88.12" height="39" as="geometry" />
+          <mxGeometry x="87.94" y="344" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-25" source="gt9p0pL4hTKihHvGmeQD-90" target="gt9p0pL4hTKihHvGmeQD-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-90" value="将应用上架到应用商店" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
-          <mxGeometry x="104.94" y="268" width="88.12" height="39" as="geometry" />
+          <mxGeometry x="87.94" y="266" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-94" value="" style="ellipse;html=1;shape=endState;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
-          <mxGeometry x="134" y="434" width="30" height="30" as="geometry" />
+          <mxGeometry x="117" y="432" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-22" source="gt9p0pL4hTKihHvGmeQD-82" target="gt9p0pL4hTKihHvGmeQD-85">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="428" />
+              <mxPoint x="448" y="83" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
