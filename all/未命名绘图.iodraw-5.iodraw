@@ -796,6 +796,9 @@
         <mxCell id="gt9p0pL4hTKihHvGmeQD-85" value="查看应用信息与相关材料" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
           <mxGeometry x="23" y="227" width="88.12" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-87" value="信息完整且符合格式？" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-25">
+          <mxGeometry x="12" y="326" width="96" height="66" as="geometry" />
+        </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-22" source="gt9p0pL4hTKihHvGmeQD-37" target="gt9p0pL4hTKihHvGmeQD-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -810,6 +813,14 @@
         <mxCell id="gt9p0pL4hTKihHvGmeQD-72" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt9p0pL4hTKihHvGmeQD-71">
           <mxGeometry x="-0.0475" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-22" source="gt9p0pL4hTKihHvGmeQD-82" target="gt9p0pL4hTKihHvGmeQD-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="428" />
+              <mxPoint x="244" y="267" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
