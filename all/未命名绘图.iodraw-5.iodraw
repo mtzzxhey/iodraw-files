@@ -793,7 +793,7 @@
           <mxGeometry x="32.94" y="283.5" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-82" value="生成审核任务/通知管理员审核" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;labelBackgroundColor=none;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-24">
-          <mxGeometry x="32.94" y="387.5" width="88.12" height="39" as="geometry" />
+          <mxGeometry x="32.94" y="451" width="88.12" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-22" source="gt9p0pL4hTKihHvGmeQD-37" target="gt9p0pL4hTKihHvGmeQD-47">
           <mxGeometry relative="1" as="geometry">
