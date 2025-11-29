@@ -773,6 +773,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="gt9p0pL4hTKihHvGmeQD-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt9p0pL4hTKihHvGmeQD-64">
+          <mxGeometry x="-0.3652" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-55" value="信息完整且符合格式？" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-24">
           <mxGeometry x="20" y="163" width="96" height="66" as="geometry" />
         </mxCell>
