@@ -594,8 +594,8 @@
         <mxCell id="hoOIW7V2EJB1eFpvZgdA-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="124" width="690" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="hoOIW7V2EJB1eFpvZgdA-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="316" width="30" height="60" as="geometry" />
+        <mxCell id="hoOIW7V2EJB1eFpvZgdA-2" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="204" width="45" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
