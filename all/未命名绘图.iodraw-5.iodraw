@@ -738,22 +738,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-23">
-          <mxGeometry x="49" y="33" width="26" height="26" as="geometry" />
+          <mxGeometry x="104" y="31" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-23" source="gt9p0pL4hTKihHvGmeQD-28" target="gt9p0pL4hTKihHvGmeQD-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-28" value="选择发布应用功能" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-23">
-          <mxGeometry x="24.72" y="93" width="74.56" height="33" as="geometry" />
+          <mxGeometry x="79.72" y="91" width="74.56" height="33" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-23" source="gt9p0pL4hTKihHvGmeQD-35" target="gt9p0pL4hTKihHvGmeQD-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-35" value="上传应用安装包并填写应用信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-23">
-          <mxGeometry x="15.68" y="168" width="92.64" height="41" as="geometry" />
+          <mxGeometry x="70.68" y="166" width="92.64" height="41" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-37" value="设置是否收费及价格" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-23">
-          <mxGeometry x="20.2" y="240" width="83.6" height="37" as="geometry" />
+          <mxGeometry x="75.2" y="238" width="83.6" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gt9p0pL4hTKihHvGmeQD-23" source="gt9p0pL4hTKihHvGmeQD-66" target="gt9p0pL4hTKihHvGmeQD-35">
           <mxGeometry relative="1" as="geometry">
@@ -764,7 +764,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-66" value="提示错误并要求修改" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-23">
-          <mxGeometry x="14.680000000000007" y="349" width="92.64" height="41" as="geometry" />
+          <mxGeometry x="69.68" y="347" width="92.64" height="41" as="geometry" />
         </mxCell>
         <mxCell id="gt9p0pL4hTKihHvGmeQD-24" value="系统&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="swimlane;startSize=20;html=1;" vertex="1" parent="gt9p0pL4hTKihHvGmeQD-22">
           <mxGeometry x="233" y="20" width="177" height="600" as="geometry" />
