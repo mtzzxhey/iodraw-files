@@ -21,6 +21,9 @@
         <mxCell id="Vjw3IrRyVkDDXJui638H-3" value="已售" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="48" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-4" target="6UlU9BZGSOr58WEgdkMY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-4" value="过期" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="430" y="363" width="48" height="34" as="geometry" />
         </mxCell>
@@ -37,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6UlU9BZGSOr58WEgdkMY-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="439" y="454" width="30" height="30" as="geometry" />
+          <mxGeometry x="443" y="458" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
