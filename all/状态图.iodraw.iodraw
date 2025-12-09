@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kJivAAzxvwiMM3piTGUG" name="第 2 页">
-    <mxGraphModel dx="158" dy="108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-2" value="库存" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="301.5" y="256" width="49" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-3" target="6UlU9BZGSOr58WEgdkMY-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-3" value="已售" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="301" y="430" width="48" height="34" as="geometry" />
@@ -37,7 +40,7 @@
           <mxGeometry x="623" y="470" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="6UlU9BZGSOr58WEgdkMY-5" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="520" width="22" height="22" as="geometry" />
+          <mxGeometry x="314" y="520" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="6UlU9BZGSOr58WEgdkMY-8" value="退货" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="588" width="48" height="34" as="geometry" />
@@ -48,7 +51,7 @@
         <mxCell id="6UlU9BZGSOr58WEgdkMY-15" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6UlU9BZGSOr58WEgdkMY-16" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="6UlU9BZGSOr58WEgdkMY-15" parent="1">
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-16" value="存在质量" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="6UlU9BZGSOr58WEgdkMY-15" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="465" y="350" as="targetPoint" />
           </mxGeometry>
