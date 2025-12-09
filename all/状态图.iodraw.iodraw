@@ -36,7 +36,7 @@
         <mxCell id="Vjw3IrRyVkDDXJui638H-6" value="销售" style="startArrow=none;;exitX=-0.01;exitY=0.88;entryX=0.15;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-2" target="Vjw3IrRyVkDDXJui638H-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vjw3IrRyVkDDXJui638H-7" value="退货（质量问题）" style="startArrow=none;;exitX=0.85;exitY=0;entryX=0.49;entryY=1.02;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-3" target="Vjw3IrRyVkDDXJui638H-2">
+        <mxCell id="Vjw3IrRyVkDDXJui638H-7" value="退货（质量问题）" style="startArrow=none;;exitX=0.85;exitY=0;entryX=0.49;entryY=1.02;rounded=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-3" target="Vjw3IrRyVkDDXJui638H-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-8" value="超过保质期" style="startArrow=none;;exitX=0.99;exitY=0.81;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-2" target="Vjw3IrRyVkDDXJui638H-4">
