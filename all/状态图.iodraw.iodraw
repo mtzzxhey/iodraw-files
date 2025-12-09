@@ -39,21 +39,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kJivAAzxvwiMM3piTGUG" name="第 2 页">
-    <mxGraphModel dx="1217" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vjw3IrRyVkDDXJui638H-1" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="117" y="20" width="14" height="14" as="geometry" />
+          <mxGeometry x="377" y="110" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-2" value="库存" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="100" y="106" width="49" height="34" as="geometry" />
+          <mxGeometry x="360" y="196" width="49" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-3" value="已售" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="48" y="213" width="48" height="34" as="geometry" />
+          <mxGeometry x="308" y="303" width="48" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-4" value="过期" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="228" y="213" width="48" height="34" as="geometry" />
+          <mxGeometry x="488" y="303" width="48" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-5" value="入库" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-1" target="Vjw3IrRyVkDDXJui638H-2">
           <mxGeometry relative="1" as="geometry">
@@ -63,21 +63,21 @@
         <mxCell id="Vjw3IrRyVkDDXJui638H-6" value="销售" style="curved=1;startArrow=none;;exitX=-0.01;exitY=0.88;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-2" target="Vjw3IrRyVkDDXJui638H-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="177" />
+              <mxPoint x="280" y="267" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-7" value="退货（质量问题）" style="curved=1;startArrow=none;;exitX=0.85;exitY=0;entryX=0.49;entryY=1.02;rounded=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-3" target="Vjw3IrRyVkDDXJui638H-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="177" />
+              <mxPoint x="384" y="267" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-8" value="超过保质期" style="curved=1;startArrow=none;;exitX=0.99;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vjw3IrRyVkDDXJui638H-2" target="Vjw3IrRyVkDDXJui638H-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="177" />
+              <mxPoint x="512" y="267" />
             </Array>
           </mxGeometry>
         </mxCell>
