@@ -12,7 +12,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vjw3IrRyVkDDXJui638H-1" value="" style="ellipse;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Vjw3IrRyVkDDXJui638H-1" value="" style="ellipse;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="319" y="170" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Vjw3IrRyVkDDXJui638H-2" value="库存" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -45,7 +45,7 @@
         <mxCell id="6UlU9BZGSOr58WEgdkMY-1" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="443" y="458" width="22" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="6UlU9BZGSOr58WEgdkMY-5" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-5" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="183" y="510" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
