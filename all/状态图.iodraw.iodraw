@@ -59,6 +59,14 @@
         <mxCell id="6UlU9BZGSOr58WEgdkMY-15" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="330" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UlU9BZGSOr58WEgdkMY-22" target="Vjw3IrRyVkDDXJui638H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6UlU9BZGSOr58WEgdkMY-28">
+          <mxGeometry x="0.3543" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6UlU9BZGSOr58WEgdkMY-22" value="退货" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="430" width="48" height="34" as="geometry" />
         </mxCell>
