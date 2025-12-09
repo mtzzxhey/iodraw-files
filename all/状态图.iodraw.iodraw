@@ -45,13 +45,10 @@
         <mxCell id="6UlU9BZGSOr58WEgdkMY-5" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;fillColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="520" width="22" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="6UlU9BZGSOr58WEgdkMY-8" value="退货" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="588" width="48" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="6UlU9BZGSOr58WEgdkMY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6UlU9BZGSOr58WEgdkMY-15" target="Vjw3IrRyVkDDXJui638H-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6UlU9BZGSOr58WEgdkMY-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6UlU9BZGSOr58WEgdkMY-18">
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-31" value="不存在质量问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6UlU9BZGSOr58WEgdkMY-18">
           <mxGeometry x="-0.2664" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
