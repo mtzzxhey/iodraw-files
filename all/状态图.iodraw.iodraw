@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9oFNrL10k43QJJNG4IYm">
-    <mxGraphModel dx="1432" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,14 +16,6 @@
         <mxCell id="kt88PT-nbgnqmOUBAcNi-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="kt88PT-nbgnqmOUBAcNi-17" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kt88PT-nbgnqmOUBAcNi-20" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="320" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kt88PT-nbgnqmOUBAcNi-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="kt88PT-nbgnqmOUBAcNi-20" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
