@@ -48,6 +48,9 @@
         <mxCell id="6UlU9BZGSOr58WEgdkMY-5" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="183" y="510" width="22" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="6UlU9BZGSOr58WEgdkMY-8" value="已售" style="rounded=1;arcSize=20;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="48" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
