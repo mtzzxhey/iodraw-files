@@ -178,7 +178,10 @@
           <mxGeometry x="102" y="405" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-4" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="872" y="338" width="38" height="76" as="geometry" />
+          <mxGeometry x="875" y="414" width="38" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-5" value="系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="177" width="38" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
