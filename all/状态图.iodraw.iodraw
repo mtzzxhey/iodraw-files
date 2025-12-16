@@ -186,7 +186,7 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-3" target="1-elhEaKA8M1fsaBLbr5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-elhEaKA8M1fsaBLbr5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-3" target="1-elhEaKA8M1fsaBLbr5-11">
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-3" target="1-elhEaKA8M1fsaBLbr5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-3" value="教练" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -205,7 +205,7 @@
           <mxGeometry x="493" y="335" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-8" value="查看课程安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="377" width="112" height="56" as="geometry" />
+          <mxGeometry x="209" y="493" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-9" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="136" width="112" height="56" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="321" y="219" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-11" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="469" width="112" height="56" as="geometry" />
+          <mxGeometry x="312" y="452" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="377" width="112" height="56" as="geometry" />
