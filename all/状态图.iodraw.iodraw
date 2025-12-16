@@ -88,13 +88,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-1" value="电影院售票系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="70" width="240" height="490" as="geometry" />
+          <mxGeometry x="260" y="90" width="470" height="490" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-2" value="顾客" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
-          <mxGeometry y="20" width="120" height="470" as="geometry" />
+          <mxGeometry y="20" width="240" height="470" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-3" value="售票系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
-          <mxGeometry x="120" y="20" width="120" height="470" as="geometry" />
+          <mxGeometry x="240" y="20" width="230" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
