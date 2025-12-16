@@ -169,7 +169,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1-elhEaKA8M1fsaBLbr5-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="333" y="232" width="300" height="200" as="geometry" />
+          <mxGeometry x="176" y="129" width="663" height="442" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="146" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
