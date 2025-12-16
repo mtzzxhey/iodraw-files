@@ -105,23 +105,8 @@
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-8" value="检查所选座位是否可售" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
           <mxGeometry x="50" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVgiWz7i0GaAQ8EF_D4Z-8" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-11" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
-          <mxGeometry x="60" y="150" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-12" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVgiWz7i0GaAQ8EF_D4Z-11" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="240" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-13" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVgiWz7i0GaAQ8EF_D4Z-11" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="100" y="250" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-11" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
+          <mxGeometry x="70" y="130" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
