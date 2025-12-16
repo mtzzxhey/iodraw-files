@@ -208,10 +208,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-4" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="280" width="38" height="76" as="geometry" />
+          <mxGeometry x="896" y="329" width="38" height="76" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="304" width="112" height="56" as="geometry" />
+          <mxGeometry x="451.5" y="343" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-7" value="管理会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="440" width="112" height="56" as="geometry" />
@@ -232,7 +232,7 @@
           <mxGeometry x="627" y="505" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-20" value="统计会员消费记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="240" width="112" height="56" as="geometry" />
+          <mxGeometry x="529" y="267" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-25" value="升级会员等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="169" width="112" height="56" as="geometry" />
