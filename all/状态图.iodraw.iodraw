@@ -211,7 +211,7 @@
           <mxGeometry x="896" y="329" width="38" height="76" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456" y="293" width="112" height="56" as="geometry" />
+          <mxGeometry x="457" y="284" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-7" value="管理会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="391" width="112" height="56" as="geometry" />
@@ -223,7 +223,7 @@
           <mxGeometry x="349" y="141" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-10" value="预定课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="228" width="112" height="56" as="geometry" />
+          <mxGeometry x="358" y="216" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-11" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="492" width="112" height="56" as="geometry" />
@@ -246,7 +246,7 @@
           <mxGeometry x="694" y="146" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-29" value="添加会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="346" width="112" height="56" as="geometry" />
+          <mxGeometry x="520" y="339" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-30" target="1-elhEaKA8M1fsaBLbr5-7">
           <mxGeometry relative="1" as="geometry" />
@@ -254,7 +254,7 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-30" value="删除会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="414" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="1-elhEaKA8M1fsaBLbr5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-31" target="1-elhEaKA8M1fsaBLbr5-7">
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-31" target="1-elhEaKA8M1fsaBLbr5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-31" value="修改会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -262,6 +262,11 @@
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.314;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-29" target="1-elhEaKA8M1fsaBLbr5-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-elhEaKA8M1fsaBLbr5-32">
+          <mxGeometry x="-0.215" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
