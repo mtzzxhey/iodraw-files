@@ -93,18 +93,16 @@
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-2" value="顾客" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
           <mxGeometry y="20" width="240" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2" source="VVgiWz7i0GaAQ8EF_D4Z-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-5" value="选择观影场次和座位" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2">
           <mxGeometry x="60" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1" source="VVgiWz7i0GaAQ8EF_D4Z-5" target="VVgiWz7i0GaAQ8EF_D4Z-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-3" value="售票系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
           <mxGeometry x="240" y="20" width="230" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-8" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-8" value="检查所选座位是否可售" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
           <mxGeometry x="70" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVgiWz7i0GaAQ8EF_D4Z-8" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
