@@ -87,7 +87,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-1" value="电影院售票系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.00000000000045" y="90" width="360" height="480" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-2" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
