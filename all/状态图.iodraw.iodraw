@@ -148,7 +148,7 @@
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-29" value="生成电子票" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;labelBackgroundColor=none;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
           <mxGeometry x="40" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-31" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-31" value="" style="ellipse;html=1;shape=endState;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
           <mxGeometry x="90" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1" source="VVgiWz7i0GaAQ8EF_D4Z-27" target="VVgiWz7i0GaAQ8EF_D4Z-29">
