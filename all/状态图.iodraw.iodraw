@@ -183,7 +183,7 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-5" value="系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="872" y="177" width="38" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="1-elhEaKA8M1fsaBLbr5-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="145" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -191,6 +191,18 @@
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433" y="268" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="186" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-10" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="186" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="275" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="377" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
