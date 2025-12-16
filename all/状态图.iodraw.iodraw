@@ -171,6 +171,9 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-1" value="会员管理系统" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="129" width="663" height="442" as="geometry" />
         </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-2" target="1-elhEaKA8M1fsaBLbr5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-2" value="会员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="155" width="35" height="70" as="geometry" />
         </mxCell>
@@ -184,10 +187,10 @@
           <mxGeometry x="872" y="177" width="38" height="76" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="145" width="112" height="56" as="geometry" />
+          <mxGeometry x="234" y="173" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="268" width="112" height="56" as="geometry" />
+          <mxGeometry x="493" y="335" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433" y="268" width="112" height="56" as="geometry" />
