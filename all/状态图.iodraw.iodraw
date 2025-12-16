@@ -113,14 +113,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2" source="VVgiWz7i0GaAQ8EF_D4Z-11" target="VVgiWz7i0GaAQ8EF_D4Z-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-26" value="不可售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="VVgiWz7i0GaAQ8EF_D4Z-23">
-          <mxGeometry x="-0.7923" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-11" value="" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2">
           <mxGeometry x="310" y="190" width="80" height="40" as="geometry" />
         </mxCell>
