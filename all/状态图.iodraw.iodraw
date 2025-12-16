@@ -83,18 +83,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ldQGLEKZbricHLUqYPfd" name="第 3 页">
-    <mxGraphModel dx="2146" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-1" value="电影院售票系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="90" width="230" height="490" as="geometry" />
+          <mxGeometry x="210" y="70" width="490" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-3" value="售票系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
-          <mxGeometry y="20" width="230" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-2" value="顾客" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-3">
-          <mxGeometry x="-295" width="310" height="470" as="geometry" />
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-2" value="顾客" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
+          <mxGeometry y="20" width="260" height="470" as="geometry" />
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-5" value="选择观影场次和座位" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2">
           <mxGeometry x="60" y="100" width="120" height="40" as="geometry" />
@@ -116,6 +113,9 @@
         </mxCell>
         <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-16" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-2">
           <mxGeometry x="105" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVgiWz7i0GaAQ8EF_D4Z-3" value="售票系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="VVgiWz7i0GaAQ8EF_D4Z-1">
+          <mxGeometry x="260" y="20" width="230" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
