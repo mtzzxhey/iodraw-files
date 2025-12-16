@@ -177,6 +177,9 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-2" target="1-elhEaKA8M1fsaBLbr5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-2" target="1-elhEaKA8M1fsaBLbr5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-2" value="会员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="155" width="35" height="70" as="geometry" />
         </mxCell>
@@ -199,13 +202,13 @@
           <mxGeometry x="493" y="335" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-8" value="查看课程安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433" y="268" width="112" height="56" as="geometry" />
+          <mxGeometry x="283" y="391" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-9" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282" y="174" width="112" height="56" as="geometry" />
+          <mxGeometry x="330" y="136" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-10" value="预定课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="186" width="112" height="56" as="geometry" />
+          <mxGeometry x="321" y="219" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-11" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="275" width="112" height="56" as="geometry" />
