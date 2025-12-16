@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZEYNBn-pFZYX5evqJub1" name="第 4 页">
-    <mxGraphModel dx="977" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
           <mxGeometry x="694" y="146" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-29" value="添加会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="364" width="112" height="56" as="geometry" />
+          <mxGeometry x="447" y="373" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-30" target="1-elhEaKA8M1fsaBLbr5-7">
           <mxGeometry relative="1" as="geometry" />
@@ -259,7 +259,7 @@
         <mxCell id="1-elhEaKA8M1fsaBLbr5-30" value="删除会员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="448" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="1-elhEaKA8M1fsaBLbr5-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-31" target="1-elhEaKA8M1fsaBLbr5-7">
+        <mxCell id="1-elhEaKA8M1fsaBLbr5-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.739;exitY=0.105;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="1-elhEaKA8M1fsaBLbr5-31" target="1-elhEaKA8M1fsaBLbr5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-elhEaKA8M1fsaBLbr5-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-elhEaKA8M1fsaBLbr5-34">
