@@ -292,7 +292,7 @@
         <mxCell id="L9023VB0WEjXDbk9WIyc-41" value="+ 旅客ID: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-40">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="L9023VB0WEjXDbk9WIyc-42" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-40">
+        <mxCell id="L9023VB0WEjXDbk9WIyc-42" value="+ 姓名: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-40">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-43" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-40">
