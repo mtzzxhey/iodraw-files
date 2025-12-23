@@ -319,7 +319,7 @@
         <mxCell id="L9023VB0WEjXDbk9WIyc-47" value="+ 证件号码: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-44">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="L9023VB0WEjXDbk9WIyc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L9023VB0WEjXDbk9WIyc-48" target="L9023VB0WEjXDbk9WIyc-75">
+        <mxCell id="L9023VB0WEjXDbk9WIyc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="L9023VB0WEjXDbk9WIyc-48" target="L9023VB0WEjXDbk9WIyc-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-48" value="订单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
