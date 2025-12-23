@@ -286,7 +286,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L9023VB0WEjXDbk9WIyc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L9023VB0WEjXDbk9WIyc-40" target="L9023VB0WEjXDbk9WIyc-48">
+        <mxCell id="L9023VB0WEjXDbk9WIyc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L9023VB0WEjXDbk9WIyc-40" target="L9023VB0WEjXDbk9WIyc-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-40" value="已注册旅客" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-44" value="乘机人" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="119" width="140" height="104" as="geometry" />
+          <mxGeometry x="620" y="200" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-45" value="+ 乘机人姓名: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-44">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -370,9 +370,6 @@
         <mxCell id="L9023VB0WEjXDbk9WIyc-64" value="+ 余票数量: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="L9023VB0WEjXDbk9WIyc-52">
           <mxGeometry y="260" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="L9023VB0WEjXDbk9WIyc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L9023VB0WEjXDbk9WIyc-43" target="L9023VB0WEjXDbk9WIyc-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-67" value="电子机票类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="438" width="200" height="130" as="geometry" />
         </mxCell>
@@ -407,7 +404,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-81" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="228" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" y="220" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L9023VB0WEjXDbk9WIyc-82" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="408" width="30" height="30" as="geometry" />
