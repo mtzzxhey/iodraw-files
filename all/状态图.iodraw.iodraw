@@ -499,11 +499,11 @@
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="470" as="sourcePoint" />
             <mxPoint x="610" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="470" />
-              <mxPoint x="610" y="470" />
+              <mxPoint x="490" y="420" />
+              <mxPoint x="610" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
