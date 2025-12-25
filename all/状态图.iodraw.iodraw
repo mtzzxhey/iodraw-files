@@ -485,6 +485,14 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="10" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-8" target="NMBBuTZ-DAPvt6JvT-uP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="420" />
+              <mxPoint x="520" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="10" height="100" as="geometry" />
         </mxCell>
@@ -496,16 +504,6 @@
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="582" y="160" width="66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="470" as="sourcePoint" />
-            <mxPoint x="610" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="420" />
-              <mxPoint x="610" y="420" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
