@@ -559,8 +559,11 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-32" value="发送订单数据()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="296" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-33" value="显示提交数据()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-33" value="显示提交结果()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="368" y="436" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-34" value="发送订单数据()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="296" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
