@@ -488,8 +488,8 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-8" target="NMBBuTZ-DAPvt6JvT-uP-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="420" />
-              <mxPoint x="520" y="420" />
+              <mxPoint x="550" y="440" />
+              <mxPoint x="550" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -504,6 +504,9 @@
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="582" y="160" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-19" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
