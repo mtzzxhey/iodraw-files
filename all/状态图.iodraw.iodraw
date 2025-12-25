@@ -456,10 +456,23 @@
           <mxGeometry x="230" y="260" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-6" target="NMBBuTZ-DAPvt6JvT-uP-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="320" />
+              <mxPoint x="420" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-7" target="NMBBuTZ-DAPvt6JvT-uP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="395" />
+              <mxPoint x="390" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="10" height="150" as="geometry" />
