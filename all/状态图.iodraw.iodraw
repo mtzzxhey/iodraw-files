@@ -565,6 +565,9 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-34" value="验证数据合法性()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="488" y="346" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-35" value="验证数据合法性()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="346" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
