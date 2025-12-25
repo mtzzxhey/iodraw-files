@@ -434,7 +434,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1JDDwY2kyJUPjhunVuaE" name="第 6 页">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,6 +504,12 @@
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="582" y="160" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="250" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
