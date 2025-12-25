@@ -441,9 +441,6 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-1" value="sd登录" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="768" height="512" as="geometry" />
         </mxCell>
-        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-2" target="NMBBuTZ-DAPvt6JvT-uP-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-2" value=":用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="30" height="60" as="geometry" />
         </mxCell>
