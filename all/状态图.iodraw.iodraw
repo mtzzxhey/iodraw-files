@@ -505,10 +505,10 @@
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="582" y="160" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="NMBBuTZ-DAPvt6JvT-uP-3">
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="250" as="sourcePoint" />
-            <mxPoint x="240" y="200" as="targetPoint" />
+            <mxPoint x="234.66" y="260" as="sourcePoint" />
+            <mxPoint x="235" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
