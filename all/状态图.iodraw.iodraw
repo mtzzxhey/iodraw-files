@@ -507,8 +507,8 @@
         </mxCell>
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234.66" y="260" as="sourcePoint" />
-            <mxPoint x="235" y="220" as="targetPoint" />
+            <mxPoint x="350" y="260" as="sourcePoint" />
+            <mxPoint x="350.34000000000003" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
