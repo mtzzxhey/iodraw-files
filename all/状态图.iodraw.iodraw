@@ -439,7 +439,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NMBBuTZ-DAPvt6JvT-uP-1" value="sd登录" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="70" width="768" height="512" as="geometry" />
+          <mxGeometry x="120" y="80" width="768" height="512" as="geometry" />
+        </mxCell>
+        <mxCell id="NMBBuTZ-DAPvt6JvT-uP-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
