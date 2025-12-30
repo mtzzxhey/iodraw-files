@@ -598,7 +598,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZN185V1FmAEXoqy9XK-7" target="vrZN185V1FmAEXoqy9XK-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="590" />
+              <mxPoint x="280" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vrZN185V1FmAEXoqy9XK-18">
+          <mxGeometry x="0.0456" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-7" value="是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="100" height="100" as="geometry" />
