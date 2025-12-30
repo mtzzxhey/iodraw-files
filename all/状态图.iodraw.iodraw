@@ -629,8 +629,8 @@
         <mxCell id="vrZN185V1FmAEXoqy9XK-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.2266666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
-        <mxCell id="vrZN185V1FmAEXoqy9XK-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;进入系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469.99666666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+        <mxCell id="vrZN185V1FmAEXoqy9XK-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;班级管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.99666666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
