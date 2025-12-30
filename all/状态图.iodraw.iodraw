@@ -682,8 +682,8 @@
         <mxCell id="eQCh_LANlD7QuvgTHkjL-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="269" width="71" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="eQCh_LANlD7QuvgTHkjL-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="372" y="355" width="40" height="26" as="geometry" />
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-2" value="&lt;b&gt;员工&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="357" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
