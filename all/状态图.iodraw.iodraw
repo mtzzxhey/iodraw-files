@@ -723,6 +723,9 @@
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ms1iKsnOhCvTk5u4CT9C-2" target="Ms1iKsnOhCvTk5u4CT9C-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ms1iKsnOhCvTk5u4CT9C-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ms1iKsnOhCvTk5u4CT9C-2" target="Ms1iKsnOhCvTk5u4CT9C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-2" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="308" width="41" height="82" as="geometry" />
         </mxCell>
@@ -733,10 +736,10 @@
           <mxGeometry x="229" y="153" width="110.01" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-6" value="员工管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="306" width="113.51" height="65" as="geometry" />
+          <mxGeometry x="388" y="321" width="113.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-7" value="班级管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="106.52" height="61" as="geometry" />
+          <mxGeometry x="383" y="397" width="106.52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-8" value="部门管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="194" width="110.01" height="63" as="geometry" />
@@ -745,7 +748,7 @@
           <mxGeometry x="333" y="479" width="113.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-11" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="553.75" y="468" width="113.51" height="65" as="geometry" />
+          <mxGeometry x="621" y="342" width="113.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ms1iKsnOhCvTk5u4CT9C-2" target="Ms1iKsnOhCvTk5u4CT9C-7">
           <mxGeometry relative="1" as="geometry" />
