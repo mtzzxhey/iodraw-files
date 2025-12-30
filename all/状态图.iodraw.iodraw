@@ -679,11 +679,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eQCh_LANlD7QuvgTHkjL-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="269" width="71" height="85" as="geometry" />
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="214" width="71" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="eQCh_LANlD7QuvgTHkjL-2" value="&lt;b&gt;员工&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="357" width="42" height="26" as="geometry" />
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="eQCh_LANlD7QuvgTHkjL-3">
+          <mxGeometry width="71" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-2" value="&lt;b&gt;员工&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eQCh_LANlD7QuvgTHkjL-3">
+          <mxGeometry x="14.5" y="88" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="255" y="360" width="74.5" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-5" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="eQCh_LANlD7QuvgTHkjL-4">
+          <mxGeometry width="71" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCh_LANlD7QuvgTHkjL-6" value="&lt;b&gt;系统管理员&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eQCh_LANlD7QuvgTHkjL-4">
+          <mxGeometry x="-3.5" y="88" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
