@@ -632,6 +632,9 @@
         <mxCell id="vrZN185V1FmAEXoqy9XK-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;班级管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479.99666666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639.9966666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
