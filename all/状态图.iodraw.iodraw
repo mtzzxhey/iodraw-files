@@ -582,6 +582,12 @@
         <mxCell id="vrZN185V1FmAEXoqy9XK-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;身份验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;获取令牌&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;获取令牌&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
