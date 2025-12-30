@@ -572,7 +572,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1qjVDen0uU6hNk25Xua5" name="第 7 页">
-    <mxGraphModel dx="977" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,11 +605,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrZN185V1FmAEXoqy9XK-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vrZN185V1FmAEXoqy9XK-18">
-          <mxGeometry x="0.0456" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-7" value="是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="100" height="100" as="geometry" />
         </mxCell>
@@ -618,6 +613,9 @@
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="638" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-20" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="384" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
