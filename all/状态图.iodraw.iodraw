@@ -717,6 +717,9 @@
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ms1iKsnOhCvTk5u4CT9C-2" target="Ms1iKsnOhCvTk5u4CT9C-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ms1iKsnOhCvTk5u4CT9C-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ms1iKsnOhCvTk5u4CT9C-2" target="Ms1iKsnOhCvTk5u4CT9C-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-2" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="308" width="41" height="82" as="geometry" />
         </mxCell>
@@ -724,19 +727,19 @@
           <mxGeometry x="149" y="135" width="696" height="464" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-5" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="167" width="110.01" height="63" as="geometry" />
+          <mxGeometry x="229" y="153" width="110.01" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-6" value="员工管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="308" width="113.51" height="65" as="geometry" />
+          <mxGeometry x="274" y="310" width="113.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-7" value="班级管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424.24" y="322" width="106.52" height="61" as="geometry" />
+          <mxGeometry x="452" y="364" width="106.52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-8" value="部门管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="269" width="110.01" height="63" as="geometry" />
+          <mxGeometry x="374" y="194" width="110.01" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-10" value="学员管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350.75" y="434" width="113.51" height="65" as="geometry" />
+          <mxGeometry x="368" y="403" width="113.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ms1iKsnOhCvTk5u4CT9C-11" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553.75" y="468" width="113.51" height="65" as="geometry" />
