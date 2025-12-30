@@ -644,20 +644,32 @@
         <mxCell id="vrZN185V1FmAEXoqy9XK-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;部门管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89.99666666666668" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZN185V1FmAEXoqy9XK-26" target="vrZN185V1FmAEXoqy9XK-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.9966666666667" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZN185V1FmAEXoqy9XK-27" target="vrZN185V1FmAEXoqy9XK-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;班级管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331.6666666666667" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZN185V1FmAEXoqy9XK-29" target="vrZN185V1FmAEXoqy9XK-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="589.9966666666667" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="vrZN185V1FmAEXoqy9XK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZN185V1FmAEXoqy9XK-30" target="vrZN185V1FmAEXoqy9XK-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="459.99666666666667" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="770" width="92" height="50" as="geometry" />
+          <mxGeometry x="333" y="820" width="92" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
