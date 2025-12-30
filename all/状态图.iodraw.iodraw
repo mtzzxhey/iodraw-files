@@ -624,7 +624,7 @@
           <mxGeometry x="250" y="243.11111111111111" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;部门管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="89.99666666666668" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+          <mxGeometry x="89.99666666666668" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209.9966666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
@@ -633,7 +633,7 @@
           <mxGeometry x="332.99666666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="639.9966666666667" y="640.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
+          <mxGeometry x="589.9966666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="vrZN185V1FmAEXoqy9XK-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="459.99666666666667" y="570.0033333333333" width="93.33333333333333" height="46.666666666666664" as="geometry" />
