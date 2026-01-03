@@ -1432,22 +1432,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-11" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="199" width="76" height="49" as="geometry" />
+          <mxGeometry x="683" y="205" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-12" value="违纪扣分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="127" width="76" height="49" as="geometry" />
+          <mxGeometry x="565" y="118" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-13" value="班级ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="123" width="76" height="49" as="geometry" />
+          <mxGeometry x="479" y="140" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDlCTqbqjdHnWILmhuP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0RDlCTqbqjdHnWILmhuP-14" target="0RDlCTqbqjdHnWILmhuP-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-14" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="183" width="76" height="49" as="geometry" />
+          <mxGeometry x="427" y="189" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-15" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="308" width="76" height="49" as="geometry" />
+          <mxGeometry x="680" y="289" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-16" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="100" width="76" height="49" as="geometry" />
+          <mxGeometry x="651" y="140" width="76" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
