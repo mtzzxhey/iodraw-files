@@ -1477,19 +1477,19 @@
           <mxGeometry x="363" y="423" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-29" value="员工ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33" y="357" width="76" height="49" as="geometry" />
+          <mxGeometry x="55" y="399" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-30" value="开课时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="487" width="76" height="49" as="geometry" />
+          <mxGeometry x="145" y="511" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-31" value="班级名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="478" width="76" height="49" as="geometry" />
+          <mxGeometry x="331" y="511" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-32" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="487" width="76" height="49" as="geometry" />
+          <mxGeometry x="229" y="511" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-33" value="教室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="503" width="76" height="49" as="geometry" />
+          <mxGeometry x="51" y="472" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-34" value="入职时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="434" width="76" height="49" as="geometry" />
