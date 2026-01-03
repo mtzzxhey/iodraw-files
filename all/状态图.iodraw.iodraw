@@ -1437,14 +1437,14 @@
         <mxCell id="0RDlCTqbqjdHnWILmhuP-12" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="81" width="76" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0RDlCTqbqjdHnWILmhuP-13" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0RDlCTqbqjdHnWILmhuP-13" value="班级ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="81" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-14" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="154" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-15" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="165" width="76" height="49" as="geometry" />
+          <mxGeometry x="674" y="308" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0RDlCTqbqjdHnWILmhuP-16" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="674" y="100" width="76" height="49" as="geometry" />
