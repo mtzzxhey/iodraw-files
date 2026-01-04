@@ -901,8 +901,11 @@
         <mxCell id="wIOPa8nLI20EXKIVF0Dg-1" value="界面层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wIOPa8nLI20EXKIVF0Dg-4" value="界面层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIOPa8nLI20EXKIVF0Dg-4" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wIOPa8nLI20EXKIVF0Dg-5" value="数据访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
