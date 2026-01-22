@@ -614,7 +614,7 @@
           <mxGeometry x="230" y="175" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-390" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="70" width="100" height="50" as="geometry" />
+          <mxGeometry x="560" y="180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-391" value="家具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="360" width="100" height="50" as="geometry" />
@@ -650,6 +650,9 @@
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-399" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-406" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
