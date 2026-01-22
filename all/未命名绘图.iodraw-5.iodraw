@@ -647,6 +647,11 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-391" target="NLvdQY7W23EZxx2gAdFu-439">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-444" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLvdQY7W23EZxx2gAdFu-440">
+          <mxGeometry x="-0.3486" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-391" value="家具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="400" width="100" height="50" as="geometry" />
         </mxCell>
@@ -758,6 +763,11 @@
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-439" target="NLvdQY7W23EZxx2gAdFu-438">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-442" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLvdQY7W23EZxx2gAdFu-441">
+          <mxGeometry x="0.071" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-439" value="加入购物车" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="395" width="80" height="60" as="geometry" />
