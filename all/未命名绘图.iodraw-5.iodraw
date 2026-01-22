@@ -647,6 +647,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-392" target="NLvdQY7W23EZxx2gAdFu-426">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-392" value="工厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="100" height="50" as="geometry" />
         </mxCell>
@@ -671,7 +674,7 @@
           <mxGeometry x="380" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-397" value="工厂产能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="570" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-398" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1069" y="300" width="100" height="50" as="geometry" />
@@ -712,8 +715,11 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-419" value="生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="395" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-428" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-426" target="NLvdQY7W23EZxx2gAdFu-397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-426" value="具备产能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="590" width="80" height="60" as="geometry" />
+          <mxGeometry x="200" y="500" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
