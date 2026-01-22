@@ -1012,13 +1012,13 @@
           <mxGeometry x="365" y="960" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-540" value="认证等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="990" width="85" height="50" as="geometry" />
+          <mxGeometry x="535" y="1000" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-541" value="认证类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="980" width="85" height="50" as="geometry" />
+          <mxGeometry x="650" y="970" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-542" value="认证说明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="920" width="85" height="50" as="geometry" />
+          <mxGeometry x="677.5" y="900" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-546" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-393" target="NLvdQY7W23EZxx2gAdFu-540">
           <mxGeometry relative="1" as="geometry" />
@@ -1072,6 +1072,15 @@
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-565" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="890" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-566" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-567" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="730" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-568" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="710" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
