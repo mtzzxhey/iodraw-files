@@ -712,6 +712,9 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-419" value="生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="395" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-426" value="具备产能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
