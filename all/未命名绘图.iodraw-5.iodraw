@@ -753,6 +753,9 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-438" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="400" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-439" value="加入购物车" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="395" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
