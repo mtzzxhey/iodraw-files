@@ -698,7 +698,7 @@
           <mxGeometry x="190" y="600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-398" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="1020" y="600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-399" target="NLvdQY7W23EZxx2gAdFu-396">
           <mxGeometry relative="1" as="geometry" />
@@ -783,7 +783,7 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-445" target="NLvdQY7W23EZxx2gAdFu-394">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-449" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLvdQY7W23EZxx2gAdFu-447">
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-449" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLvdQY7W23EZxx2gAdFu-447">
           <mxGeometry x="-0.3239" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
