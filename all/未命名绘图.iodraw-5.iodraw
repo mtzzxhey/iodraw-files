@@ -1092,25 +1092,25 @@
           <mxGeometry x="170" y="345" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-574" value="家具描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="690" width="85" height="50" as="geometry" />
+          <mxGeometry x="172.5" y="420" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-575" value="图片URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="690" width="85" height="50" as="geometry" />
+          <mxGeometry x="390" y="330" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-576" value="家具名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="330" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-577" value="单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="780" width="85" height="50" as="geometry" />
+          <mxGeometry x="220" y="540" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-578" value="所属商家ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="870" width="85" height="50" as="geometry" />
+          <mxGeometry x="320" y="615" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-579" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="780" width="85" height="50" as="geometry" />
+          <mxGeometry x="305" y="575" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-580" value="家具类别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="870" width="85" height="50" as="geometry" />
+          <mxGeometry x="440" y="565" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
