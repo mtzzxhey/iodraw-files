@@ -652,7 +652,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-391" target="NLvdQY7W23EZxx2gAdFu-463">
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-466" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-391" target="NLvdQY7W23EZxx2gAdFu-463">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-468" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NLvdQY7W23EZxx2gAdFu-466">
@@ -779,9 +779,6 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-470" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-433" target="NLvdQY7W23EZxx2gAdFu-398">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-433" value="认证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="550" width="80" height="60" as="geometry" />
         </mxCell>
@@ -825,7 +822,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-463" value="引用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="520" width="80" height="60" as="geometry" />
+          <mxGeometry x="750" y="520" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
