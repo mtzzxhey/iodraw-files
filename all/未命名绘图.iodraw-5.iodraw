@@ -1064,20 +1064,14 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-561" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.829;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-554" target="NLvdQY7W23EZxx2gAdFu-392">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-563" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-563" value="工厂ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-564" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="840" width="85" height="50" as="geometry" />
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-564" value="家具类别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="890" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-565" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="890" width="85" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-566" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="800" width="85" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-567" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="730" width="85" height="50" as="geometry" />
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-565" value="最大产能（件数）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="840" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-568" value="主键ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="710" width="85" height="50" as="geometry" />
