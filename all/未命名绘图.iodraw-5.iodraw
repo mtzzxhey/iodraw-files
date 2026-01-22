@@ -659,7 +659,7 @@
           <mxGeometry x="190" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-393" value="认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="560" width="100" height="50" as="geometry" />
+          <mxGeometry x="560" y="590" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-394" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="100" height="50" as="geometry" />
