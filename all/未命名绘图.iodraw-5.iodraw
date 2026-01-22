@@ -842,14 +842,17 @@
         <mxCell id="NLvdQY7W23EZxx2gAdFu-475" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="560" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NLvdQY7W23EZxx2gAdFu-476" value="主键ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="85" height="50" as="geometry" />
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-476" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-477" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="85" height="50" as="geometry" />
+          <mxGeometry x="140" y="280" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLvdQY7W23EZxx2gAdFu-481" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NLvdQY7W23EZxx2gAdFu-477" target="NLvdQY7W23EZxx2gAdFu-477">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NLvdQY7W23EZxx2gAdFu-482" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
