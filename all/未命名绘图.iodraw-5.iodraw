@@ -1299,10 +1299,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CXcmiGLgzRQHb4dcABcc-2" value="溯源证管理流程图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="500" width="188" height="48" as="geometry" />
+          <mxGeometry x="400" y="490" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-3" value="溯源证类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="382" y="598" width="140" height="48" as="geometry" />
+          <mxGeometry x="424" y="588" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-4" value="检疫证管理&#xa;quarantine_certificate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="697" width="222" height="66" as="geometry" />
@@ -1325,22 +1325,12 @@
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1230" width="170" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="CXcmiGLgzRQHb4dcABcc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-2" target="CXcmiGLgzRQHb4dcABcc-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.02;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-4" target="CXcmiGLgzRQHb4dcABcc-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0.02;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-6" target="CXcmiGLgzRQHb4dcABcc-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CXcmiGLgzRQHb4dcABcc-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.02;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-5" target="CXcmiGLgzRQHb4dcABcc-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
