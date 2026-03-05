@@ -1313,6 +1313,9 @@
         <mxCell id="CXcmiGLgzRQHb4dcABcc-3" value="溯源证类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="424" y="588" width="140" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="CXcmiGLgzRQHb4dcABcc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-4" target="CXcmiGLgzRQHb4dcABcc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-4" value="检疫证管理&#xa;quarantine_certificate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="697" width="222" height="66" as="geometry" />
         </mxCell>
@@ -1326,7 +1329,7 @@
           <mxGeometry x="240.25" y="970" width="179.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-8" value="1. 上传质检报告&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 填写报告编号&#xa;- 设置有效期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="547" y="813" width="210" height="88" as="geometry" />
+          <mxGeometry x="554" y="814" width="210" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-9" value="2. 质检报告使用&#xa;- 商品上架时检查&#xa;- 有效期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="547" y="970" width="193" height="110" as="geometry" />
@@ -1334,18 +1337,11 @@
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1151" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CXcmiGLgzRQHb4dcABcc-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.02;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-4" target="CXcmiGLgzRQHb4dcABcc-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CXcmiGLgzRQHb4dcABcc-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0.02;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-6" target="CXcmiGLgzRQHb4dcABcc-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="434" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CXcmiGLgzRQHb4dcABcc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-5" target="CXcmiGLgzRQHb4dcABcc-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
