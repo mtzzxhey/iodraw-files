@@ -1294,7 +1294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ORefDTZidx_Bux0AmQ2g" name="第 16 页">
-    <mxGraphModel dx="1776" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1332,7 +1332,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-7" value="2. 检疫证使用&#xa;- 订单配送时关联&#xa;- 用户查看溯源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240.25" y="970" width="179.5" height="100" as="geometry" />
+          <mxGeometry x="240.25" y="970" width="179.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-8" value="1. 上传质检报告&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 填写报告编号&#xa;- 设置有效期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="554" y="814" width="210" height="88" as="geometry" />
