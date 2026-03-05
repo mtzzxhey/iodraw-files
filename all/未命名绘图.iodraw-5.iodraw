@@ -1294,7 +1294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ORefDTZidx_Bux0AmQ2g" name="第 16 页">
-    <mxGraphModel dx="1503" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="850" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1335,7 +1335,7 @@
           <mxGeometry x="554" y="814" width="210" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-9" value="2. 质检报告使用&#xa;- 商品上架时检查&#xa;- 有效期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="965" width="193" height="110" as="geometry" />
+          <mxGeometry x="551.5" y="960" width="193" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1151" width="180" height="90" as="geometry" />
@@ -1344,6 +1344,9 @@
           <mxGeometry x="434" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-5" target="CXcmiGLgzRQHb4dcABcc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CXcmiGLgzRQHb4dcABcc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.573;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-8" target="CXcmiGLgzRQHb4dcABcc-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
