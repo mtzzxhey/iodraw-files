@@ -1317,13 +1317,13 @@
           <mxGeometry x="301" y="892" width="139" height="58" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-8" value="1. 上传质检报告&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 填写报告编号&#xa;- 设置有效期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="543" y="812" width="60" height="30" as="geometry" />
+          <mxGeometry x="543" y="812" width="177" height="98" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-9" value="2. 质检报告使用&#xa;- 商品上架时检查&#xa;- 有效期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="543" y="892" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="970" width="197" height="148" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="972" width="170" height="148" as="geometry" />
+          <mxGeometry x="400" y="1230" width="170" height="148" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-2" target="CXcmiGLgzRQHb4dcABcc-3">
           <mxGeometry relative="1" as="geometry">
