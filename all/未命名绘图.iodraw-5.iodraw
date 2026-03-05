@@ -1311,10 +1311,10 @@
           <mxGeometry x="492" y="697" width="163" height="66" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-6" value="1. 上传检疫证&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 选择日期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="812" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="782" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-7" value="2. 检疫证使用&#xa;- 订单配送时关联&#xa;- 用户查看溯源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="892" width="60" height="30" as="geometry" />
+          <mxGeometry x="301" y="892" width="139" height="58" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-8" value="1. 上传质检报告&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 填写报告编号&#xa;- 设置有效期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="543" y="812" width="60" height="30" as="geometry" />
@@ -1323,7 +1323,7 @@
           <mxGeometry x="543" y="892" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="972" width="170" height="168" as="geometry" />
+          <mxGeometry x="360" y="972" width="170" height="148" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-2" target="CXcmiGLgzRQHb4dcABcc-3">
           <mxGeometry relative="1" as="geometry">
