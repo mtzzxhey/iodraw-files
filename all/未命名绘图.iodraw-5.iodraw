@@ -1341,7 +1341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-9" value="2. 质检报告使用&#xa;- 商品上架时检查&#xa;- 有效期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="551.5" y="970" width="193" height="110" as="geometry" />
+          <mxGeometry x="551.5" y="970" width="198.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-10" target="CXcmiGLgzRQHb4dcABcc-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1359,7 +1359,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="659" y="902" as="sourcePoint" />
             <mxPoint x="662" y="1024" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="651" y="903" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-35" target="CXcmiGLgzRQHb4dcABcc-2">
