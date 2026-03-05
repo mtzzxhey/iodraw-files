@@ -1314,7 +1314,7 @@
           <mxGeometry x="220" y="812" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-7" value="2. 检疫证使用&#xa;- 订单配送时关联&#xa;- 用户查看溯源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="950" width="179.5" height="100" as="geometry" />
+          <mxGeometry x="240.25" y="970" width="179.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-8" value="1. 上传质检报告&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 填写报告编号&#xa;- 设置有效期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="543" y="812" width="177" height="98" as="geometry" />
@@ -1330,12 +1330,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CXcmiGLgzRQHb4dcABcc-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-3" target="CXcmiGLgzRQHb4dcABcc-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="331" y="672" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CXcmiGLgzRQHb4dcABcc-12" value="" style="startArrow=none;endArrow=block;exitX=0.08;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-3" target="CXcmiGLgzRQHb4dcABcc-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-3" target="CXcmiGLgzRQHb4dcABcc-5">
           <mxGeometry relative="1" as="geometry">
