@@ -1322,6 +1322,9 @@
         <mxCell id="CXcmiGLgzRQHb4dcABcc-5" value="质检报告管理&#xa;quality_report" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="546" y="690" width="204" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="CXcmiGLgzRQHb4dcABcc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXcmiGLgzRQHb4dcABcc-6" target="CXcmiGLgzRQHb4dcABcc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-6" value="1. 上传检疫证&#xa;- 选择供应商&#xa;- 选择商品&#xa;- 选择日期&#xa;- 上传图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="812" width="220" height="90" as="geometry" />
         </mxCell>
@@ -1332,7 +1335,7 @@
           <mxGeometry x="554" y="814" width="210" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-9" value="2. 质检报告使用&#xa;- 商品上架时检查&#xa;- 有效期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="547" y="970" width="193" height="110" as="geometry" />
+          <mxGeometry x="540" y="965" width="193" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CXcmiGLgzRQHb4dcABcc-10" value="3. 溯源查询&#xa;- 扫码溯源&#xa;- 订单详情查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1151" width="180" height="90" as="geometry" />
