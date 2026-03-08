@@ -1613,10 +1613,7 @@
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-4" value="用户（商家）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="660" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-5" target="z-d_cBAxfuFAI8SVLG25-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
@@ -1698,9 +1695,6 @@
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-34" value="加入购物车" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="510" y="250" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-37" value="认证" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
