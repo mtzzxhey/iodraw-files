@@ -1616,7 +1616,7 @@
           <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-6" value="工厂产能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
@@ -1640,7 +1640,7 @@
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-10" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-11" value="收获地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
@@ -1716,6 +1716,9 @@
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-50" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-51" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
