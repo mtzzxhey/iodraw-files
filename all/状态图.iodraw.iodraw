@@ -1603,6 +1603,9 @@
         <mxCell id="z-d_cBAxfuFAI8SVLG25-2" value="系统配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-3" target="z-d_cBAxfuFAI8SVLG25-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-3" value="工厂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1642,8 +1645,11 @@
         <mxCell id="z-d_cBAxfuFAI8SVLG25-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="296" y="118" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-17" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="100" height="80" as="geometry" />
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-17" target="z-d_cBAxfuFAI8SVLG25-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-17" value="具备产能" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
