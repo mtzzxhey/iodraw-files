@@ -1626,23 +1626,8 @@
         <mxCell id="nf0SUAWHbWq06h39GenN-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.264;entryY=0.962;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6" target="nf0SUAWHbWq06h39GenN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nf0SUAWHbWq06h39GenN-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6" target="nf0SUAWHbWq06h39GenN-15">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550.4438279205804" y="509.91012467292876" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nf0SUAWHbWq06h39GenN-6" value="系统配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="423" y="390" width="120" height="60" as="geometry" />
@@ -1671,16 +1656,10 @@
         <mxCell id="nf0SUAWHbWq06h39GenN-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.067;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6" target="nf0SUAWHbWq06h39GenN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.021;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6">
+        <mxCell id="nf0SUAWHbWq06h39GenN-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.721;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="712.0999999999999" y="518.56" as="targetPoint" />
+            <mxPoint x="782.0999999999999" y="427.44000000000005" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-25" value="小计金额" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="216" y="465" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.721;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6" target="nf0SUAWHbWq06h39GenN-25">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
