@@ -1618,8 +1618,8 @@
         <mxCell id="z-d_cBAxfuFAI8SVLG25-6" value="工厂产能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-7" value="工厂产能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-7" value="家具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-8" value="认证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
@@ -1656,6 +1656,9 @@
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-21" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-22" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
