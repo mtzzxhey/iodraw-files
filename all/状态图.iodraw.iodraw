@@ -1794,6 +1794,9 @@
         <mxCell id="DWSH463ka3cYlGoJNDZA-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.194;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DWSH463ka3cYlGoJNDZA-4" target="DWSH463ka3cYlGoJNDZA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DWSH463ka3cYlGoJNDZA-6" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
