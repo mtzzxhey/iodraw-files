@@ -1621,7 +1621,7 @@
         <mxCell id="z-d_cBAxfuFAI8SVLG25-6" value="工厂产能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-7" target="z-d_cBAxfuFAI8SVLG25-27">
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-7" target="z-d_cBAxfuFAI8SVLG25-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-7" target="z-d_cBAxfuFAI8SVLG25-34">
@@ -1634,7 +1634,7 @@
           <mxGeometry x="180" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-9" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="820" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-10" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="800" y="660" width="120" height="60" as="geometry" />
