@@ -1640,7 +1640,7 @@
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-10" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="800" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-11" value="收获地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
