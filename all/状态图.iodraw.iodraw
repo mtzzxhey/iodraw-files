@@ -1580,13 +1580,13 @@
           <mxGeometry x="740" y="384" width="100" height="59" as="geometry" />
         </mxCell>
         <mxCell id="tUdZYs7PvVmmyr5eQ947-20" value="家具类别" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="200" y="501" width="100" height="60" as="geometry" />
+          <mxGeometry x="223" y="491" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUdZYs7PvVmmyr5eQ947-21" value="定制类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="328" y="501" width="100" height="60" as="geometry" />
+          <mxGeometry x="335" y="554" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUdZYs7PvVmmyr5eQ947-22" value="是否二手" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="443" y="501" width="100" height="60" as="geometry" />
+          <mxGeometry x="453" y="561" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUdZYs7PvVmmyr5eQ947-23" value="二手质检等级" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="558" y="501" width="100" height="60" as="geometry" />
@@ -1594,7 +1594,7 @@
         <mxCell id="tUdZYs7PvVmmyr5eQ947-24" value="绿色认证ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="680" y="516" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tUdZYs7PvVmmyr5eQ947-25" value="家具类别" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="tUdZYs7PvVmmyr5eQ947-25" value="合作工厂ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="200" y="591" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
