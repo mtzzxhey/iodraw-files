@@ -1603,7 +1603,7 @@
         <mxCell id="z-d_cBAxfuFAI8SVLG25-2" value="系统配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-d_cBAxfuFAI8SVLG25-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-3" target="z-d_cBAxfuFAI8SVLG25-17">
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z-d_cBAxfuFAI8SVLG25-3" target="z-d_cBAxfuFAI8SVLG25-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-3" value="工厂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
