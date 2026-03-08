@@ -1718,7 +1718,7 @@
           <mxGeometry x="430" y="366" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-47" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="30" height="30" as="geometry" />
+          <mxGeometry x="480" y="340" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-50" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="40" height="30" as="geometry" />
@@ -1746,6 +1746,12 @@
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-63" value="收获地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="770" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-64" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="825" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-d_cBAxfuFAI8SVLG25-65" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="450" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
