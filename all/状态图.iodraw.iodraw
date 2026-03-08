@@ -1564,8 +1564,8 @@
         <mxCell id="tUdZYs7PvVmmyr5eQ947-14" value="单价" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="740" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tUdZYs7PvVmmyr5eQ947-15" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="750" y="476" width="100" height="60" as="geometry" />
+        <mxCell id="tUdZYs7PvVmmyr5eQ947-15" value="所属商家ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="747" y="462" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUdZYs7PvVmmyr5eQ947-16" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="100" height="60" as="geometry" />
