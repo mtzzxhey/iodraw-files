@@ -1785,8 +1785,11 @@
         <mxCell id="DWSH463ka3cYlGoJNDZA-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.706;exitY=0.943;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="DWSH463ka3cYlGoJNDZA-2" target="DWSH463ka3cYlGoJNDZA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DWSH463ka3cYlGoJNDZA-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DWSH463ka3cYlGoJNDZA-2" value="主键ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWSH463ka3cYlGoJNDZA-4" value="管理员账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
