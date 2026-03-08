@@ -1638,7 +1638,7 @@
         <mxCell id="nf0SUAWHbWq06h39GenN-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-6" target="nf0SUAWHbWq06h39GenN-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="nf0SUAWHbWq06h39GenN-6" value="收货地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="423" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nf0SUAWHbWq06h39GenN-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.706;exitY=0.943;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-8" target="nf0SUAWHbWq06h39GenN-6">
@@ -1647,13 +1647,13 @@
         <mxCell id="nf0SUAWHbWq06h39GenN-8" value="主键ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-9" value="管理员账号" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="nf0SUAWHbWq06h39GenN-9" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nf0SUAWHbWq06h39GenN-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.573;exitY=0.971;exitDx=0;exitDy=0;entryX=0.194;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="nf0SUAWHbWq06h39GenN-9" target="nf0SUAWHbWq06h39GenN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nf0SUAWHbWq06h39GenN-11" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="nf0SUAWHbWq06h39GenN-11" value="收货人姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nf0SUAWHbWq06h39GenN-12" value="姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
