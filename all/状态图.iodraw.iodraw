@@ -1598,7 +1598,7 @@
           <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-2" value="系统配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-d_cBAxfuFAI8SVLG25-3" value="工厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
