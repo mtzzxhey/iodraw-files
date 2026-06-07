@@ -37,7 +37,10 @@
           <mxGeometry x="280" y="170" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-17" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#FF1303;" vertex="1" parent="1">
-          <mxGeometry x="214" y="130" width="28" height="28" as="geometry" />
+          <mxGeometry x="236" y="63" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Msg86kjQp5RBPZ1EqJl_-18" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#FF1303;" vertex="1" parent="1">
+          <mxGeometry x="520" y="63" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
