@@ -46,11 +46,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Msg86kjQp5RBPZ1EqJl_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Msg86kjQp5RBPZ1EqJl_-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;strokeWidth=2;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="275" y="252" width="340" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-24" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#FF1303;" vertex="1" parent="1">
-          <mxGeometry x="236" y="220" width="28" height="28" as="geometry" />
+          <mxGeometry x="720" y="285.5" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
