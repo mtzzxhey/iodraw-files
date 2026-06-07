@@ -42,6 +42,9 @@
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-18" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#FF1303;" vertex="1" parent="1">
           <mxGeometry x="517" y="63" width="28" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="Msg86kjQp5RBPZ1EqJl_-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="500" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
