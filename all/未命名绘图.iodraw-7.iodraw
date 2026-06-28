@@ -54,7 +54,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Npua0Pqv_PLw920lH090-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Npua0Pqv_PLw920lH090-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
