@@ -64,7 +64,10 @@
           <mxGeometry x="632" y="43" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Npua0Pqv_PLw920lH090-14" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="419" y="460" width="25" height="25" as="geometry" />
+          <mxGeometry x="419" y="462" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Npua0Pqv_PLw920lH090-15" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="462" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
