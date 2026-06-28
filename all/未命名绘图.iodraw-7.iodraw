@@ -83,10 +83,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Npua0Pqv_PLw920lH090-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="Npua0Pqv_PLw920lH090-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Npua0Pqv_PLw920lH090-14">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="460" y="440" as="sourcePoint" />
-            <mxPoint x="479" y="462" as="targetPoint" />
+            <mxPoint x="443" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
