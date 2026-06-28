@@ -57,6 +57,9 @@
         <mxCell id="Npua0Pqv_PLw920lH090-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=90;strokeWidth=2;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="326" y="144" width="324" height="224" as="geometry" />
         </mxCell>
+        <mxCell id="Npua0Pqv_PLw920lH090-12" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
