@@ -23,11 +23,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Npua0Pqv_PLw920lH090-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#ff0000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="Npua0Pqv_PLw920lH090-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#ff0000;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="280" y="70" as="sourcePoint" />
             <mxPoint x="410" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Npua0Pqv_PLw920lH090-6" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
