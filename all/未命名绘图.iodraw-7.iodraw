@@ -69,10 +69,17 @@
         <mxCell id="Npua0Pqv_PLw920lH090-15" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="654" y="464" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Npua0Pqv_PLw920lH090-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=openThin;endFill=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="Npua0Pqv_PLw920lH090-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="441" y="63" as="sourcePoint" />
             <mxPoint x="450" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Npua0Pqv_PLw920lH090-17" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="451" y="73" as="sourcePoint" />
+            <mxPoint x="460" y="90" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
