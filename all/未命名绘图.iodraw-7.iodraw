@@ -50,9 +50,12 @@
         <mxCell id="Npua0Pqv_PLw920lH090-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=2;endArrow=none;endFill=0;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Npua0Pqv_PLw920lH090-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
