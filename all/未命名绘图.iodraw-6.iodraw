@@ -83,9 +83,10 @@
             <mxPoint x="480" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xbf3NYWwf63UJsByUiS1-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xbf3NYWwf63UJsByUiS1-9">
-          <mxGeometry x="0.2388" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="xbf3NYWwf63UJsByUiS1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660.3466666666667" y="270" as="targetPoint" />
+            <mxPoint x="660" y="425" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
