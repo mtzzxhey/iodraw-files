@@ -32,23 +32,8 @@
             <mxPoint x="270" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Msg86kjQp5RBPZ1EqJl_-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#ff0000;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="340" as="targetPoint" />
-            <mxPoint x="615" y="252" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-24" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="720" y="285.5" width="28" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Msg86kjQp5RBPZ1EqJl_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#FF1303;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.9999999999998" y="340" as="targetPoint" />
-            <mxPoint x="800" y="340" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="790" y="340" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="xbf3NYWwf63UJsByUiS1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
