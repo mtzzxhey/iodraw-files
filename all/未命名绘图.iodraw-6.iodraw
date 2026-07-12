@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-17" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="236" y="63" width="28" height="28" as="geometry" />
+          <mxGeometry x="210" y="150" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Msg86kjQp5RBPZ1EqJl_-18" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="517" y="63" width="28" height="28" as="geometry" />
@@ -36,9 +36,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="421" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="265" y="350" />
-              <mxPoint x="241" y="350" />
-              <mxPoint x="241" y="421" />
+              <mxPoint x="270" y="350" />
+              <mxPoint x="240" y="350" />
             </Array>
             <mxPoint x="270" y="60" as="sourcePoint" />
           </mxGeometry>
