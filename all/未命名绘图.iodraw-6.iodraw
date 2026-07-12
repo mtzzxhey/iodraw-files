@@ -77,13 +77,13 @@
         <mxCell id="xbf3NYWwf63UJsByUiS1-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550.1666666666667" y="170" as="targetPoint" />
-            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xbf3NYWwf63UJsByUiS1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480.3466666666667" y="270" as="targetPoint" />
-            <mxPoint x="480" y="410" as="sourcePoint" />
+            <mxPoint x="470.3466666666667" y="270" as="targetPoint" />
+            <mxPoint x="470" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
